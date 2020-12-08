@@ -3,6 +3,4 @@
 We are currently working on it, please be patient, again.
 
 
-20201208 Good Luck :)
-
-good nice
+20201208
