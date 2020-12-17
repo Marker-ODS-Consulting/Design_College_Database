@@ -101,7 +101,7 @@ Instructions:
 **解读文章：**：[一起来看看皇艺RCA最新要求](http://www.makebi.net/38630.html)  
 **解读文章：**：[在皇艺学习产品设计的4个平台怎么选？](http://www.makebi.net/38830.html)  
 **相关文章：**：[让人惊叹的动手能力，皇艺的外国学生是如何做设计的](http://www.makebi.net/38406.html)  
-**相关视频：**：[马克笔哔哩哔哩视频链接](https://www.bilibili.com/video/av22598242)  
+**相关视频：**：[哔哩哔哩视频链接](https://www.bilibili.com/video/av22598242)  
 
 
 
