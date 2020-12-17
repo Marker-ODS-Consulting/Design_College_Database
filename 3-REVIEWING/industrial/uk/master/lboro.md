@@ -1,4 +1,4 @@
-## 拉夫堡大学 | MA Industrial Design
+## 拉夫堡大学 | MSc Integrated Industrial Design
 
 2020年QS世界综合排名：222
 2020年QS设计艺术排名：24
@@ -9,7 +9,7 @@
 **院校**：Loughborough University  
 **学位**：MSc Integrated Industrial Design   
 **学制**：1年  
-**费用**：23500英镑/年  
+**费用**：23500 英镑/年  
 **语言**：IELTS总分6.5，单科不低于6.0  
 **申请时间**：/  
 **申请文件**： /  
@@ -46,5 +46,5 @@
 
 
 #### 编辑历史
-
+Yuan 20201217 已校对
 Natt 20201217 初次建立编辑  
