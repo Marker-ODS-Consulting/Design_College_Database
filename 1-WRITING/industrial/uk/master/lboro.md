@@ -15,7 +15,7 @@
 **申请文件**： /  
 **作品集要求原文：**   
 
->	You will develop skills in producing a balanced portfolio of high quality designs and innovative thinking, enabling you to deal with complex and interrelated issues, both analytically and creatively.
+>	A portfolio providing evidence of experiential learning and/or practice, with clear evidence of physical prototyping capability at an appropriate standard is required..
 
 
 ---
