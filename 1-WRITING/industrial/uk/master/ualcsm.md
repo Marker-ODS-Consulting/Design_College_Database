@@ -43,7 +43,7 @@ Your portfolio should demonstrate your ability to skilfully generate and communi
 
 ### 2. 翻译与解读：
 
-##### 作品集要求提取：
+##### 作品集要求解读：
 - 30 页 ，但因为视频的提交需要占用一个 Images Slot, 所以实际上作品集只能29 页
 
 
