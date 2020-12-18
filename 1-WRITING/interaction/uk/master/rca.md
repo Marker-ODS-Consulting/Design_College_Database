@@ -1,15 +1,15 @@
-## 皇家艺术学院 | MA Design Products
+## 皇家艺术学院 | MA Digital Direction
 
 2020年QS世界设计艺术排名: 1  
 
 ### 1. 官网相关信息：
 
 **院校**：Royal College of Art  
-**学位**：MA Design Products  
-**学制**：2 年  
-**费用**：28400英镑/年  
+**学位**：MA Digital Direction  
+**学制**：15个月  
+**费用**：34850英镑/年  
 **语言**：IELTS总分6.5，单科6.0  
-**申请时间**：10月28日（第一批）  
+**申请时间**：11月15日截止（第一批）；3月5日（第二批）  
 **申请文件**： 待更新  
 **作品集要求原文：**   
 
@@ -17,7 +17,7 @@
 > - Ability to articulate the intentions of the work  
 > - Intellectual engagement in areas relevant to the work  
 > - Technical skills appropriate to the work
-> - Potential to benefit from the programme    
+> - Potential to benefit from the program   
 
 
 
@@ -25,9 +25,6 @@
 
 
 
-> In your video, please explain your motivation to be a service designer and provide an example of your favourite service expe-rience. Please then describe an aspect of service design you are most passionate about. Finally, brieﬂy describe your favourite project in your portfolio and describe why you chose it.
->
-> This will be a chance to showcase your understanding of service design, your passion to study at a Masters level and your ability to communicate the value and impact of your work.
 
 > -  Your video does not need to be professionally shot and you may use the best resource available to you; we are not assessing the technical quality of this video
 > -  You must be visible in the video and communicate verbally*.
