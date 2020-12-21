@@ -1,10 +1,10 @@
-## 伦敦艺术学院-切尔西艺术设计学院 | MA Interior & Spatial Design
+## 伦敦艺术学院-坎伯韦尔艺术与设计学院 | MA Interior & Spatial Design
 
 2020年QS世界设计艺术排名: 2  
 
 ### 1. 官网相关信息：
 
-**院校**：Chelsea College of Art and Design  
+**院校**：Camberwell College of Arts
 **学位**：MA Interior & Spatial Design  
 **学制**：1 年  
 **费用**：25880英镑/年  
@@ -18,6 +18,17 @@ The portfolio should show the following:
 > - An engagement with the critical debate surrounding contemporary interior and spatial design practice through writing or other creative practice
 > - Evidence of approaches to research, design thinking and experimentation
 
+**个人陈述要求原文：**
+This should be about 500 words long and include:
+> - Your reasons for choosing the course
+> - Your current creative practice and how this will help with your future plans
+> - If you do not have any formal academic qualifications please describe your relevant education and experience
+
+**2分钟视频要求原文：**
+As part of your application please include a 3 minute video. Within your video please take 90 seconds to show and describe for us the view from your window, then spend a further 90 seconds to explain how the view changes over time
+Within your video you must be visible, speak clearly in English and look towards the camera. Ensure you record yourself alone and the audio is clear
+Please ensure you read PebblePad's file uploads and limits when submitting your video. If you have declared a learning difference or a disability in your application you may submit an audio or written file if this task is not accessible to you
+
 
 ---
 
@@ -25,12 +36,16 @@ The portfolio should show the following:
 ### 2. 翻译与解读：
 
 ##### 硬性要求提取：
-- 作品集无硬性要求，但是从学校提出的五点“不太具体的要求”来看，你的作品集还是应该在展现出足够的创造力的前提下还要展示出相应的技术层面上的能力，比如动手能力，非常良好的图面表达能力等等。同时，你还要能清楚的表达出你的想法和意图。
+- 作品集无硬性要求，学校只给出了一个大的框架。主要展现如下几点：专业知识的体现，空间规划的能力，创造力的展现，设计思维与实践。
+
+- 动机信解读
+
+- 视频要求
+  - 3分钟的视频总共分为两部分，第一部分，你需要拍摄一个1分半钟的视频去展示你窗外的景色；第二部分，你再用剩下的1分钟去解释景色如何随时间而变化。
 
 
 ##### 软性要求解读：
-- 作品集方面没有明确的硬性要求。从作品集内容风格来说，没有伦艺那么的偏向艺术，相对比较落地的感觉。所以的你作品内容上，可以有一些比较落地的解决实际问题的项目，同时在包含一些比较偏向概念，创意性的项目。
-
+- 伦艺的作品集风格和其他院校差别比较大，非常喜欢骗艺术或者概念的作品，所以准备作品集的时候建议不宜太过落地的项目。
 ---
 
 
