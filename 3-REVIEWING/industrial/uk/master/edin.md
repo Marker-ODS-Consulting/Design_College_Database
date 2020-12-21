@@ -52,7 +52,7 @@
 **专业介绍：**[院校链接](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=951)  
 **语言课：** [院校链接](https://www.ed.ac.uk/english-language-teaching/ele-courses/team-test)  
 **申请要求：** [院校链接](https://www.ed.ac.uk/studying/international/postgraduate-entry/asia/china)  
-**课程安排：** [院校链接](http://www.drps.ed.ac.uk/18-19/dpt/ptmartdech1f.htm)
+
 
 
 **解读文章：**：[爱丁堡 MA Design for Change 申请中2分钟小视频准备思路](http://www.makebi.net/32431.html)
@@ -68,5 +68,5 @@
 
 
 #### 编辑历史
-
+Yuan 20201217已校对
 Natt 20201217 初次建立编辑  

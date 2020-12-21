@@ -54,7 +54,7 @@
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://www.shu.ac.uk/study-here/find-a-course/mamfa-design-product)  
+**专业介绍：**[院校链接](https://www.shu.ac.uk/courses/art-and-design/ma-design-product/full-time/2021)  
 **语言课：** [院校链接](https://www.shu.ac.uk/about-us/academic-departments/the-tesol-centre/entry-requirements-fees-start-dates-and-length-of-study)  
 **申请要求：** [院校链接](https://www.shu.ac.uk/international/country/china-and-east-asia/china/entry-requirements-china)  
 **课程安排：** [院校链接](https://www.shu.ac.uk/courses/art-and-design/ma-design-product/full-time)  
@@ -65,5 +65,5 @@
 
 
 #### 编辑历史
-
+Yuan 20201217 已校对
 Natt 20201217 初次建立编辑  
