@@ -6,7 +6,7 @@ QS世界综合排名：8
 
 **院校**：The Glasgow School of Art  
 **学位**：MDes Interior Design  
-**学制**：1 年  
+**学制**：1年  
 **费用**：19440英镑/年  
 **语言**：IELTS总分6.5，单科6.0
 **申请时间**：8月7日

@@ -11,7 +11,7 @@ QS世界设计艺术排名: 151-200
 **学制**：1年  
 **费用**：12800英镑  
 **语言**：IELTS总分6.0
-**申请时间**：
+**申请时间**：/
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历
 **作品集要求原文：**  
 Your portfolio will form the basis of your application’s evaluation and should include the following:
@@ -30,11 +30,12 @@ Your portfolio will form the basis of your application’s evaluation and should
 ### 2. 翻译与解读：
 
 ##### 硬性要求提取：
-- 页数和作品项目没有限制和具体要求，但是最终提交时每个项目一个单独的PDF文件，同时每个PDF文件不超过4MB.
+- 包含你的毕设项目
+- 大二到大四的其他项目
 
 
 ##### 软性要求解读：
-- 作品集方面没有明确的硬性要求。从作品集内容风格来说，没有伦艺那么的偏向艺术，相对比较落地的感觉。所以的你作品内容上，可以有一些比较落地的解决实际问题的项目，同时在包含一些比较偏向概念，创意性的项目。
+无具体要求
 
 ---
 

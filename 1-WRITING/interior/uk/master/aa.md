@@ -13,10 +13,13 @@ QS世界综合排名：/
 **申请时间**：1月25日（早申请截止）；3月8日（正常申请截止）
 **申请文件**：申请表+在读证明+成绩单+2封推荐信+作品集+动机信+个人简历
 **作品集要求原文：**  
-With the exception of History and Critical Thinking and PhD Research, all applicants must submit a hard copy, bound portfolio of design work, no larger than A4 format, showing a combination of both academic and professional work. The AA does not accept digital portfolios.
+The digital portfolio of art or design work should emphasise an applicant’s skills, interests, creativity and personality. Applicants to any of the taught postgraduate programmes should include in this document a range of both their academic and professional work. The portfolio should also show working processes (sketches, development drawings, models etc) rather than just final images.
 
-The portfolio should be clearly labelled with a completePortfolio Cover Sheet (PDF) and be addressed and sent to: Graduate Admissions, No 36 Bedford Square, London, WC1B 3ES.
+There is no single way of preparing a portfolio and each will be different. A panel will assess each submission. It is very important all applicants spend time preparing this document.
 
+The portfolio should be a single a PDF document of 20–30 pages and must be no more than 40MB in size. It must be clearly labelled with the full name of the applicant and the programme or course to which they are applying.
+
+Upon signature of the application form, applicants certify that the work submitted is entirely their own. Plagiarism is unacceptable in the academic setting and students are subject to penalties including dismissal from their programme, should they commit an act of plagiarism.
 
 
 
@@ -39,10 +42,10 @@ The portfolio should be clearly labelled with a completePortfolio Cover Sheet (P
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://www.aaschool.ac.uk/STUDY/GRADUATE/?name=aais)  
-**课程介绍：**[院校链接](https://www.aaschool.ac.uk/STUDY/GRADUATE/?name=aais)  
-**申请要求：**[院校链接](https://www.aaschool.ac.uk/APPLY/ADMISSIONS/postgradApp.php#2)         
-
+**专业介绍：**[院校链接](https://www.aaschool.ac.uk/academicprogrammes/postgraduate/spatial-performance-design)  
+**课程介绍：**[院校链接](https://www.aaschool.ac.uk/academicprogrammes/postgraduate/spatial-performance-design)  
+**申请要求：**[院校链接](https://www.aaschool.ac.uk/academicprogrammes/postgraduate/spatial-performance-design)         
+**相关视频：**[YouTube链接](https://www.youtube.com/watch?time_continue=73&v=LKgv4UOFTVI&feature=emb_logo)
 
 
 ---

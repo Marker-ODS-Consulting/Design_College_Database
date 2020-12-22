@@ -7,7 +7,7 @@ QS世界综合排名：20
 
 **院校**：The University of Edinburgh  
 **学位**：MA Interior Design  
-**学制**：1 年  
+**学制**：1年  
 **费用**：23950英镑/年  
 **语言**：IELTS总分7.0，单科6.0
 **申请时间**：截止到7月

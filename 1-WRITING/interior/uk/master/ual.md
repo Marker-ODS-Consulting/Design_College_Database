@@ -1,4 +1,4 @@
-## 伦敦艺术学院-坎伯韦尔艺术与设计学院 | MA Interior & Spatial Design
+## 伦敦艺术大学-坎伯韦尔艺术与设计学院 | MA Interior & Spatial Design
 
 2020年QS世界设计艺术排名: 2  
 
@@ -6,11 +6,11 @@
 
 **院校**：Camberwell College of Arts
 **学位**：MA Interior & Spatial Design  
-**学制**：1 年  
+**学制**：1年  
 **费用**：25880英镑/年  
 **语言**：IELTS总分6.5，单科5.5
-**申请时间**：
-**申请文件**： 成绩单+学位证明+英文成绩+作品集+个人陈述
+**申请时间**：/
+**申请文件**：成绩单+学位证明+英文成绩+作品集+个人陈述
 **作品集要求原文：**  
 The portfolio should show the following:
 > - Subject specific skills including architectural drawing, model making, computer aided design (CAD) or equivalent
@@ -42,6 +42,7 @@ Please ensure you read PebblePad's file uploads and limits when submitting your 
 
 - 视频要求
   - 3分钟的视频总共分为两部分，第一部分，你需要拍摄一个1分半钟的视频去展示你窗外的景色；第二部分，你再用剩下的1分钟去解释景色如何随时间而变化。
+  - 在视频中，你必须要处境，目视相机，用英语清晰的表述。视频必须是你独自完成，且声音清晰。
 
 
 ##### 软性要求解读：
