@@ -9,7 +9,7 @@ QS世界综合排名：8
 **学制**：1年  
 **费用**：19440英镑/年  
 **语言**：IELTS总分6.5，单科6.0
-**申请时间**：8月7日
+**申请时间**：[详见官方PDF内](https://www.gsa.ac.uk/media/1831921/sod-application-guide-2122-entry.pdf)
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历
 **作品集要求原文：**  
 The digital portfolio should:
