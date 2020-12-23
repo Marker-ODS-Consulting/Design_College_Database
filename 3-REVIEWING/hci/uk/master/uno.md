@@ -1,4 +1,4 @@
-## 诺丁汉大学 | MSc Human Computer Interaction 
+## 诺丁汉大学 | MSc Human Computer Interaction
 
 2020年QS世界综合院校排名: 96  
 
@@ -51,7 +51,7 @@ Human Computer Interaction MSc
 **课程介绍：** [院校链接](https://www.nottingham.ac.uk/pgstudy/courses/computer-science/human-computer-interaction-msc.aspx)  
 **申请要求：** [院校链接](https://www.nottingham.ac.uk/pgstudy/courses/computer-science/human-computer-interaction-msc.aspx)
 
- 
+
 **解读文章：**：[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
 **解读文章：**：[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
@@ -61,5 +61,5 @@ Human Computer Interaction MSc
 
 
 #### 编辑历史
-
+Yuan 20201222 已校对
 Cheng 20201218 初次建立  

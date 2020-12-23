@@ -1,4 +1,4 @@
-## 伯明翰大学 | Masters / MSc Human Computer Interaction 
+## 伯明翰大学 | Masters / MSc Human Computer Interaction
 
 2020年QS世界综合院校排名: 81  
 
@@ -14,8 +14,8 @@
 **作品集要求**：不强制要求提供  
 
 **Simple work：**  
-> If you are required to submit a piece of example work - usually a short written piece (common for programmes such as Creative Writing or English Literature); music composition or performance for those looking to study music related programmes - you will be notified by the academic tutor before they can assess and make a decision on your application. 
- 
+> If you are required to submit a piece of example work - usually a short written piece (common for programmes such as Creative Writing or English Literature); music composition or performance for those looking to study music related programmes - you will be notified by the academic tutor before they can assess and make a decision on your application.
+
 **专业描述：**   
 
 > You will have the opportunity to broaden your studies on our Human Computer Interaction Masters/MSc through an optional module in areas such as Robotics. The course builds upon the world-class research of the HCI Centre through project work and is designed to prepare you for a career in research or in industry or commerce.
@@ -44,7 +44,7 @@ Human Computer Interaction Masters / MSc
 - 作品集无硬性要求  
 
 ##### 课程设置解读：
-- 伯明翰大学教学目标包括能够创造性思考，这是为了构建创新解决新问题的方法和新兴应用领域;这一发展才能带动未来人机交互的发展而不仅仅是致力于解决当下的技术问题。
+- 伯明翰大学教学目标包括能够创造性思考，这是为了构建解决新问题的方法和新兴应用领域;这一发展才能带动未来人机交互的发展而不仅仅是致力于解决当下的技术问题。
 
 - 伯明翰大学人机交互的学科涉及很多方面，学生需要了解使用系统的人员及其能力和约束，了解如何构建真正有效的系统以及如何评估它们，还需要能够创造性地思考，以便为新问题和新兴应用程序和领域构建创新解决方案，以便能够解决未来世界的问题而不仅仅是今天的问题。
 
@@ -59,7 +59,7 @@ Human Computer Interaction Masters / MSc
 **课程介绍：** [院校链接](https://www.birmingham.ac.uk/postgraduate/courses/taught/computer-science/human-computer-interaction.aspx#CourseDetailsTab)  
 **申请要求：** [院校链接](https://www.birmingham.ac.uk/postgraduate/courses/taught/computer-science/human-computer-interaction.aspx#CourseDetailsTab)
 
- 
+
 **解读文章：**：[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
 **解读文章：**：[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
@@ -69,5 +69,5 @@ Human Computer Interaction Masters / MSc
 
 
 #### 编辑历史
-
+Yuan 20201222 已校对
 Cheng 20201218 初次建立  

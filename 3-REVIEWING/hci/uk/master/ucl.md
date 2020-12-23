@@ -1,4 +1,4 @@
-## 伦敦大学学院 | MSc Human Computer Interaction 
+## 伦敦大学学院 | MSc Human Computer Interaction
 
 2020年QS世界综合院校排名: 8          
 2020年QS世界设计艺术院校排名：36
@@ -12,7 +12,7 @@
 **费用**：28530英镑/年   
 **语言**：IELTS总分6.5，单科6.0  
 **申请时间**：9月1日-3月13日  
-**申请文件**： 学历证明+成绩单+个人陈述+推荐信+语言成绩+证明文件 
+**申请文件**： 学历证明+成绩单+个人陈述+推荐信+语言成绩+证明文件
 **作品集要求**：不强制要求提供  
 
 **课程描述：**   
@@ -50,7 +50,7 @@ Human Computer Interaction MSc
 **课程介绍：** [院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/human-computer-interaction-msc)  
 **申请要求：** [院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/human-computer-interaction-msc)
 
- 
+
 **解读文章：**：[伦敦大学院UCL人机交互专业最全申请攻略](http://www.makebi.net/28185.html)  
 **解读文章：**：[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
@@ -60,5 +60,5 @@ Human Computer Interaction MSc
 
 
 #### 编辑历史
-
+Yuan 20201222 已校对
 Cheng 20201218 初次建立  

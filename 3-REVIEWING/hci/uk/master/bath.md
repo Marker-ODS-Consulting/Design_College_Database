@@ -5,7 +5,7 @@
 ### 1. 官网相关信息：
 
 **院校**：University of Bath  
-**学位**：MSc Human Computer Interaction  
+**学位**：MSc in Human Computer Interaction  
 **学制**：1 年  
 **费用**：23900英镑/年  
 **语言**：IELTS总分6.5，单科6.0  
@@ -48,7 +48,7 @@ Human Computer Interaction MSc
 **课程介绍：** [院校链接](https://www.bath.ac.uk/courses/postgraduate-2019/taught-postgraduate-courses/msc-human-computer-interaction/#course-structure)  
 **申请要求：** [院校链接](https://www.bath.ac.uk/courses/postgraduate-2019/taught-postgraduate-courses/msc-human-computer-interaction/#entry-requirements)
 
- 
+
 **解读文章：**：[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
 **解读文章：**：[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
@@ -58,5 +58,5 @@ Human Computer Interaction MSc
 
 
 #### 编辑历史
-
+Yuan 20201221 已校对
 Cheng 20201218 初次建立  
