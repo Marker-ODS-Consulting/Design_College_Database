@@ -32,9 +32,9 @@ A design/creative portfolio is also expected. Applicants will be asked to submit
 
 ### 3. 有用链接：
 
-**专业介绍：** [院校链接](http://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/architecture-march-arb-riba-2)  
-**课程介绍：** [院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/architecture-march-arb-riba-2)  
-**申请要求：** [院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/architecture-march-arb-riba-2)
+**专业介绍：**[院校链接](http://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/architecture-march-arb-riba-2)  
+**课程介绍：**[院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/architecture-march-arb-riba-2)  
+**申请要求：**[院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/architecture-march-arb-riba-2)
 
 
 

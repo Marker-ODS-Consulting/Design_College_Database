@@ -34,8 +34,8 @@ A design/creative portfolio is also expected. Applicants will be asked to submit
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/architectural-design-march)  
-**课程介绍：** [院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/architectural-design-march)  
-**申请要求：** [院校链接]https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/architectural-design-march)
+**课程介绍：**[院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/architectural-design-march)  
+**申请要求：**[院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/architectural-design-march)
 
 
 
