@@ -12,6 +12,11 @@
 **语言**：IELTS总分6.0，单科不低于5.5
 **申请时间**：/
 **申请文件**： 待更新  
+**专业描述：**   
+> - A focus on digital media practice and theory sets this course apart from traditional communication design courses, preparing you for an exciting career in a range of design roles. We’ll encourage you to explore systems for the making and communication of text and image while you redefine your own practice through various media formats of experimental publishing and interaction design.
+
+> - This course is for recent graduates or those with professional experience who wish to extend their creative skills and design knowledge into hybrid publishing, user experience design, and design research.
+
 **作品集要求原文：**   
 
 > - Your portfolio should include evidence of exploring how design responds to developments in media and digital culture, examples of work that shows an innovative and experimental approach to tackling a design challenge, and examples of work that demonstrates an engagement with the full range of contemporary ‘communication design’ not just graphics design. Please include a variety of projects in your portfolio. Your portfolio should not exceed six pages in length or ten megabytes in size.
@@ -21,39 +26,23 @@
 
 
 ### 2. 翻译与解读：
+##### 专业解读：
+这是一个数字媒体和用户体验设计结合的专业，相比常规的体验设计专业，它加入了混合出版，平面设计数媒方向。
 
-##### 硬性要求提取：
-- 作品集无硬性要求  
-
-
-- 视频部分要求
-
-  - 要点1. 动机
-  - 要点2. 个人体会到点服务体验
-  - 要点3. 感兴趣的服务设计方面
-  - 真人出镜并说话录制，avi/mp4/mov/wmv 格式，最长2分钟
+##### 作品集解读：
+- 作品集不超过6页
+- 大小不超过10M  
 
 
 
-- 对策：
-
-  - 对应要点1. 贴合动机信，一定要 personal, 切忌 general. 即换了别人的名字就不能再 make sense  
-  - 对应要点2. 没有好的办法，得靠积累，建议考虑向同理心或一个低预期+高现实的奇妙情绪转折来说  
-  - 对应要点3. 项目负责人有个视频，在视频里提到过如 curiocity 或者 courage 这些词, 总之说的实话可以大胆些  
-  - 对应要点4. 作品集里最服务那个吧，尽量要点在 蓝图后台或者系统图（商业画布），总之要体现设计的功力在系统构建而非触点    
-
-    ​    
-- 其他要点：
-
-  - 简单粗暴正面回答问题
-  - 不要fancy，而要逻辑
-  - 一定要personal，和你的过去与未来相关（想一想CV和动机信）
-  - 自己出镜、自己说话
-  - mp4, 最长2分钟
 
 ##### 软性要求解读：
-- 作品集方面没有明确的硬性要求，但需要能够呈现出设计师的现有方法和技法，以及潜在的能够在RCA受益的可能性，以上虽然抽象，但是和我们一直强调的“统一人设”一直的。
-- 同时，2分钟的小视频一定要和作品集所体现出的任务设定产生互动，一定是一个完整统一的目标才可以
+- 软性要求解读
+  - 展现完整的设计流程，思路清晰。
+  - 展现对方法的使用和理解。
+  - 展现交互技法：交互原型、动效、产品建模、测试评估。
+  - 展现平面、视觉设计的能力。
+
 
 
 ---

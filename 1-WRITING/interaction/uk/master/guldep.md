@@ -5,7 +5,7 @@
 
 ### 1. 官网相关信息：
 
-**院校**： Goldsmiths, University of London  
+**院校**：Goldsmiths, University of London  
 **学位**：MA Design: Expanded Practice  
 **学制**：15个月  
 **费用**：19760英镑  
@@ -14,6 +14,11 @@
 第二轮截止：3月15日
 第三轮截止：6月14日
 **申请文件**： 待更新  
+**专业描述：**
+> - This course is a radical post-disciplinary programme for practitioners who want to push the boundaries of what design can be and do. During this MA we work with you to transform your practice as a critical and social undertaking.
+> - By challenging the role and norms of traditional design towards an emerging type of ‘advanced design’, unshackled from the history of specialisms and entrenched methods, you will become part of a community of practice. You will be encouraged to actively contribute to a deep understanding of how design is set to address and affect change within contemporary society.
+
+
 **作品集要求原文：**   
 
 > - Applicants with a design background: submit a portfolio comprising 5 relevant projects and a short piece of writing that explains your selection (500-1,000 words) Please upload both your portfolio and writing in two separate PDFs;
@@ -26,38 +31,32 @@
 
 ### 2. 翻译与解读：
 
-##### 硬性要求提取：
-- 作品集无硬性要求  
+##### 专业解读：
+MA Design: Expanded Practice（DEP）是在后学科时代背景下，为想要突破设计界限的实践者们而设立。个人认为 DEP 和皇艺的 IED 十分相似，都是跨学科融合类专业，都强调试验性和批判性，但是从他们提供的不同方向可以看出，皇艺的 IED 提供三个固定的方向，且全都偏向“digital”：
+>Experimental Design
+Moving Image Design
+Sound Design
+
+而 DEP 会涉及的领域更广泛，会根据申请者的背景来调整工作室，2019/20的工作室有如下：
+>Communication & Experience
+Fashions & Embodiment
+Innovation & Service
+Interactions & Engagement
+Spaces & Participation
+
+这些研究方向不仅包含数字化（交互、体验、传播），还囊括了时尚、创新、空间等，给学生提供了更多的可能性。
 
 
-- 视频部分要求
+##### 作品集解读：
+- 硬性要求解读
+  - 作品集要求包含五个项目，pdf格式提交
+  - 一篇 500-1000字的短文，解释你的选题，类似伦艺要求每个项目附加的简短说明，可以围绕动机、发展、实现和影响来写，pdf格式提交（两个pdf分开）。
 
-  - 要点1. 动机
-  - 要点2. 个人体会到点服务体验
-  - 要点3. 感兴趣的服务设计方面
-  - 真人出镜并说话录制，avi/mp4/mov/wmv 格式，最长2分钟
-
-
-
-- 对策：
-
-  - 对应要点1. 贴合动机信，一定要 personal, 切忌 general. 即换了别人的名字就不能再 make sense  
-  - 对应要点2. 没有好的办法，得靠积累，建议考虑向同理心或一个低预期+高现实的奇妙情绪转折来说  
-  - 对应要点3. 项目负责人有个视频，在视频里提到过如 curiocity 或者 courage 这些词, 总之说的实话可以大胆些  
-  - 对应要点4. 作品集里最服务那个吧，尽量要点在 蓝图后台或者系统图（商业画布），总之要体现设计的功力在系统构建而非触点    
-
-    ​    
-- 其他要点：
-
-  - 简单粗暴正面回答问题
-  - 不要fancy，而要逻辑
-  - 一定要personal，和你的过去与未来相关（想一想CV和动机信）
-  - 自己出镜、自己说话
-  - mp4, 最长2分钟
-
-##### 软性要求解读：
-- 作品集方面没有明确的硬性要求，但需要能够呈现出设计师的现有方法和技法，以及潜在的能够在RCA受益的可能性，以上虽然抽象，但是和我们一直强调的“统一人设”一直的。
-- 同时，2分钟的小视频一定要和作品集所体现出的任务设定产生互动，一定是一个完整统一的目标才可以
+- 软性要求解读
+  - 展现完整的设计流程，思路清晰。
+  - 展现对方法的使用和理解。
+  - 展现学生本专业的专业能力。
+  - 体现对“跨界”的理解。可以考虑从本专业出发，思考与其他学科的跨界融合。
 
 
 ---

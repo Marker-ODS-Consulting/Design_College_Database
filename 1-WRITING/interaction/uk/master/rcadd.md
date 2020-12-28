@@ -24,14 +24,10 @@
 **2分钟视频要求原文：**   
 
 
-
-
 > -  Your video does not need to be professionally shot and you may use the best resource available to you; we are not assessing the technical quality of this video
 > -  You must be visible in the video and communicate verbally*.
 > -  Your video can be in any of these formats: avi, mp4, mov, wmv.
 > -  Your video must be a maximum of 2 minutes long.
-
-
 
 
 ---
@@ -48,7 +44,6 @@
   - 要点1. 视频的技术质量不重要，运用已有资料来制作即可。
   - 要点2. 本人出镜并流畅英文录制。
   - 要点3. 视频可以为 avi/mp4/mov/wmv 格式，时常最多2分钟。
-
 
 
 - 视频制作对策：
