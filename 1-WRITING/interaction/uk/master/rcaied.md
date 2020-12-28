@@ -11,6 +11,18 @@
 **语言**：IELTS总分6.5，单科6.0  
 **申请时间**：第一批11月15日截止 ；第二批3月5日截止
 **申请文件**： 待更新  
+
+**专业描述:**
+> - In Information Experience Design (IED) you’ll meet complex realities with bold adaptation, creating boundary-crossing experiences that immerse audiences in big ideas and experimental worlds.
+> - You’ll be instructed in practical skills and a systematic approach for building your own bespoke methods and toolkits. Generating new ways of working will be part of your practice, and you’ll work ambitiously at the cutting edge of emerging arts and technology, drawing from multiple sources and from across disciplines.
+> - You will never be tied to a single medium; instead you’ll be challenged to consider the potentials of diverse and unexpected forms, both digital and analogue. You’ll invent not just new experiences, but new kinds of experiences, engaging with data in unexpected ways.
+> - The only programme of its kind, IED moves beyond binaries such as human and nonhuman, natural and artificial, using everything at its disposal to critique, reimagine and transform society.
+
+三个方向
+Experimental Design
+Moving Image Design
+Sound Design
+
 **作品集要求原文：**   
 
 > - Creativity, imagination and innovation  
@@ -38,39 +50,33 @@
 
 
 ### 2. 翻译与解读：
+##### 专业解读：
+- 信息体验设计是在后学科时代背景下，进行跨学科探索的产物。它是利用各种各样的媒介和感知方式收集信息，来进行批判、重新想象和改造社会。
+- 信息体验设计和用户体验设计的不同点在于，信息体验设计并不将设计上的美和功能性放在第一位；它和数字媒体设计的区别在于，它不是单纯的表达或者传播。
 
 ##### 硬性要求提取：
 - 作品集无硬性要求  
 
-
 - 视频部分要求
 
-  - 要点1. 动机
-  - 要点2. 个人体会到点服务体验
-  - 要点3. 感兴趣的服务设计方面
-  - 真人出镜并说话录制，avi/mp4/mov/wmv 格式，最长2分钟
+  - 要点1. 视频的技术质量不重要，运用已有资料来制作即可。
+  - 要点2. 本人出镜并流畅英文录制。
+  - 要点3. 视频可以为 avi/mp4/mov/wmv 格式，时常最多2分钟。
 
 
+- 视频制作对策：
 
-- 对策：
+  - 重逻辑，简单粗暴的表达要点，不要弯弯绕。
+  - 突出个人特点，作品集、CV和动机信三者要具备统一性，相互呼应，共同营造一个人设。
+  - 表达为什么选择RCA，和你对专业的理解。
 
-  - 对应要点1. 贴合动机信，一定要 personal, 切忌 general. 即换了别人的名字就不能再 make sense  
-  - 对应要点2. 没有好的办法，得靠积累，建议考虑向同理心或一个低预期+高现实的奇妙情绪转折来说  
-  - 对应要点3. 项目负责人有个视频，在视频里提到过如 curiocity 或者 courage 这些词, 总之说的实话可以大胆些  
-  - 对应要点4. 作品集里最服务那个吧，尽量要点在 蓝图后台或者系统图（商业画布），总之要体现设计的功力在系统构建而非触点    
-
-    ​    
-- 其他要点：
-
-  - 简单粗暴正面回答问题
-  - 不要fancy，而要逻辑
-  - 一定要personal，和你的过去与未来相关（想一想CV和动机信）
-  - 自己出镜、自己说话
-  - mp4, 最长2分钟
 
 ##### 软性要求解读：
-- 作品集方面没有明确的硬性要求，但需要能够呈现出设计师的现有方法和技法，以及潜在的能够在RCA受益的可能性，以上虽然抽象，但是和我们一直强调的“统一人设”一直的。
-- 同时，2分钟的小视频一定要和作品集所体现出的任务设定产生互动，一定是一个完整统一的目标才可以
+
+- 作品集虽然没有硬性要求，但依然需要具备作品集基本的要点，即：展现对方法的使用和理解，展现清晰的思路，展现专业技法。
+- IED 是一个研究跨界体验的专业，从官网的专业描述中就可以看出，它需要站在宏观的角度的审视学科的边界，需要脑洞和大胆尝试，不要局限在设计中，生物、哲学、经济学、社会学等等皆可融入。因此，作品集应该除包含本专业相关作品之外，体现对“跨界”的理解。可以考虑从本专业出发，思考与其他学科的跨界融合。
+- 需要展现“批判性思维”，反思和辩证地看问题；需要展现“推测性设计”，通过实验和创新解决当前或未来的问题。
+
 
 
 ---
@@ -79,14 +85,13 @@
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.rca.ac.uk/schools/school-of-communication/ied/)  
+2020 MA Information Experience Design 毕设作品
 **课程介绍：** [院校链接](https://www.rca.ac.uk/schools/school-of-communication/ied/)  
 **申请要求：** [院校链接](https://www.rca.ac.uk/studying-at-the-rca/apply/entrance-requirements/ma-entrance-requirements/)
 **语言课：** [院校链接](https://www.rca.ac.uk/studying-at-the-rca/support/learning-support/english-for-academic-purposes/)
+**相关链接：**：[2020 MA Information Experience Design 毕设作品](https://2020.rca.ac.uk/programmes/information-experience-design-ma)  
 
-**解读文章：**：[-](http://www.makebi.net/28018.html)  
 **解读文章：**：[一起来看看皇艺RCA最新要求](http://www.makebi.net/38630.html)  
-**解读文章：**：[-](http://www.makebi.net/38830.html)  
-**相关文章：**：[-](http://www.makebi.net/38406.html)  
 **相关视频：**：[马克笔哔哩哔哩视频链接](https://www.bilibili.com/video/av22598279)  
 
 

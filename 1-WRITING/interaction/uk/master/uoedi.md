@@ -11,7 +11,12 @@
 **费用**：32500英镑  
 **语言**：IELTS总分7.0，单科6.0; TOEFL总分100，单科20
 **申请时间**：/
-**申请文件**： 待更新  
+**申请文件**： 待更新
+**专业描述：**  
+> - Design Informatics brings together scientific data processing with creative concept development. Our Design Informatics programmes are advanced, full-time courses for professionals and recent graduates. They are extremely hands-on, progressive and designed with industry at their heart.
+> - As a student, you’ll learn to unlock the power of big data, harness massive connectivity, analytic power and industrial-strength simulation to design products and services that will transform lives. You’ll learn to work as part of a team, you’ll be challenged to think differently and you’ll work to overcome 'real world' challenges.
+
+
 **作品集要求原文：**   
 
 > - A high degree of contemporary thinking, creativity and originality.
@@ -23,6 +28,9 @@
 
 
 ### 2. 翻译与解读：
+##### 专业解读
+MA Design Informatics 在众多交互设计专业中更偏向于数据处理和数字产品开发方向，与互联网行业同步，是一个非常“落地”的专业。
+提供两大方向，设计背景的申请者可以选择MA Design Informatics（1年）和 MFA Design Informatics（21个月）；计算机背景的申请者可以选择 MSc Design Informatics (1年) 和 MSc Advanced Design Informatics (2年)。
 
 ##### 硬性要求提取：
 - 作品集无硬性要求  
