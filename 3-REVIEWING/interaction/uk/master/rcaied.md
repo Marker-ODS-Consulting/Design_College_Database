@@ -81,10 +81,9 @@ Sound Design
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.rca.ac.uk/schools/school-of-communication/ied/)  
-2020 MA Information Experience Design 毕设作品
 **课程介绍：** [院校链接](https://www.rca.ac.uk/schools/school-of-communication/ied/)  
 **申请要求：** [院校链接](https://www.rca.ac.uk/studying-at-the-rca/apply/entrance-requirements/ma-entrance-requirements/)
-**语言课：** [院校链接](https://www.rca.ac.uk/studying-at-the-rca/support/learning-support/english-for-academic-purposes/)
+**语言课：** [院校链接](https://www.rca.ac.uk/study/facilities-support/learning-support/english-for-academic-purposes/)
 **相关链接：**：[2020 MA Information Experience Design 毕设作品](https://2020.rca.ac.uk/programmes/information-experience-design-ma)  
 
 **解读文章：**：[一起来看看皇艺RCA最新要求](http://www.makebi.net/38630.html)  
@@ -96,5 +95,5 @@ Sound Design
 
 
 #### 编辑历史
-
+Yuan 20201229 已校对
 Muzi 20211221 初次建立

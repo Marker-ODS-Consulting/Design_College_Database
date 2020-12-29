@@ -42,7 +42,7 @@
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.napier.ac.uk/courses/ma-design-for-interactive-art-experiences-postgraduate-fulltime)  
-**课程介绍：** [院校链接](https://www.napier.ac.uk/courses/ma-design-for-interactive-art-experiences-postgraduate-fulltim)  
+**课程介绍：** [院校链接](https://www.napier.ac.uk/courses/ma-design-for-interactive-art-experiences-postgraduate-fulltime)  
 **申请要求：** [院校链接](https://www.napier.ac.uk/study-with-us/international-students/your-country/east-asia/china)
 **语言课：** [院校链接](https://www.napier.ac.uk/study-with-us/international-students/english-language/presessional-english-language-courses)
 
@@ -58,5 +58,5 @@
 
 
 #### 编辑历史
-
+Yuan 20201229 已校对
 Muzi 20211221 初次建立

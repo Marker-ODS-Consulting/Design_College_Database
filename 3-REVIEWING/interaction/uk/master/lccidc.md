@@ -52,7 +52,7 @@ LCC的交互设计专业更偏向交互装置和数字艺术方向。用媒体�
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.arts.ac.uk/subjects/animation-interactive-film-and-sound/postgraduate/ma-interaction-design-communication-lcc)  
-**课程介绍：** [院校链接](https://www.arts.ac.uk/__data/assets/pdf_file/0013/70303/MA-Interaction-Design-Communication-Programme-Specification-18.19.pdf)  
+**课程介绍：** [院校链接](https://www.arts.ac.uk/subjects/animation-interactive-film-and-sound/postgraduate/ma-interaction-design-lcc#course-overview)  
 **申请要求：** [院校链接](https://www.arts.ac.uk/subjects/animation-interactive-film-and-sound/postgraduate/ma-interaction-design-communication-lcc)
 **语言课：** [院校链接](https://www.arts.ac.uk/study-at-ual/language-centre)
 
@@ -60,9 +60,9 @@ LCC的交互设计专业更偏向交互装置和数字艺术方向。用媒体�
 **解读文章：**：[如何准备伦敦艺术大学Study Proposal?](http://www.makebi.net/32120.html)  
 
 
-**相关视频：**：[马克笔哔哩哔哩视频链接](https://www.bilibili.com/video/av22384527)
-[马克笔哔哩哔哩视频链接](https://www.bilibili.com/video/av22384675)
-[马克笔哔哩哔哩视频链接](https://www.bilibili.com/video/av22384916)  
+**相关视频：**：[LCC交互设计专业学生之声VOL01【马克笔设计留学】](https://www.bilibili.com/video/av22384527)
+[LCC交互设计专业学生之声VOL03【马克笔设计留学】](https://www.bilibili.com/video/av22384675)
+[LCC交互设计专业学生之声VOL04【马克笔设计留学】](https://www.bilibili.com/video/av22384916)  
 
 
 
@@ -70,5 +70,5 @@ LCC的交互设计专业更偏向交互装置和数字艺术方向。用媒体�
 
 
 #### 编辑历史
-
+Yuan 20201229 已校对
 Muzi 20211221 初次建立

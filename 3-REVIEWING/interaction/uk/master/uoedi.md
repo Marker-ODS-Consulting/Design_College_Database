@@ -49,12 +49,12 @@ DI 是一个偏工科的专业，所以注重作品集的逻辑性，要做到�
 **专业介绍：**[院校链接](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=821)  
 **课程介绍：** [院校链接](https://www.designinformatics.org/postgraduate/)  
 **申请要求：** [院校链接](https://www.ed.ac.uk/studying/international/postgraduate-entry/asia/china)
-**语言课：** [院校链接](https://www.ed.ac.uk/english-language-teaching/ele-courses/summer-eap-courses/entry-requirements-for-summer-courses)
+**语言课：** [院校链接](https://www.ed.ac.uk/english-language-teaching/ele-courses/summer-eap-courses)
 
 **解读文章：**：[来爱丁堡读交互？先了解Design Informatics](http://www.makebi.net/27933.html)  
 
 **相关文章：**：[为爱丁堡Design Informatics专业打call，学姐带你认识Prof. Chris Speed](http://www.makebi.net/26016.html)
-**相关视频：**：[马克笔哔哩哔哩视频链接](https://www.bilibili.com/video/av24182426)
+**相关视频：**：[爱丁堡大学设计信息学专业【马克笔设计留学】](https://www.bilibili.com/video/av24182426)
 
 
 
@@ -63,5 +63,5 @@ DI 是一个偏工科的专业，所以注重作品集的逻辑性，要做到�
 
 
 #### 编辑历史
-
+Yuan 20201229 已校对
 Muzi 20211221 初次建立
