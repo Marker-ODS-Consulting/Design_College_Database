@@ -48,8 +48,8 @@ Please submit your practical work as a Microsoft PowerPoint and/or Apple QuickTi
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/pg/ma-interior-architecture-and-design)  
-**课程介绍：**[院校链接](https://www.ntu.ac.uk/study-and-courses/courses/find-your-course/architecture-design-built-environment/pg/2019-20/interior-architecture-and-design)  
-**申请要求：**[院校链接](https://www.ntu.ac.uk/study-and-courses/courses/find-your-course/architecture-design-built-environment/pg/2019-20/interior-architecture-and-design)         
+**课程介绍：**[院校链接](https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/pg/ma-interior-architecture-and-design)  
+**申请要求：**[院校链接](https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/pg/ma-interior-architecture-and-design)         
 
 
 
@@ -57,5 +57,5 @@ Please submit your practical work as a Microsoft PowerPoint and/or Apple QuickTi
 
 
 #### 编辑历史
-
+Yuan 20201229 已校对
 Ran 20201221 初次建立

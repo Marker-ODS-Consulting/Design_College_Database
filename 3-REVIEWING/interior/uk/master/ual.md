@@ -42,11 +42,11 @@ Please ensure you read PebblePad's file uploads and limits when submitting your 
 
 - 视频要求
   - 3分钟的视频总共分为两部分，第一部分，你需要拍摄一个1分半钟的视频去展示你窗外的景色；第二部分，你再用剩下的1分钟去解释景色如何随时间而变化。
-  - 在视频中，你必须要处境，目视相机，用英语清晰的表述。视频必须是你独自完成，且声音清晰。
+  - 在视频中，你必须要出镜，目视相机，用英语清晰的表述。视频必须是你独自完成，且声音清晰。
 
 
 ##### 软性要求解读：
-- 伦艺的作品集风格和其他院校差别比较大，非常喜欢骗艺术或者概念的作品，非常的飘。所以准备作品集的时候建议不宜太过落地的项目。从伦艺的官网学生作品以及学生的反馈，伦艺教学内容也非常的飘，很多项目和国内的传统设计相比，甚至几乎和“设计”不太相关，有点那种在空间里做艺术的感觉。所以你的作品集可以非常天马行空。
+- 伦艺的作品集风格和其他院校差别比较大，非常喜欢偏艺术或者概念的作品，非常的飘。所以准备作品集的时候建议不宜太过落地的项目。从伦艺的官网学生作品以及学生的反馈，伦艺教学内容也非常的飘，很多项目和国内的传统设计相比，甚至几乎和“设计”不太相关，有点那种在空间里做艺术的感觉。所以你的作品集可以非常天马行空。
 ---
 
 
@@ -57,7 +57,7 @@ Please ensure you read PebblePad's file uploads and limits when submitting your 
 **申请要求：**[院校链接](https://www.arts.ac.uk/subjects/architecture-spatial-and-interior-design/postgraduate/ma-interior-and-spatial-design-camberwell#apply)
 
 **相关文章：**[英国室内设计专业偏爱什么风格？](http://www.makebi.net/32984.html)  
-**相关视频：**[马克笔哔哩哔哩视频链接](https://www.bilibili.com/video/av23106885)  
+**相关视频：**[伦敦艺术大学室内空间专业介绍【马克笔设计留学】](https://www.bilibili.com/video/av23106885)  
 
 
 
@@ -65,5 +65,5 @@ Please ensure you read PebblePad's file uploads and limits when submitting your 
 
 
 #### 编辑历史
-
+Yuan 20201229 已校对
 Ran 20201217 初次建立

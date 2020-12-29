@@ -35,8 +35,8 @@ You will normally have an undergraduate UK honours degree or international equiv
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://www2.mmu.ac.uk/study/postgraduate/taught/2018/16846/)  
-**课程介绍：**[院校链接](https://www2.mmu.ac.uk/study/postgraduate/taught/2018/16846/)  
+**专业介绍：**[院校链接](https://www.art.mmu.ac.uk/postgraduate/ma-interiors/)  
+**课程介绍：**[院校链接](https://www.art.mmu.ac.uk/postgraduate/ma-interiors/)  
 **申请要求：**[院校链接](https://www2.mmu.ac.uk/study/postgraduate/apply/entry-requirements/)         
 
 
@@ -45,5 +45,5 @@ You will normally have an undergraduate UK honours degree or international equiv
 
 
 #### 编辑历史
-
+Yuan 20201229 已校对
 Ran 20201222 初次建立
