@@ -44,7 +44,7 @@ Your portfolio should demonstrate your ability to skilfully generate and communi
 ### 2. 翻译与解读：
 
 ##### 作品集要求解读：
-- 30 页 ，但因为视频的提交需要占用一个 Images Slot, 所以实际上作品集只能29 页
+- 30 页，但因为视频的提交需要占用一个 Images Slot, 所以实际上作品集只能29 页
 
 
 - 中央圣马丁一向对于作品集要求比较宽松，只需要满足30页的要求就可以了。但是作为一个艺术类院校，他们的工业设计方向和综合类院校的工业设计方向差别还是不小的。建议先去学校官网看看整体的内容介绍和学生项目。  
