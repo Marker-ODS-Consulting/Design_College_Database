@@ -1,15 +1,15 @@
-## 伦艺-伦敦传媒学院 | MA User Experience Design
+## 皇家艺术学院 | MA Service Design
 
-2020年QS世界设计艺术排名: 2  
-
+2020年QS世界设计艺术排名:/
+2020年QS世界设计艺术排名：1
 ### 1. 官网相关信息：
 
-**院校**： London College of Communication  
-**学位**：MA User Experience Design  
-**学制**：15个月  
-**费用**：22920英镑  
-**语言**：IELTS总分6.5，单科不低于6.0  
-**申请时间**：2月28日
+**院校**：Royal Collage of Art  
+**学位**：MA Service Design  
+**学制**：2年  
+**费用**：28400英镑/年
+**语言**：IELTS总分6.5，单科 6.0  
+**申请时间**：第一批11月15日；第二批3月5日
 **申请文件**： 待更新
 
 **专业描述：**
@@ -20,14 +20,14 @@
 > - Skills: Key to building the expertise of a UX designer is a working understanding of industry standard UX prototyping tools, alongside user research methods that inform designs. You will learn practical skills alongside theoretical, within a critical framework, to become a discerning and conscious designer.
 
 **作品集要求原文：**   
-
-> - All applicants will be expected to submit an electronic portfolio of work as part of their application, evidencing their aptitude, skill and engagement in the field of user experience design or an adjacent practice.
-> - Please submit an edited selection of work (10-20 images, 4-5 projects maximum) accompanied by a short caption for each project acknowledging the motivation, development, realization and impact (one-two sentences maximum).
+> - Creativity, imagination and innovation
+> - Ability to articulate the intentions of the work
+> - Intellectual engagement in areas relevant to the work
+> - Technical skills appropriate to the work
+> - Potential to benefit from the programme.
 
 **学习计划要求原文：**
-> - Applicants must submit a study proposal for the Major Project outlining the intentions of their MA research (300-500 words).
-> - Please include a description of the area of interest, field of study and the particular focus of the intended project, and an overview of how you intend to go about producing the project and the methodology.
-> - It is important to recognize that these ideas will inevitably develop and change during your study on the course and only serve to inform your application at this stage.
+
 
 ---
 
