@@ -104,6 +104,6 @@ Your portfolio should demonstrate your ability to skilfully generate and communi
 
 #### 编辑历史  
 
-Natt 20201222 审阅
+Natt 20201222 已审阅
 Yuan 20201217 已校对
 Natt 20201217 初次建立编辑  
