@@ -8,7 +8,7 @@ QS世界设计艺术排名：/
 **院校**：University of Cambridge
 **学位**：MPhil in Architecture and Urban Design (ARB/RIBA Part 2 course – with a Cambridge Master of Philosophy degree)
 **学制**：22个月  
-**费用**：第一年45492英镑 | 第二年30171 英镑  
+**费用**：第一年45,492英镑 | 第二年30,171 英镑  
 **语言**：TOEFL总分110，单科25 | IELTS总分7.5，单科7.0  
 **申请时间**：5月15日截止
 **申请文件**：两封学术推荐信+成绩单+英文成绩+作品集+学习计划+作品案例（最多1个）+ Gates Cambridge References+简历  
@@ -22,10 +22,10 @@ An extract from a design portfolio (maximum of 2GB) is required. If invited to i
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-
+无具体要求
 
 ##### 软性要求解读：
-
+无具体要求
 
 
 ---

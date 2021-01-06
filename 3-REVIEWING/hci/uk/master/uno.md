@@ -34,7 +34,7 @@
 
 
 ### 2. 翻译与解读：
-Human Computer Interaction MSc
+
 ##### 硬性要求提取：
 - 作品集无硬性要求  
 
@@ -61,5 +61,7 @@ Human Computer Interaction MSc
 
 
 #### 编辑历史
+
+Natt 20210106 已审阅
 Yuan 20201222 已校对
 Cheng 20201218 初次建立  
