@@ -1,4 +1,4 @@
-## 爱丁堡大学 | Architecture, Master of (ARB/RIBA Part 2)
+## 爱丁堡大学 | Master of Architecture
 
 QS世界设计综合排名：20
 QS世界设计艺术排名：51-100
@@ -6,7 +6,7 @@ QS世界设计艺术排名：51-100
 ### 1. 官网相关信息：
 
 **院校**：The University of Edinburgh
-**学位**：Architecture, Master of (ARB/RIBA Part 2)  
+**学位**：Master of Architecture  
 **学制**：21个月  
 **费用**：28,950英镑  
 **语言**：TOEFL总分92，单科20 | IELTS总分6.5，单科6.0；  
