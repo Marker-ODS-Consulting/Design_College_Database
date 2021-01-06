@@ -32,7 +32,7 @@
 
 
 ### 2. 翻译与解读：
-Human Computer Interaction MSc
+
 ##### 硬性要求提取：
 - 作品集无硬性要求  
 
