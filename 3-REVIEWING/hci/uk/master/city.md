@@ -6,7 +6,6 @@
 
 **院校**：City, University of London   
 **学位**：Human-Computer Interaction Design MSc
-
 **学制**：1 年  
 **费用**：20000英镑/年  
 **语言**：雅思总分不低于7.0分，单科不低于6.5分  
@@ -59,6 +58,8 @@ Human Computer Interaction MSc
 ---
 
 
-#### 编辑历史
+#### 编辑历史  
+
+Natt 20210116 已审阅
 Yuan 20201222 已校对
 Cheng 20201218 初次建立  
