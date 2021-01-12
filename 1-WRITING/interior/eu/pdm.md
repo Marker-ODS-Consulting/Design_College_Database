@@ -14,10 +14,10 @@ QS世界艺术设计排名：6
 **申请时间**：11月19日（第一批）
 **申请文件**：学位证明+成绩单+课程描述+个人简历+个人陈述+语言证明+作品集  
 **作品集要求原文：**   
-You must provide a Portfolio of your works. The portfolio must be uploaded on your online profile in the section “Master of Science programme(s) selection” and cannot be bigger than 20 MB. Please do not send hard copies by post since they will not be considered.
-
-What is a portfolio?
-The portfolio is a collection of selected samples of work from your previous educational programme or work experiences. It should reflect the scope and variety of your training and experience with specific emphasis on your knowledge of and skills in the degree track for which you are applying. You should submit works that represent your interests and personal views as well as your design and technological abilities. Neatness and clarity of presentation are extremely important as they reflect both your attitude towards your work as well as your ability to communicate your work in a comprehensive and deliberate manner.
+>You must provide a Portfolio of your works. The portfolio must be uploaded on your online profile in the section “Master of Science programme(s) selection” and cannot be bigger than 20 MB. Please do not send hard copies by post since they will not be considered.
+>
+>What is a portfolio?
+>The portfolio is a collection of selected samples of work from your previous educational programme or work experiences. It should reflect the scope and variety of your training and experience with specific emphasis on your knowledge of and skills in the degree track for which you are applying. You should submit works that represent your interests and personal views as well as your design and technological abilities. Neatness and clarity of presentation are extremely important as they reflect both your attitude towards your work as well as your ability to communicate your work in a comprehensive and deliberate manner.
 
 
 
