@@ -36,7 +36,7 @@
 ### 2. 翻译与解读：
 Human Computer Interaction MSc
 ##### 硬性要求提取：
-- 作品集无硬性要求  
+- 作品集无硬性要求，作品集可以以交互应用和交互装置两个方面为主，呈现方式以手机APP和网页居多。基本流程都是类似的（Problem-Research-Design-Evaluation-Iteration)，里面会放流程图线框图Low-Fi和High-Fi的prototyping，以及可用性测试等等。
 
 ##### 课程设置解读：
 - 诺丁汉HCI的课程设置，理论和操作实践基本对半开，有偏认知心理学的理论课，也有偏计算机编程的实践课。
