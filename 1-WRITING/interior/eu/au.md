@@ -14,11 +14,11 @@ QS世界艺术设计排名：7
 **申请时间**：12月1日-1月4日  
 **申请文件**：成绩单+学位证明+英文成绩+作品集+动机信+个人简历  
 **作品集要求原文：**   
-In the portfolio, applicants display work that shows their artistic expression and design skills. The portfolio must contain diverse samples of the applicant’s previous artistic, professional and/or scientific activity.
-
-The work contained in the portfolio must be catalogued, listing at least the title and/or theme, materials used, size, purpose and year of completion of each piece. The catalogue must also detail where and when the work has been exhibited, displayed or published and whether the work is based on individual or group work. The contribution of the applicant in the work should be stated in case the work has been completed in a group. The applicant’s name, address and phone number and the degree program applied for must be indicated clearly on the portfolio.
-
-Maximum size for the portfolio is 1.0 GB. Name the file as: Portfolio-surname-firstname.pdf. If your portfolio contains password protected video links, include the password(s) in your portfolio. If a portfolio is not uploaded to the online application form by the deadline, the application will be rejected.
+>In the portfolio, applicants display work that shows their artistic expression and design skills. The portfolio must contain diverse samples of the applicant’s previous artistic, professional and/or scientific activity.
+>
+>The work contained in the portfolio must be catalogued, listing at least the title and/or theme, materials used, size, purpose and year of completion of each piece. The catalogue must also detail where and when the work has been exhibited, displayed or published and whether the work is based on individual or group work. The contribution of the applicant in the work should be stated in case the work has been completed in a group. The applicant’s name, address and phone number and the degree program applied for must be indicated clearly on the portfolio.
+>
+>Maximum size for the portfolio is 1.0 GB. Name the file as: Portfolio-surname-firstname.pdf. If your portfolio contains password protected video links, include the password(s) in your portfolio. If a portfolio is not uploaded to the online application form by the deadline, the application will be rejected.
 
 
 
