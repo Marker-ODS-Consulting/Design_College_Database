@@ -32,7 +32,8 @@ Please note that Master Design follows a different form. Click [here](https://ww
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-- 作品集无硬性要求  
+- PDF文件
+- 文件大小不超过15mb
 
 
 ##### 软性要求解读：

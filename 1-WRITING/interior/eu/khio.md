@@ -31,7 +31,10 @@ File name: Lastname_Firstname_portfolio-MADE-2021.pdf(max. 15 MB)
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-- 作品集无硬性要求  
+- 包含5-7个项目
+- 页数不超过30页
+- 文件大小不超过15mb
+- 作品集文件命名规则：Lastname_Firstname_portfolio-MADE-2021  
 
 
 ##### 软性要求解读：

@@ -24,11 +24,12 @@ The portfolio should be in PDF format with no more than 20 projects that provide
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-- 作品集无硬性要求  
+- PDF文件
+- 项目不超过20个
 
 
 ##### 软性要求解读：
--
+- 作品集无硬性要求
 
 
 ---

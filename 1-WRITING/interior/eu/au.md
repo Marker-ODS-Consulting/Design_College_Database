@@ -28,7 +28,7 @@ Maximum size for the portfolio is 1.0 GB. Name the file as: Portfolio-surname-fi
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-- 作品集无硬性要求  
+- 提交的PDF文件命名方式为：Portfolio-surname-firstname
 
 
 ##### 软性要求解读：

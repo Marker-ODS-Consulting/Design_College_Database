@@ -11,7 +11,7 @@ QS世界艺术设计排名：101-150
 **学制**：2年  
 **费用**：免费  
 **语言**：TOEFL总分90，写作20；IELTS 总分6.5，单科5.5  
-**申请时间**：12月1日-2月3日
+**申请时间**：2月1日截止
 **申请文件**：在线申请表+个人简历+个人陈述+学习计划+作品集  
 **作品集要求原文：**   
 Your portfolio must follow your application to the programme, and must include documentation of relevant design production that demonstrates your academic qualifications for carrying out an independent MA project.
@@ -41,7 +41,11 @@ Links for file sharing are sent to admission.kmd@uib.no.
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-- 作品集无硬性要求  
+- 包含6-10个项目
+- PDF文件
+- A3横版
+- 文件尺寸不超过250mb
+- 作品集文件命名规则：last name_first name_portfolio
 
 
 ##### 软性要求解读：
@@ -54,8 +58,8 @@ Links for file sharing are sent to admission.kmd@uib.no.
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://kmd.uib.no/en/studies/design#anchor-3)  
-**课程介绍：**[院校链接](https://khio.no/en/studies/design#admissions-made)
-**申请要求：**[院校链接](https://khio.no/en/studies/design#admissions-made)  
+**课程介绍：**[院校链接](https://kmd.uib.no/en/studies/design#anchor-1)
+**申请要求：**[院校链接](https://www.uib.no/en/kmd/111989/masters-programme-design#application-requirements)  
 
 
 ---

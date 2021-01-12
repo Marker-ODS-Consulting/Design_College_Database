@@ -27,7 +27,7 @@ The portfolio is a collection of selected samples of work from your previous edu
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-- 作品集无硬性要求  
+- 文件大小不超过20mb  
 
 
 ##### 软性要求解读：

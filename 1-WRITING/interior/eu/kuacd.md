@@ -43,7 +43,12 @@ Your portfolio must also demonstrate your ability to make drawings and understan
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-- 作品集无硬性要求  
+- 包含至少三个项目
+- PDF文档
+- 页数不超过20页
+- A3横版  
+- 作品集命名规则：Surname-Forename-1
+- 第一页要包含目录，以及目录中每个项目要对应一张缩略图
 
 
 ##### 软性要求解读：
