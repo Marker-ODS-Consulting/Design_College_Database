@@ -1,10 +1,11 @@
-## 阿尔特兹艺术学院 | Master of Interior Architecture
+## 阿尔特兹艺术学院[荷兰] | Master of Interior Architecture
 
 QS世界院校综合排名：/
 QS世界艺术设计排名：/
 
 ### 1. 官网相关信息：
 
+**国家**: 荷兰 | Netherland
 **院校**：ArtEZ Institute of Arts  
 **学位**：Master of Interior Architecture  
 **学制**：2年  

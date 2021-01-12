@@ -1,10 +1,11 @@
-## 海牙皇家艺术学院 | Master of Arts
+## 海牙皇家艺术学院[荷兰] | Master of Arts
 
 QS世界院校综合排名：/
 QS世界艺术设计排名：101-150
 
 ### 1. 官网相关信息：
 
+**国家**: 荷兰 | Netherland
 **院校**：Royal Academy of Art, The Hague  
 **学位**：Master of Arts  
 **学制**：2年  

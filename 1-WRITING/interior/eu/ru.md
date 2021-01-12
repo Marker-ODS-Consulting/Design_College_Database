@@ -1,10 +1,11 @@
-## 鹿特丹应用科技大学 | Master of Interior Architecture
+## 鹿特丹应用科技大学[荷兰] | Master of Interior Architecture
 
 QS世界院校综合排名：/
 QS世界艺术设计排名：/
 
 ### 1. 官网相关信息：
 
+**国家**: 荷兰 | Netherland
 **院校**：Rotterdam University, University of Applied Sciences  
 **学位**：Master Interior Architecture: Research + Design  
 **学制**：2年  

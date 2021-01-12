@@ -1,10 +1,11 @@
-## 阿尔托大学 | Master of Arts (Art and Design)
+## 阿尔托大学[芬兰] | Master of Arts (Art and Design)
 
 QS世界院校综合排名：134
 QS世界艺术设计排名：7
 
 ### 1. 官网相关信息：
 
+**国家**: 芬兰 | Finland
 **院校**：Aalto University  
 **学位**：Master of Arts (Art and Design)  
 **学制**：2年  
