@@ -1,10 +1,13 @@
-## 皇家艺术学院 | MA Design Products
+## 阿尔托大学[芬兰] | MA Design Products
 
-2020年QS世界设计艺术排名: 1  
+QS世界院校综合排名：134
+QS世界设计艺术排名：7
+
 
 ### 1. 官网相关信息：
 
-**院校**：Royal College of Art  
+**国家**: 芬兰
+**院校**：1. Aalto University  
 **学位**：MA Design Products  
 **学制**：2 年  
 **费用**：28400英镑/年  
