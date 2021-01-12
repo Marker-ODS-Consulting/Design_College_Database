@@ -14,15 +14,15 @@ QS世界艺术设计排名：/
 **申请时间**：3月1日截止  
 **申请文件**：成绩单+学位证明+英文成绩+作品集+动机信+个人简历+护照复印件  
 **作品集要求原文：**   
-We expect to receive your portfolio in a PDF not exceeding 15 MB.
+> We expect to receive your portfolio in a PDF not exceeding 15 MB.
 Your portfolio should include a thoughtfully chosen selection of recent work/projects that best exemplify your current practice and research interests.
 If you want to share videos please provide a Vimeo, Youtube or self hosted link.
-
-Additionally, and if necessary, feel free to add any relevant URL to personal websites, social media platforms profiles, online documentation of existing works, research logs, code repositories, and collections of audiovisual material.
-
-Important for application of the Master of Education in Arts. The portfolio should give a balanced overview of educational/pedagogical projects and experience, next to artistic/design work.
-
-Please note that Master Design follows a different form. Click [here](https://www.pzwart.nl/wp-content/uploads/2020/10/20201027-MD-Application-Portfolio-Assessment-2123.pdf) for information about portfolio requirements for Master Design.
+>
+> Additionally, and if necessary, feel free to add any relevant URL to personal websites, social media platforms profiles, online documentation of existing works, research logs, code repositories, and collections of audiovisual material.
+>
+> Important for application of the Master of Education in Arts. The portfolio should give a balanced overview of educational/pedagogical projects and experience, next to artistic/design work.
+>
+> Please note that Master Design follows a different form. Click [here](https://www.pzwart.nl/wp-content/uploads/2020/10/20201027-MD-Application-Portfolio-Assessment-2123.pdf) for information about portfolio requirements for Master Design.
 
 
 
