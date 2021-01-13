@@ -7,7 +7,7 @@ QS世界设计艺术排名：7
 ### 1. 官网相关信息：
 
 **国家**: 芬兰 | Finland
-**院校**：1. Aalto University  
+**院校**：Aalto University  
 **学位**：MA Design Products  
 **学制**：2 年  
 **费用**：28400英镑/年  
