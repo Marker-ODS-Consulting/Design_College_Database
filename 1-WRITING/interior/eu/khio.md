@@ -14,14 +14,14 @@ QS世界艺术设计排名：101-150
 **申请时间**：12月1日-2月3日
 **申请文件**：在线申请表+个人简历+个人陈述+学习计划+作品集  
 **作品集要求原文：**   
-The portfolio should consist of at least 5 and no more than 7 different visual examples of personal work/projects presented. It is an advantage that these works collectively represent your abilities and skills.
-
-Your portfolio must appear as one document with multiple pages. Max. 30 pages.
+> The portfolio should consist of at least 5 and no more than 7 different visual examples of personal work/projects presented. It is an advantage that these works collectively represent your abilities and skills.
+>
+> Your portfolio must appear as one document with multiple pages. Max. 30 pages.
 Compressed to screen viewing. Your portfolio will be assessed on screen by the admission committee, therefor it must be suitably navigable with considered use of text.
-
-Your portfolio may contain works in any media you choose, i.e. video, web page or app. Should you wish to present a video, web page or app as part of your portfolio, these must be represented as screenshots in your portfolio along with text and functioning link to the specific webpages where they can be seen.
-
-File name: Lastname_Firstname_portfolio-MADE-2021.pdf(max. 15 MB)
+>
+> Your portfolio may contain works in any media you choose, i.e. video, web page or app. Should you wish to present a video, web page or app as part of your portfolio, these must be represented as screenshots in your portfolio along with text and functioning link to the specific webpages where they can be seen.
+>
+> File name: Lastname_Firstname_portfolio-MADE-2021.pdf(max. 15 MB)
 
 
 

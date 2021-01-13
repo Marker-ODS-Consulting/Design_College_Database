@@ -14,20 +14,20 @@ QS世界艺术设计排名：20
 **申请时间**：1月15日-3月1日
 **申请文件**：作品集+成绩证明+学位证明+语言成绩+动机信+个人简历+护照首页+在线申请表  
 **作品集要求原文：**   
-Technical Requirements – Your digital portfolio must
+> Technical Requirements – Your digital portfolio must
 > - be in a single document
 > - not exceed 10 MB
 > - be optimized for viewing on a standard size computer screen
 > - be uploaded at the time the application is submitted
-
-Content requirements – Your digital portfolio should
+>
+> Content requirements – Your digital portfolio should
 > - include your own most important and representative design and/or architecture work
 > - contain relevant work from your BA study and working experience if applicable
 > - be oriented towards the programme for which you are applying
 > - include a short text for each project
 > - for group work, your contributions to the project should be clearly identified and described
-
-Additional information:
+>
+> Additional information:
 > - you may include hand drawings and sketches, and not only computer drawings
 > - we suggest that you include process work that shows the development of the chosen idea
 > - we do not have specific requirements regarding the number of projects or pages
