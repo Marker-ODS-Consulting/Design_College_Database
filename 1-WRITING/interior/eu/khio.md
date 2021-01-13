@@ -1,11 +1,11 @@
-## 奥斯陆国立美术学院[挪威] | Master’s in design in interior design and furniture design  
+## 奥斯陆国立美术学院[挪威] | Master’s in design in interior design and furniture design
 
-QS世界院校综合排名：/  
-QS世界艺术设计排名：101-150  
+QS世界院校综合排名：/
+QS世界艺术设计排名：101-150
 
 ### 1. 官网相关信息：
 
-**国家**: 挪威 | Norway  
+**国家**: 挪威 | Norway
 **院校**：Oslo National Academy of the Arts  
 **学位**：Master’s in design in interior design and furniture design  
 **学制**：2年  
@@ -31,9 +31,9 @@ File name: Lastname_Firstname_portfolio-MADE-2021.pdf(max. 15 MB)
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-- 包含5-7个项目  
-- 页数不超过30页  
-- 文件大小不超过15mb  
+- 包含5-7个项目
+- 页数不超过30页
+- 文件大小不超过15mb
 - 作品集文件命名规则：Lastname_Firstname_portfolio-MADE-2021  
 
 
