@@ -5,7 +5,7 @@
 ### 1. 官网相关信息：
 
 **国家**：瑞典 | Sweden  
-**院校**：Linköping University  
+**院校**：Linköping University（linkoping university)  
 **学位**：Master of Design  
 **学制**：2年  
 **费用**：252000瑞典克朗  
