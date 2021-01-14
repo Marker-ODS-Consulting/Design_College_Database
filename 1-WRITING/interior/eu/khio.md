@@ -38,7 +38,7 @@ Compressed to screen viewing. Your portfolio will be assessed on screen by the a
 
 
 ##### 软性要求解读：
--
+- 该校的室内设计同样是和家具设计向结合的，所以作品集中还是建议有关于家具设计的项目。奥斯陆的室内设计专业主要方向是研究性和探索性，以及实验性为主的内容。所以我觉得在作品集中可以加入这些方面的内容。
 
 
 ---
@@ -47,9 +47,10 @@ Compressed to screen viewing. Your portfolio will be assessed on screen by the a
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://khio.no/en/studies/design#admissions-made)  
-**课程介绍：**[院校链接](https://www.konstfack.se/en/Education/Masters-Degree-Programmes/Design/Spatial-Design/Course-descriptions-/)  
+**课程介绍：**[院校链接](https://khio.no/en/studies/design#admissions-made)  
 **申请要求：**[院校链接](https://khio.no/en/studies/design#admissions-made)
-**学生作品：**[院校链接](https://imkhio.no/)
+**学生作品：**[院校链接](https://imkhio.no/)  
+**官方Ins：**[院校链接](https://www.instagram.com/imkhio.no/)
 **课程PDF下载：**[院校链接](https://khio.no/system/resources/W1siZiIsIjIwMTgvMTEvMTMvMTVfMzZfMTFfOTM1X0N1cnJpY3VsdW1fZm9yX01hc3Rlcl9pbl9EZXNpZ25fcHJfMjMuMTAuMjAxOC5wZGYiXV0/Curriculum%20for%20Master%20in%20Design%20pr%2023.10.2018.pdf)  
 
 
