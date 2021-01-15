@@ -20,16 +20,15 @@ QS世界艺术设计排名：101-150
 >
 > Your portfolio may contain works in any media you choose, i.e. video, web page or app. Should you wish to present a video, web page or app as part of your portfolio, these must be presented as screenshots in your portfolio along with text and functioning link to the specific webpages where they can be seen.
 >
->Your portfolio must appear as one document with multiple pages.
+> Your portfolio must appear as one document with multiple pages.
 Videos must not exceed 10 minutes in lenght.
 >
->Technical specifications for your portfolio:
->
+> Technical specifications for your portfolio:
 > - File format: PDF
 > - Physical format PDF: Landscape orientation A3 (420 x 297mm)
 > - Maximum siza: 250 MB
 > - Name your file as follows: last name_first name_portfolio.pdf
->
+> 
 > The application portal has a 20 MB limit per document.
 If your portfolio exceeds this limit, you may send us your portfolio via WeTransfer or similar service.
 Links for file sharing are sent to admission.kmd@uib.no.
