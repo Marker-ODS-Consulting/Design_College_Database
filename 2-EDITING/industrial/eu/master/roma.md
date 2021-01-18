@@ -39,7 +39,6 @@ QS世界设计艺术排名：101-150
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://corsidilaurea.uniroma1.it/en/corso/2020/30811/home)  
-**申请要求：**[院校链接](https://www.polimi.it/en/international-prospective-students/laurea-magistrale-programmes-equivalent-to-master-of-science/application-procedures/application/list-of-documents-required-by-the-admissions-office/)  
 **说明文档：**[点击下载](https://corsidilaurea.uniroma1.it/sites/default/files/documenti_ufficiali/2020/169/30811_1.pdf)
 
 
