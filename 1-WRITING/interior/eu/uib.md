@@ -28,7 +28,7 @@ Videos must not exceed 10 minutes in lenght.
 > - Physical format PDF: Landscape orientation A3 (420 x 297mm)
 > - Maximum siza: 250 MB
 > - Name your file as follows: last name_first name_portfolio.pdf
-> 
+>
 > The application portal has a 20 MB limit per document.
 If your portfolio exceeds this limit, you may send us your portfolio via WeTransfer or similar service.
 Links for file sharing are sent to admission.kmd@uib.no.
@@ -48,7 +48,7 @@ Links for file sharing are sent to admission.kmd@uib.no.
 
 
 ##### 软性要求解读：
--
+- 无具体要求
 
 
 ---
