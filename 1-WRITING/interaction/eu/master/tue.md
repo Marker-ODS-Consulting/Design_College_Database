@@ -6,10 +6,10 @@
 ### 1. 官网相关信息：
 
 **院校**：Technische Universiteit Eindhoven
-**学位**：Master of Human-Technology Interaction  
-**学制**：2年  
-**费用**：16000欧元  
-**语言**：TOEFL总分90，单科21；IELTS总分6.5，单科不低于6.0  
+**学位**：Master of Human-Technology Interaction
+**学制**：2年
+**费用**：16000欧元
+**语言**：TOEFL总分90，单科21；IELTS总分6.5，单科不低于6.0
 **申请时间**：2月1日（奖学金申请）；5月1日（正常申请截止）
 **申请文件**：成绩证明+学位证明+动机信+个人简历+作品集+语言成绩+推荐信+课程描述
 

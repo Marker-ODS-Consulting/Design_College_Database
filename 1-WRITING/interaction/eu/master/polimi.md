@@ -24,18 +24,23 @@ The portfolio is a collection of selected samples of work from your previous edu
 ### 2. 翻译与解读：
 
 ##### 专业解读：
-属于常规的用户体验设计专业，学习内容涉及到数字产品完整开发过程，包含调研、交互设计、产品原型、概念发展、评估。此外还为学生提供行业实践机会。
+米理的 DID 属于比较典型的交互和用户体验设计专业同时又具备明显的服务思想。从课程安排可以看出，学习内容涉及到数字产品、交互设计、硬软件设计以及数字媒体。
 
 ##### 作品集解读：
+- 硬性要求解读
+  - 文件不大于20MB
 
-
+- 软性要求解读
+  - 展现完整的设计流程，思路清晰。米理作为典型的理工科学院，更重视作品集所体现的设计思维和逻辑思考。
+  - 展现对方法的使用和理解。
+  - 展现专业技法，包含软件（界面、原型）硬件（造型、建模）相关的技法。装置设计不是必需的，除此之外视觉表达、动手能力、代码、视频制作等技能也需要尽可能体现。
 
 ---
 
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://www.polimi.it/?id=6502&anno=2017&campus=&scuola=19&corso=1262&L=1)  
+**专业介绍：**[院校链接](https://www.polimi.it/?id=6502&anno=2020&campus=&scuola=&corso=1262&L=1)  
 **课程介绍：** [院校链接](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?check_params=1&aa=2017&k_corso_la=1262&lang=EN&__pj0=0&__pj1=164b6b8b9ed722a857180f42358b67c6)  
 **申请要求：** [院校链接](https://www.polimi.it/en/programmes/how-to-apply/)
 **语言课：** [院校链接](https://www.polimi.it/en/programmes/language-courses/)
