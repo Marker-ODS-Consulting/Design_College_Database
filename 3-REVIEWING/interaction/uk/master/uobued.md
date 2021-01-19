@@ -43,9 +43,6 @@
 **申请要求：** [院校链接](https://www.brighton.ac.uk/courses/study/user-experience-design-msc-pgcert-pgdip.aspx)
 **语言课：** [院校链接](https://www.brighton.ac.uk/international/study-with-us/courses-and-qualifications/brighton-language-institute/index.aspx)
 
-**解读文章：**：[-](-)  
-**相关视频：**：[-](-)
-**相关视频：**：[-](-)
 
 
 

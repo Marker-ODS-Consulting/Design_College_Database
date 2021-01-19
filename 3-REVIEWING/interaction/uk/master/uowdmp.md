@@ -38,10 +38,6 @@
 **申请要求：** [院校链接](https://www.winchester.ac.uk/study/postgraduate/courses/ma-digital-media-practice-interaction-design/)
 **语言课：** [院校链接](https://www.winchester.ac.uk/study/international/english-language-courses/)
 
-**解读文章：**：[-](-)  
-**相关视频：**：[-](-)
-**相关视频：**：[-](-)
-
 
 
 

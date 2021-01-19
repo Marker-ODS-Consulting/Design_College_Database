@@ -40,11 +40,6 @@
 **申请要求：** [院校链接](https://www.uclan.ac.uk/courses/mres-user-experience-design.php)
 **语言课：** [院校链接](https://www.uclan.ac.uk/schools/language-global-studies/language_academy/language_testing.php)
 
-**解读文章：**：[-]()  
-
-**相关文章：**：[-]()
-**相关视频：**：[-]()
-
 
 
 

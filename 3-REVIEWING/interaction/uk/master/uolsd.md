@@ -50,10 +50,6 @@
 **申请要求：** [院校链接](https://courses.leeds.ac.uk/a672/design-ma#section3)
 **语言课：** [院校链接](https://www.leeds.ac.uk/info/130567/language_centre/617/postgraduate_pre-sessional_english)
 
-**解读文章：**：[-](-)  
-**相关视频：**：[-](-)
-**相关视频：**：[-](-)
-
 
 
 
