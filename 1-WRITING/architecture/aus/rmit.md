@@ -43,21 +43,32 @@ Send message via the online applicant portal with the username and password to a
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-- 作品集无硬性要求  
-
+- A3或者A4大小
+- 页数不超过30页
+- PDF文档
+- 文件大小不超过10mb
 
 ##### 软性要求解读：
+无具体要求
 
+##### 视频要求解读：
+视频部分分为两大部分，合集不得超过4分钟，其中，第一部分控制在1分钟内，第二部分控制在3分钟内。关于录制设备，你可以使用任何设备录制，不太需要担心录制的专业性问题。
 
+视频1要求：
+- 简短的自我介绍加上你最近在做些什么。这部分非常言简意赅的说明一下就可以了。
+- 你想在RMIT学到什么。这个部分多说一些，结合你自身的方向和学校提供的你比较感兴趣的课程来说。
+
+视频2要求：
+- 描述一下你作品集中的项目（这里建议介绍2个时间比较合适），阐述你项目的设计理念，以及是什么对你项目设计理念产生了影响。同时，你要说明你的设计理念是如何推进并发展的。
 
 ---
 
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://www.adelaide.edu.au/degree-finder/2021/march_marchcswk.html#df-acc-admission)  
+**专业介绍：**[院校链接](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc163)  
 **课程介绍：**[院校链接](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-architecture-mc163/mc163auscy)  
-**申请要求：**[院校链接](https://www.adelaide.edu.au/degree-finder/2021/march_marchcswk.html#df-acc-admission)
+**申请要求：**[院校链接](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc163)
 
 
 

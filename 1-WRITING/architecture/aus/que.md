@@ -39,8 +39,8 @@ QS2020世界设计艺术排名：151-200
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://future-students.uq.edu.au/study/programs/master-architecture-5429#overview)  
-**课程介绍：**[院校链接](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-architecture-mc163/mc163auscy)  
-**申请要求：**[院校链接](https://my.uq.edu.au/programs-courses/program_list.html?acad_prog=5429)
+**课程介绍：**[院校链接](https://my.uq.edu.au/programs-courses/program_list.html?acad_prog=5429)  
+**申请要求：**[院校链接](https://future-students.uq.edu.au/admissions/postgraduate-coursework/review-entry-requirements)
 
 
 
