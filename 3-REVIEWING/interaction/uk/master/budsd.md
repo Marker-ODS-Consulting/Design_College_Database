@@ -39,10 +39,6 @@
 **申请要求：** [院校链接](https://www.brunel.ac.uk/study/postgraduate/Digital-Service-Design-MSc)
 **语言课：** [院校链接](https://www.brunel.ac.uk/international/language-centre/Pre-sessional-English)
 
-**解读文章：**：[-](-)  
-**相关视频：**：[-](-)
-**相关视频：**：[-](-)
-
 
 
 

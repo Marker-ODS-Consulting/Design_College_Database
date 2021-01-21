@@ -43,9 +43,6 @@
 **申请要求：** [院校链接](https://www.brighton.ac.uk/courses/study/user-experience-design-msc-pgcert-pgdip.aspx)
 **语言课：** [院校链接](https://www.brighton.ac.uk/international/study-with-us/courses-and-qualifications/brighton-language-institute/index.aspx)
 
-**解读文章：**：[-](-)  
-**相关视频：**：[-](-)
-**相关视频：**：[-](-)
 
 
 
@@ -56,4 +53,4 @@
 #### 编辑历史
 Natt 20210106 已审阅
 Yuan 20201229 已校对
-Muzi 20211221 初次建立
+Muzi 20201221 初次建立

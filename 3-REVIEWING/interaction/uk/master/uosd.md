@@ -47,13 +47,6 @@
 **申请要求：** [院校链接](https://www.shu.ac.uk/courses/art-and-design/mfa-design-interaction/full-time/2020)
 **语言课：** [院校链接](https://www.shu.ac.uk/about-us/academic-departments/the-tesol-centre)
 
-**解读文章：**：[-]()  
-
-**相关文章：**：[-]()
-**相关视频：**：[-]()
-
-
-
 
 ---
 

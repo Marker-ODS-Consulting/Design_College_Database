@@ -40,11 +40,6 @@
 **申请要求：** [院校链接](https://www.uclan.ac.uk/courses/mres-user-experience-design.php)
 **语言课：** [院校链接](https://www.uclan.ac.uk/schools/language-global-studies/language_academy/language_testing.php)
 
-**解读文章：**：[-]()  
-
-**相关文章：**：[-]()
-**相关视频：**：[-]()
-
 
 
 
@@ -54,4 +49,4 @@
 #### 编辑历史
 Natt 20210106 已审阅
 Yuan 20201229 已校对
-Muzi 20211221 初次建立
+Muzi 20201221 初次建立

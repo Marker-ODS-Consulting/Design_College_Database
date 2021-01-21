@@ -55,10 +55,8 @@
 **申请要求：** [院校链接](https://www.southampton.ac.uk/uni-life/international/your-country/asia/china.page#entryreqs)
 **语言课：** [院校链接](https://www.southampton.ac.uk/courses/pre-sessional-language-courses.page)
 
-**解读文章：**：[-]()  
 
 **相关文章：**：[南安普顿大学交互专业详解](http://www.makebi.net/28518.html)
-**相关视频：**：[-]()
 
 
 
