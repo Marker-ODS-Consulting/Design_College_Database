@@ -14,8 +14,7 @@
 **作品集要求原文：**   
 
 >Design Products develops students to be creative, innovative design thinkers supporting them on the journey to develop their own design identities. Design Products embraces a pluralistic approach to design through a number of design cultures through which students develop their design identify and own design culture. These cultures represent current discourses within the discipline and can be, for example through Making or understanding Design for Manufacture, Object Mediated Interactions, understanding Design as a Catalyst, Exploring Emergent Scenarios through design or, addressing and shaping future discourses.  
-
-
+>
 >Essential  
 > - Evidence the ability to envision projects; realisation, making, coding, physical or digital.   
 > - Evidence of good communication skills, to represent concepts and insights.
@@ -23,7 +22,7 @@
 > - Evidence of innovative and critical thinking, this can be through system, artefact, insight or product.
 > - Demonstrate high quality work in documentation of applicant’s process and reflection on what was learned or could be better.
 > - (Desired) Industry or professional experience in the field, this can include internships, business outputs or learning from parallel industries.
-
+>
 > General information
 > - Provide a title and relevant details for each area used. Depending on the work, outline the dimensions (artefact), length (digital audio/video) or word count (written) to describe your work.
 > - You have 5 areas available to upload content, each area can hold multiple files and various file types.

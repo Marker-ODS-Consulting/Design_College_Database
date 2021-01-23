@@ -13,14 +13,14 @@ QS世界设计艺术排名：151-200
 **申请时间**：5月7日截止  
 **申请文件**：2封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**   
-The portfolio should be submitted with your admissions application in PDF format and less than 10Mb (please submit this directly to the MyNottingham application system).
-The portfolio should have a:
+>The portfolio should be submitted with your admissions application in PDF format and less than 10Mb (please submit this directly to the MyNottingham application system).
+>The portfolio should have a:
 > - minimum of 10 and a maximum of 15 images
 > - letter confirming that this is your own work - the letter should come from a tutor or course teacher who has been responsible for you and should be on institution headed paper
 > - front cover of the portfolio which shows your full name
-
-The portfolio should contain:
-
+>
+>The portfolio should contain:
+>
 > - examples of a few design projects that you have completed as part of your taught university education. Try to show different presentation techniques that represent your design skills (such as plans, sections, perspectives, physical and computer models, etc). The images can be any from architectural, urban, planning or landscape projects that you have completed in your studies
 > - you may also include a few sketches, paintings, photographs, still life or life drawings to show your skills (maximum 2 pages)
 > - as well as the above, it is also acceptable to include an example of a project that you have completed as part of work experience or a professional placement (maximum 2 pages)
