@@ -18,11 +18,11 @@ QS世界设计艺术排名：7
 **作品集要求原文：**   
 
 > In the portfolio, applicants display work that shows their designerly insights and skills. The portfolio must contain diverse samples of the applicant’s previous scientific, professional and/or design projects.
-
+>
 >Designwork can be provided as technical drawings, computer renderings, sketches, illustrations, storyboards or photographs. Include six (6) work samples in the portfolio. The work contained in the portfolio must be catalogued, listing at least the title and/or theme, purpose and year of completion of each piece. The catalogue must also detail where and when the work has been completed, exhibited, displayed or published. Each work should be accompanied by a brief explanation. The contribution of the applicant in the work should be stated in case the work has been completed in a group. The applicant’s name, address and phone number and the degree programme applied for must be indicated clearly on the portfolio.
-
+>
 >The portfolio should be uploaded as a single PDF-file. Maximum size for the portfolio is 1.0 GB. Name the file as: Portfolio-surname-firstname.pdf. If your portfolio contains password protected video links, include the password(s) in your portfolio. If a portfolio is not uploaded to the online application form by the deadline, the application will be rejected.
-
+>
 >The intake committee will only evaluate the material displayed in the PDF-file. Links to external material (e.g. website) or video material will not be considered during the intake process.  
 
 
