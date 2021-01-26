@@ -1,4 +1,4 @@
-                                                                                                ## 布鲁内尔大学 | Digital Service Design MSc
+## 布鲁内尔大学 | Digital Service Design MSc
 
 2020年QS世界设计艺术排名: 101-150
 2020年QS世界综合排名: 359
