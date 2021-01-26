@@ -42,7 +42,7 @@ QS2020年世界艺术专业排名：/
 **专业介绍：**[院校链接](https://www.rit.edu/programs/industrial-design-mfa)  
 **申请要求：** [院校链接](https://www.rit.edu/programs/industrial-design-mfa)  
 **语言课：** [院校链接](https://www.rit.edu/emcs/ptgrad/apply/information-for-international-applicants)  
-**课程安排：** [院校链接]https://artdesign.rit.edu/schools/design/graduate-industrial-design)  
+**课程安排：** [院校链接](https://artdesign.rit.edu/schools/design/graduate-industrial-design)  
 **作品集要求：**[院校链接](https://www.rit.edu/admissions/graduate/portfolio-requirements)
 **SlideRoom页面：**[SlideRoom链接](https://rit.slideroom.com/#/Login)
 
