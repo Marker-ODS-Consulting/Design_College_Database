@@ -9,7 +9,7 @@ QS2020年世界艺术专业排名：/
 **院校**：New York School of Interior Design  
 **学位**：MFA Interior Design  
 **学制**：2年  
-**费用**：19,125美元/学期  
+**费用**：1,200美元/学分  
 **语言**：TOEFL最低总分79，IELTS最低总分6.5
 **GRE要求**：不要求
 **申请时间**：2月1日  
@@ -38,9 +38,9 @@ QS2020年世界艺术专业排名：/
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://design.asu.edu/degree-programs/interior-design-msd)  
-**课程介绍：**[院校链接](https://design.asu.edu/sites/default/files/master_of_science_in_design_int_3.pdf)  
-**申请要求：**[院校链接](https://design.asu.edu/degree-programs/interior-design-msd)
+**专业介绍：**[院校链接](https://www.nysid.edu/master-of-fine-arts-in-interior-design/)  
+**课程介绍：**[院校链接](https://www.nysid.edu/master-of-fine-arts-in-interior-design/)  
+**申请要求：**[院校链接](https://www.nysid.edu/admissions-requirements)
 **相关文章1：**[院校链接](http://www.makebi.net/5189.html)
 **相关文章2：**[院校链接](http://www.makebi.net/39540.html)
 
