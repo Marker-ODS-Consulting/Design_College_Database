@@ -15,7 +15,7 @@ QS2020年世界艺术专业排名：/
 **申请材料**：成绩证明（非官方）+学位证明+3封推荐信+个人陈述+个人简历+作品集+作品集动机陈述    
 **作品集要求原文：**   
 
-> As part of the entrance requirements, applicants must demonstrate an understanding of design principles and visual computer skills using Adobe products. A portfolio of 10-15 examples must demonstrate a good sense of design, typography, and illustration in addition to the applicant’s interests in and aptitudes for advanced study and, specifically, potential for success at RIT. Applicants are encouraged to submit only their best original work. Applicants should not submit work copied from film, television, photographs, magazine/book illustrations or other sources.. 
+> As part of the entrance requirements, applicants must demonstrate an understanding of design principles and visual computer skills using Adobe products. A portfolio of 10-15 examples must demonstrate a good sense of design, typography, and illustration in addition to the applicant’s interests in and aptitudes for advanced study and, specifically, potential for success at RIT. Applicants are encouraged to submit only their best original work. Applicants should not submit work copied from film, television, photographs, magazine/book illustrations or other sources. 
 
 
 ---
