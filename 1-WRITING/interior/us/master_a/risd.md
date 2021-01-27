@@ -16,7 +16,7 @@ QS2020年世界艺术专业排名：4
 **申请文件**：成绩证明+学位证明+2封推荐信+个人陈述+个人简历+作品集  
 **作品集要求原文：**   
 > Graduate applicants to studio programs are required to submit 10–20 examples of visual work, with certain programs suggesting more specific ideas or portfolio requirements.
-
+> Images (up to 5MB each), Video (up to 250MB each), Audio (up to 30MB each), PDFs (up to 10MB each) and Models (Sketchfab). You may also link to media from YouTube, Vimeo and SoundCloud
 
 
 

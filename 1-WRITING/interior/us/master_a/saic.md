@@ -34,11 +34,14 @@ QS2020年世界艺术专业排名：9
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
--
+- 至少5个项目
+- 最多20页
+- PDF文档，每个不超过10mb
 
 
 
 ##### 软性要求解读：
+无具体要求
 
 
 ---
@@ -46,9 +49,9 @@ QS2020年世界艺术专业排名：9
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://www.risd.edu/academics/interior-architecture/graduate/)  
-**课程介绍：**[院校链接](https://www.risd.edu/academics/interior-architecture/courses/)  
-**申请要求：**[院校链接](https://www.risd.edu/academics/interior-architecture/graduate/)
+**专业介绍：**[院校链接](https://www.saic.edu/academics/departments/aiado/master-architecture-emphasis-interior-architecture)  
+**课程介绍：**[院校链接](https://www.saic.edu/academics/departments/aiado/courses)  
+**申请要求：**[院校链接](https://www.saic.edu/academics/departments/aiado/master-architecture-emphasis-interior-architecture)
 
 
 ---

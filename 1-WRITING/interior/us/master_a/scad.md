@@ -12,8 +12,8 @@ QS2020年世界艺术专业排名：36
 **费用**：38475美元/年  
 **语言**：TTOEFL最低总分85；IELTS最低总分6.5
 **GRE要求**：不要求
-**申请时间**：截止到1月10日  
-**申请文件**：成绩证明+学位证明+2封推荐信+个人陈述+个人简历+作品集  
+**申请时间**：Rolling  
+**申请文件**：成绩证明（非官方）+学位证明+推荐信+个人陈述+个人简历+作品集+语言要求  
 **作品集要求原文：**   
 > Portfolios should demonstrate your skill sets, problem-solving abilities and the design process through an array of media to include: research, sketching, CAD renderings and model making. Portfolios may include no more than three writing samples with at least one sample of scholarly writing. Work should be submitted in digital format and writings should follow academic paper format.
 
@@ -26,11 +26,12 @@ QS2020年世界艺术专业排名：36
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
--
+无具体要求
 
 
 
 ##### 软性要求解读：
+无具体要求
 
 
 ---
