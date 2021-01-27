@@ -24,11 +24,13 @@
 
 ### 2. 翻译与解读：
 
-##### 专业解读：
-
-
-
 ##### 作品集解读：
+- 硬性要求：
+  - 需包含角色设计，概念插图，互动，3D建模，排版。
+  - 熟练搭建网站，熟练应用Photoshop，Dreamweaver，Maya等软件
+- 软性要求：
+  - MFA Interactive Design and Game Development 是一个交互和游戏设计结合的专业，学生可以有所倾向，打算主修动画的的同学需要着重体现游戏设计方向的能力，打算主修交互的同学可以侧重交互方向，提供3-5个数字产品。
+
 
 
 
@@ -39,7 +41,7 @@
 **专业介绍：**[院校链接](https://www.scad.edu/academics/programs/interactive-design-and-game-development/degrees/mfa)  
 **课程介绍：** [院校链接](https://www.scad.edu/academics/programs/interactive-design-and-game-development/degrees/mfa)  
 **申请要求：** [院校链接](https://www.scad.edu/admission/admission-information)
-**语言课：** [院校链接](https://www.scad.edu/admission/admission-information/evidence-english-proficiency-students-whose-first-language-not-english)
+**语言课：** [院校链接](https://www.scad.edu/admission/admission-information/evidence-english-proficiency- students-whose-first-language-not-english)
 
 ---
 
