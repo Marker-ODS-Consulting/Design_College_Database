@@ -9,7 +9,7 @@ QS2020年世界艺术专业排名：36
 **院校**：Savannah College of Art and Design  
 **学位**：MFA Interior Design  
 **学制**：3年  
-**费用**：38475美元/年  
+**费用**：38,475美元/年  
 **语言**：TTOEFL最低总分85；IELTS最低总分6.5
 **GRE要求**：不要求
 **申请时间**：Rolling  

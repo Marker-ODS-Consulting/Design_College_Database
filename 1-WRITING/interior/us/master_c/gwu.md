@@ -33,11 +33,12 @@ The MFA in Interior Architecture is a first professional degree and not open to 
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
--
-
+无具体要求
 
 
 ##### 软性要求解读：
+无具体要求
+
 
 
 ---

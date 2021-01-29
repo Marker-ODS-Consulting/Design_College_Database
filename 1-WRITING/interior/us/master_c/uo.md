@@ -29,19 +29,17 @@ QS2020年世界艺术专业排名：/
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
--
-
-
+无具体要求
 
 ##### 软性要求解读：
-
+无具体要求
 
 ---
 
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://www.cla.purdue.edu/academic/rueffschool/ad/interior/graduate_program.html)  
+**专业介绍：**[院校链接](https://archenvironment.uoregon.edu/interior-architecture/graduate)  
 **课程介绍：**[院校链接](https://archenvironment.uoregon.edu/interior-architecture/graduate/miarch1) （3年制）
 **课程介绍：**[院校链接](https://archenvironment.uoregon.edu/interior-architecture/graduate/miarch2) （2年制）
 **申请要求：**[院校链接](https://archenvironment.uoregon.edu/interior-architecture/apply/miarch)

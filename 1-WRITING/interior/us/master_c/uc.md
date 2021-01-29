@@ -26,20 +26,18 @@ QS2020年世界艺术专业排名：/
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
--
-
-
+无具体要求
 
 ##### 软性要求解读：
-
+无具体要求
 
 ---
 
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://daap.uc.edu/academics/said/programs/mintd)  
-**课程介绍：**[院校链接](https://cla.purdue.edu/academic/rueffschool/ad/interior/courses.html)  
+**专业介绍：**[院校链接](https://webapps2.uc.edu/ecurriculum/DegreePrograms/Program/Detail/23MAS-INTD-MINTD)  
+**课程介绍：**[院校链接](https://webapps2.uc.edu/ecurriculum/degreeprograms/program/majormap/23MAS-INTD-MINTD)  
 **申请要求：**[院校链接](https://webapps2.uc.edu/ecurriculum/DegreePrograms/Program/Detail/23MAS-INTD-MINTD)
 
 
