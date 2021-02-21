@@ -35,6 +35,7 @@ Applicants are encouraged to consult the MFA Interaction Design website for furt
   - 展现完整的设计流程，思路清晰。
   - 展现对方法的使用和理解。
   - 展现专业技法：图形、交互、动效、产品建模、测试评估、空间、媒体、服务。
+  - 建议写一份案例研究"case study"，1-6页，详细说明你的一个项目从概念到完成的过程。
 
 
 
