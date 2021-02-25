@@ -2,7 +2,9 @@
 
 
 
-####待解决  
+####待解决   
+- 工业设计us-master_a的accd院校名称错误 
+- domus服务设计内容没改  
 
 - HCI 的补充软性解读
 - interaction 的补充有用链接
