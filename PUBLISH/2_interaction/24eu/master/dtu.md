@@ -4,7 +4,7 @@
 2020年QS世界综合排名: 112  
 
 ### 1. 官网相关信息：
-
+**国家**：丹麦 | Denmark
 **院校**：Technical University of Denmark
 **学位**：MSc Design and Innovation in User Experience and Systems Design
 **学制**：2年

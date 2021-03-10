@@ -4,7 +4,7 @@
 2020年QS世界综合排名: 98  
 
 ### 1. 官网相关信息：
-
+**国家**：瑞典 | Sweden
 **院校**：Kungliga Tekniska högskolan
 **学位**：Interactive Media Technology  
 **学制**：2年  

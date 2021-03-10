@@ -4,7 +4,7 @@
 2020年QS世界综合排名: /  
 
 ### 1. 官网相关信息：
-
+**国家**：匈牙利 | Hungary
 **院校**：EIT Digital Master School
 **学位**：Human Computer Interaction and Design (HCID)
 **学制**：2年

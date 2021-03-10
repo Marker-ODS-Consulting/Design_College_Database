@@ -4,7 +4,7 @@
 2020年QS世界综合排名: /  
 
 ### 1. 官网相关信息：
-
+**国家**：法国 | France
 **院校**：L'ecole de design Nantes Atlantique
 **学位**：MSc in Computer Science Human-Computer Interaction (HCI)
 **学制**：2年

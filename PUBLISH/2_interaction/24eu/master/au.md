@@ -4,7 +4,7 @@
 2020年QS世界综合排名: 134  
 
 ### 1. 官网相关信息：
-
+**国家**：芬兰 | Finland
 **院校**：Aalto University
 **学位**：Human Computer Interaction and Design
 **费用**：15000欧元  

@@ -4,7 +4,7 @@
 2020年QS世界综合排名: 125  
 
 ### 1. 官网相关信息：
-
+**国家**：瑞典 | Sweden
 **院校**：Chalmers University of Technology
 **学位**：Interaction Technology  
 **学制**：2年  

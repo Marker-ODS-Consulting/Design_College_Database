@@ -4,7 +4,7 @@
 2020年QS世界综合排名: 359  
 
 ### 1. 官网相关信息：
-
+**国家**：丹麦 | Denmark
 **院校**：University of Southern Denmark
 **学位**：MSc in IT – Web Communication Design
 **学制**：2年

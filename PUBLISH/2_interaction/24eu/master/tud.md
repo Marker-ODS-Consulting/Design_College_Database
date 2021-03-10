@@ -4,7 +4,7 @@
 2020年QS世界设计综合排名: 50  
 
 ### 1. 官网相关信息：
-
+**国家**：荷兰 | Netherlands
 **院校**：Delft University of Technology
 **学位**：MSc Design for Interaction
 **学制**：2年

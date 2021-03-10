@@ -4,7 +4,7 @@
 2020年QS世界综合排名: /  
 
 ### 1. 官网相关信息：
-
+**国家**：瑞典 | Sweden
 **院校**：Jönköping University
 **学位**：User Experience Design Msc  
 **学制**：2年  
@@ -24,8 +24,8 @@
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://ju.se/en/study-at-ju/our-programmes/master-programmes/industrial-design.html)  
-**课程介绍：** [院校链接](http://uid.umu.se/en/applications/programmes/mfa-in-interaction-design/subjects/)  
+**专业介绍：**[院校链接](https://ju.se/en/study-at-ju/our-programmes/master-programmes/user-experience-design.html)  
+**课程介绍：** [院校链接](https://ju.se/en/study-at-ju/our-programmes/master-programmes/user-experience-design.html)  
 **申请要求：** [院校链接](https://ju.se/en/study-at-ju/admissions/masters-admission-guide.html)
 **语言课：** [院校链接](https://ju.se/en/study-at-ju/admissions/language-requirements.html)
 

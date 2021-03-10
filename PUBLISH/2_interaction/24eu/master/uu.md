@@ -4,7 +4,7 @@
 2020年QS世界综合排名: 116  
 
 ### 1. 官网相关信息：
-
+**国家**：瑞典 | Sweden
 **院校**：Uppsala University
 **学位**：Human-Computer Interaction  
 **学制**：2年  
@@ -24,10 +24,10 @@
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://www.kth.se/en/studies/master/interactivemediatechnology)  
+**专业介绍：**[院校链接](https://www.uu.se/en/admissions/master/selma/program/?pKod=SMD2M)  
 **课程介绍：** [院校链接](http://www.uu.se/en/admissions/master/selma/studieplan/?planId=1276&pKod=SMD2M)  
 **申请要求：** [院校链接](http://www.uu.se/en/admissions/master/selma/program/?pKod=SMD2M&pInr=&lasar=19%2F20)
-**语言课：** [院校链接]
+**语言课：** /
 
 
 

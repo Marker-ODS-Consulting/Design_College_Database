@@ -4,7 +4,7 @@
 2020年QS世界综合排名: 359  
 
 ### 1. 官网相关信息：
-
+**国家**：挪威 | Norway
 **院校**：Norwegian University of Science and Technology
 **学位**：MIXD Interaction Design
 **学制**：2年

@@ -3,7 +3,7 @@
 2020年QS世界综合排名: /  
 
 ### 1. 官网相关信息：
-
+**国家**：挪威 | Norway
 **院校**：The Oslo School of Architecture and Design
 **学位**：Master of Interaction Design
 **学制**：2年  

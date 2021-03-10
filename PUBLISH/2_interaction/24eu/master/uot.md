@@ -4,7 +4,7 @@
 2020年QS世界综合排名: 102  
 
 ### 1. 官网相关信息：
-
+**国家**：荷兰 | Netherlands
 **院校**：University of Twente
 **学位**：Interaction Technology  
 **学制**：2年  

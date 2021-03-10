@@ -4,7 +4,7 @@
 2020年QS世界综合排名: 149  
 
 ### 1. 官网相关信息：
-
+**国家**：意大利 | Italy
 **院校**：Politecnico di Milano
 **学位**：Digital and Interaction Design
 **学制**：2年  
