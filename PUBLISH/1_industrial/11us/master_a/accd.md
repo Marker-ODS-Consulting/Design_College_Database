@@ -1,4 +1,4 @@
-## 艺术中心 | Graduate Industrial Design   
+## 艺术中心设计学院 | Graduate Industrial Design   
 QS2020年世界综合排名: /
 QS2020年世界艺术专业排名：4
 

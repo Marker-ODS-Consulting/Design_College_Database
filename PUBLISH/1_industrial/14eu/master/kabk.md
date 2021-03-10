@@ -1,4 +1,4 @@
-## 海牙皇家艺术学院 | Master Industrial Design
+## 海牙皇家艺术学院[荷兰] | Master Industrial Design
 
 QS世界设计专业排名：/
 QS世界艺术设计排名：51-100
