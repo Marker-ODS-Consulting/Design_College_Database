@@ -12,17 +12,17 @@
       * [1.1.7 纽约视觉艺术学院](1_industrial/11us/master_a/sva.md)
       * [1.1.8 萨凡纳艺术设计学院](1_industrial/11us/master_a/scad.md)
 
-    * [1.2 美国综合类工业设计硕士](1_industrial/11us/master_c/accd.md)
-      * [1.2.1 宾夕法尼亚大学M:IPD](1_industrial/11us/master_c/accd.md)
-      * [1.2.2 宾夕法尼亚大学MSE:IPD](1_industrial/11us/master_c/risd.md)
-      * [1.2.3 华盛顿大学](1_industrial/11us/master_c/parsons.md)
-      * [1.2.4 乔治亚理工学院](1_industrial/11us/master_c/pratt.md)
-      * [1.2.5 伊利诺大学香槟分校UIUC](1_industrial/11us/master_c/cranbrook.md)
-      * [1.2.6 普渡大学](1_industrial/11us/master_c/cca.md)
-      * [1.2.7 亚利桑那州立大学MID](1_industrial/11us/master_c/sva.md)
-      * [1.2.8 亚利桑那州立大学MSD](1_industrial/11us/master_c/scad.md)
-      * [1.2.9 辛辛那堤大学](1_industrial/11us/master_c/scad.md)
-      * [1.2.10 罗切斯特理工大学](1_industrial/11us/master_c/scad.md)
+    * [1.2 美国综合类工业设计硕士](1_industrial/11us/master_c/upennmipd.md)
+      * [1.2.1 宾夕法尼亚大学M:IPD](1_industrial/11us/master_c/upennmipd.md)
+      * [1.2.2 宾夕法尼亚大学MSE:IPD](1_industrial/11us/master_c/upennmseipd.md)
+      * [1.2.3 华盛顿大学](1_industrial/11us/master_c/uw.md)
+      * [1.2.4 乔治亚理工学院](1_industrial/11us/master_c/git.md)
+      * [1.2.5 伊利诺大学香槟分校UIUC](1_industrial/11us/master_c/uiuc.md)
+      * [1.2.6 普渡大学](1_industrial/11us/master_c/purdue.md)
+      * [1.2.7 亚利桑那州立大学MID](1_industrial/11us/master_c/asumid.md)
+      * [1.2.8 亚利桑那州立大学MSD](1_industrial/11us/master_c/asumsd.md)
+      * [1.2.9 辛辛那堤大学](1_industrial/11us/master_c/uccnt.md)
+      * [1.2.10 罗切斯特理工大学](1_industrial/11us/master_c/rit.md)
 
    * [1.3 英国工业设计硕士](1_industrial/13uk/master/rca.md)
       * [1.3.1 皇家艺术学院](1_industrial/13uk/master/rca.md)
@@ -32,7 +32,7 @@
       * [1.3.5 布鲁内尔大学](1_industrial/13uk/master/bru.md)
       * [1.3.6 格拉斯哥艺术学院](1_industrial/13uk/master/gsa.md)
       * [1.3.7 邓迪大学](1_industrial/13uk/master/dundee.md)
-      * [1.3.8 谢菲尔德哈勒姆大学](1_industrial/13uk/mastershu.md)
+      * [1.3.8 谢菲尔德哈勒姆大学](1_industrial/13uk/master/shu.md)
       * [1.3.9 考文垂大学](1_industrial/13uk/master/cov.md)
 
    * [1.4 欧洲大陆工业设计硕士](1_industrial/14eu/master/aalto.md)
@@ -63,7 +63,7 @@
       * [1.4.1 多莫斯设计学院[意大利]](1_industrial/14eu/master/domus.md)
       * [1.4.1 科隆应用科技大学[德国]](1_industrial/14eu/master/tuc.md)
 
-   * [1.5 澳大利亚工业设计硕士](1_industrial/15au/master/aalto.md)
+   * [1.5 澳大利亚工业设计硕士](1_industrial/15au/master/unsw.md)
       * [1.5.1 新南威尔士大学](1_industrial/15au/master/unsw.md)
       * [1.5.2 莫纳什大学](1_industrial/15au/master/monash.md)
       * [1.5.3 悉尼科技大学](1_industrial/15au/master/uts.md)
@@ -74,17 +74,17 @@
     * [2.1 美国艺术类交互设计硕士](2_interaction/21us/master_a/accd.md)
       * [2.1.1 艺术中心ACCD](2_interaction/21us/master_a/accd.md)
       * [2.1.2 罗德岛设计学院](2_interaction/21us/master_a/risd.md)
-      * [2.1.3 纽约视觉艺术学院](2_interaction/21us/master_a/parsons.md)
-      * [2.1.4 加州艺术学院MDes](2_interaction/21us/master_a/pratt.md)
-      * [2.1.5 加州艺术学院MFA](2_interaction/21us/master_a/risd.md)
-      * [2.1.6 普瑞特艺术学院 MFA](2_interaction/21us/master_a/parsons.md)
-      * [2.1.7 普瑞特艺术学院 MS](2_interaction/21us/master_a/pratt.md)
-      * [2.1.8 帕森斯设计学院 MFA](2_interaction/21us/master_a/risd.md)
-      * [2.1.9 帕森斯设计学院 MPS](2_interaction/21us/master_a/parsons.md)
-      * [2.1.10 萨凡纳艺术学院](2_interaction/21us/master_a/pratt.md)
+      * [2.1.3 纽约视觉艺术学院](2_interaction/21us/master_a/sva.md)
+      * [2.1.4 加州艺术学院MDes](2_interaction/21us/master_a/ccamdes.md)
+      * [2.1.5 加州艺术学院MFA](2_interaction/21us/master_a/ccamfa.md)
+      * [2.1.6 普瑞特艺术学院 MFA](2_interaction/21us/master_a/prattmfa.md)
+      * [2.1.7 普瑞特艺术学院 MS](2_interaction/21us/master_a/prattms.md)
+      * [2.1.8 帕森斯设计学院 MFA](2_interaction/21us/master_a/parsonsmfa.md)
+      * [2.1.9 帕森斯设计学院 MPS](2_interaction/21us/master_a/parsonsmps.md)
+      * [2.1.10 萨凡纳艺术学院](2_interaction/21us/master_a/scad.md)
 
     * [2.2 美国综合类交互设计硕士](2_interaction/21us/master_c/cmudid.md)
-      * [2.2.1 卡内基梅隆大学 DID](2_interaction/21us/master_c/cumdid.md)
+      * [2.2.1 卡内基梅隆大学 DID](2_interaction/21us/master_c/cmudid.md)
       * [2.2.2 卡内基梅隆大学 HCI](2_interaction/21us/master_c/cmuhci.md)
       * [2.2.3 罗切斯特理工大学](2_interaction/21us/master_c/rit.md)
       * [2.2.4 天普大学](2_interaction/21us/master_c/tmp.md)
@@ -148,9 +148,3 @@
       * [2.5.5 新南威尔士大学](2_interaction/25au/master/unsw.md)
       * [2.5.6 悉尼科技大学](2_interaction/25au/master/uts.md)
       * [2.5.7 墨尔本皇家理工](2_interaction/25au/master/rmit.md)
-      
-
-
-
-
-
