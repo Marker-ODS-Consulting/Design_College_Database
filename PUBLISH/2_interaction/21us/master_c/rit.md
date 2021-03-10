@@ -1,6 +1,6 @@
 ## 罗切斯特理工大学 | Visual Communication Design MFA (interaction design option)
 
-2020年QS世界设计艺术排名: /
+2020年QS世界设计艺术排名: / 
 2020年QS世界综合排名: /  
 
 ### 1. 官网相关信息：

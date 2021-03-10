@@ -1,4 +1,4 @@
-## 天堪萨斯大学 | Interaction and User Experience Design MA
+## 堪萨斯大学 | Interaction and User Experience Design MA
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: 372
 
