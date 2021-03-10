@@ -1,4 +1,4 @@
-## ACCD | Graduate Industrial Design   
+## 艺术中心 | Graduate Industrial Design   
 QS2020年世界综合排名: /
 QS2020年世界艺术专业排名：4
 
@@ -6,7 +6,7 @@ QS2020年世界艺术专业排名：4
 
 ### 1. 官网相关信息：
 
-**院校**：Rhode Island School of Design    
+**院校**：Art Center (ACCD)   
 **学位**：Graduate Industrial Design
 **学制**：2 年  
 **费用**：24,190美元/学期  
