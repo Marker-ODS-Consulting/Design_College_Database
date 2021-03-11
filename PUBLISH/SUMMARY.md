@@ -242,7 +242,7 @@
       * [5.4.7 奥斯陆国立美术学院 [挪威]](5_interior/54eu/master/khio.md)
       * [5.4.8 卑尔根国立美术学院 [挪威]](5_interior/54eu/master/uib.md)
       * [5.4.9 瑞典国立艺术与设计学院 [瑞典]](5_interior/54eu/master/kuacd.md)
-      * [5.4.10 米兰理工大学[意大利]](5_interior/54eu/master/pdm.md)
+      * [5.4.10 米兰理工大学 [意大利]](5_interior/54eu/master/pdm.md)
 
 * [6 建筑设计硕士数据](6_architecture/6_architecture.md)
   * [6.1 英国建筑设计硕士](6_architecture/61uk/master/aa.md)
@@ -256,7 +256,7 @@
       * [6.1.8 曼彻斯特大学](6_architecture/61uk/master/um.md)
       * [6.1.9 诺丁汉大学](6_architecture/61uk/master/un.md)
       * [6.1.10 谢菲尔德大学](6_architecture/61uk/master/us.md)
-      
+
   * [6.2 澳洲建筑设计硕士](6_architecture/62au/master/ade.md)
       * [6.2.1 阿德莱德大学](6_architecture/62au/master/ade.md)
       * [6.2.2 莫纳什大学](6_architecture/62au/master/mon.md)
