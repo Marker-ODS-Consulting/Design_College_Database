@@ -1,0 +1,29 @@
+{
+    "root": "./",
+    "title": "设计留学院校库 by 马克笔设计留学",
+    "head_title": "设计留学院校库 by 马克笔设计留学",
+    "head_description": "/",
+    "head_keywords": "马克笔设计留学,设计留学院校库",
+    "logo": "./images/logo.png",
+
+    "gitbook": ">= 3.0.0",
+
+    "language": "zh-hans",
+
+    "plugins": [
+        "-sharing",
+        "-fontsettings",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "sitemap-general",
+        "splitter",
+        "toggle-chapters"
+    ],
+
+    "pluginsConfig": {
+        "sitemap-general": {
+            "prefix": "http://uni.makebi.net/"
+        }
+    }
+}
