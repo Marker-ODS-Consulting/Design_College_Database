@@ -187,3 +187,7 @@
       * [3.4.2 堪培拉大学](3_service/34au/master/canberra.md)
       * [3.4.1 新南威尔士大学](3_service/34au/master/unsw.md)
       * [3.4.2 悉尼科技大学](3_service/34au/master/uts.md)
+
+  * [4 HCI 人机交互](3_service/3_service.md)
+      * [3.1 美国服务设计硕士](3_service/31us/master/cmu.md)
+        * [3.1.1 卡内基梅隆大学](3_service/31us/master/cmu.md)
