@@ -151,12 +151,12 @@
 
 
 * [3 服务设计硕士数据](3_service/3_service.md)
-    * [3.1 美国服务设计硕士](4_hci/uk/master/cmu.md)
-      * [3.1.1 卡内基梅隆大学](4_hci/uk/master/cmu.md)
-      * [3.1.2 帕森斯设计学院](4_hci/uk/master/parsons.md)
-      * [3.1.3 罗切斯特理工大学](4_hci/uk/master/rit.md)
-      * [3.1.4 萨凡纳艺术学院](4_hci/uk/master/scad.md)
-      * [3.1.5 纽约视觉艺术学院](4_hci/uk/master/sva.md)
+    * [3.1 美国服务设计硕士](3_service/31us/master/cmu.md)
+      * [3.1.1 卡内基梅隆大学](3_service/31us/master/cmu.md)
+      * [3.1.2 帕森斯设计学院](3_service/31us/master/parsons.md)
+      * [3.1.3 罗切斯特理工大学](3_service/31us/master/rit.md)
+      * [3.1.4 萨凡纳艺术学院](3_service/31us/master/scad.md)
+      * [3.1.5 纽约视觉艺术学院](3_service/31us/master/sva.md)
 
     * [3.2 英国服务设计硕士](3_service/32uk/master/rcasd.md)
       * [3.2.1 皇家艺术学院](3_service/32uk/master/rcasd.md)
