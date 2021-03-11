@@ -23,8 +23,8 @@
       * [1.2.8 亚利桑那州立大学MSD](1_industrial/11us/master_c/asumsd.md)
       * [1.2.9 辛辛那堤大学](1_industrial/11us/master_c/uccnt.md)
       * [1.2.10 罗切斯特理工大学](1_industrial/11us/master_c/rit.md)
-
-   * [1.3 英国工业设计硕士](1_industrial/13uk/master/rca.md)
+      
+    * [1.3 英国工业设计硕士](1_industrial/13uk/master/rca.md)
       * [1.3.1 皇家艺术学院](1_industrial/13uk/master/rca.md)
       * [1.3.2 中央圣马丁艺术学院（伦敦艺术大学）](1_industrial/13uk/master/ualcsm.md)
       * [1.3.3 拉夫堡大学](1_industrial/13uk/master/lboro.md)
@@ -148,7 +148,6 @@
       * [2.5.4 新南威尔士大学](2_interaction/25au/master/unsw.md)
       * [2.5.6 悉尼科技大学](2_interaction/25au/master/uts.md)
       * [2.5.7 墨尔本皇家理工](2_interaction/25au/master/rmit.md)
-
 
 * [3 服务设计硕士数据](3_service/3_service.md)
     * [3.1 美国服务设计硕士](3_service/31us/master/cmu.md)
