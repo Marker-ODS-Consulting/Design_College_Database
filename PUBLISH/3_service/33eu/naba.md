@@ -1,4 +1,4 @@
-## 米兰新美术学院【意大利】| Master of Arts in Product and Service Design
+## 米兰新美术学院 [意大利] | Master of Arts in Product and Service Design
 2020年QS世界设计艺术排名: /  
 2020年QS世界院校综合排名：/
 

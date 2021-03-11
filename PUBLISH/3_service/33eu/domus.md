@@ -1,6 +1,6 @@
-## 奥斯陆建筑设计学院【挪威】 | Master of Design in Service Design
+## 奥斯陆建筑设计学院挪威】 | Master of Design in Service Design
 2020年QS世界设计艺术排名: 51-100  
-2020年QS世界院校综合排名：/ 
+2020年QS世界院校综合排名：/
 
 ### 1. 官网相关信息：
 
@@ -25,7 +25,7 @@
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-- 清晰地传递出学生的设计概念，完整地表现出设计内容，做到逻辑自洽。作品集的排版要经过一定的设计，注意项目顺序，注意story telling的方式。 
+- 清晰地传递出学生的设计概念，完整地表现出设计内容，做到逻辑自洽。作品集的排版要经过一定的设计，注意项目顺序，注意story telling的方式。
 
 - 作品集必须是一个单独的PDF，文件大小不超过15MB。
 
@@ -41,7 +41,7 @@
 **课程介绍：** [院校链接](https://aho.no/en/content/master-design-2-years)  
 **申请要求：** [院校链接](https://aho.no/en/studier/masterofdesign2/admission)
 
- 
+
 **解读文章：**：[免学费？学校好？来挪威读设计吧](http://www.makebi.net/27327.html)  
 
 
@@ -53,4 +53,3 @@
 
 
 Cheng 20210108 初次建立  
-

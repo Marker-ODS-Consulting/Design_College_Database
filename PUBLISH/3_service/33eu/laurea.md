@@ -1,4 +1,4 @@
-## 拉瑞尔应用科技大学【芬兰】 | MBA in Service Innovation and Design
+## 拉瑞尔应用科技大学[芬兰] | MBA in Service Innovation and Design
 
 2020年QS世界设计艺术排名: /  
 2020年QS世界院校综合排名：/

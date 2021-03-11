@@ -1,4 +1,4 @@
-## 奥尔堡大学【丹麦】| MSc Service System Design
+## 奥尔堡大学 [丹麦]| MSc Service System Design
 2020年QS世界设计艺术排名: 151-200  
 2020年QS世界院校综合排名：323
 
