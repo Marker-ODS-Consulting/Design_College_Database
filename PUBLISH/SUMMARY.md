@@ -60,7 +60,7 @@
         * [1.4.1 米兰工业设计学院 [意大利]](1_industrial/14eu/master/spd.md)
         * [1.4.1 多莫斯设计学院 [意大利]](1_industrial/14eu/master/domus.md)
         * [1.4.1 科隆应用科技大学 [德国]](1_industrial/14eu/master/tuc.md)
-        * [1.5 澳大利亚工业设计硕士](1_industrial/15au/master/unsw.md)
+    * [1.5 澳大利亚工业设计硕士](1_industrial/15au/master/unsw.md)
         * [1.5.4 新南威尔士大学](1_industrial/15au/master/unsw.md)
         * [1.5.3 莫纳什大学](1_industrial/15au/master/monash.md)
         * [1.5.1 悉尼科技大学](1_industrial/15au/master/uts.md)
