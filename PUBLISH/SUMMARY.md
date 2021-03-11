@@ -161,7 +161,7 @@
     * [3.2 英国服务设计硕士](3_service/32uk/master/rcasd.md)
       * [3.2.1 皇家艺术学院](3_service/32uk/master/rcasd.md)
       * [3.2.2 伦艺 伦敦传媒学院](3_service/32uk/master/lccsd.md)
-      * [3.2.3 格拉斯哥艺术学院](3_service/32uk/master/gas.md)
+      * [3.2.3 格拉斯哥艺术学院](3_service/32uk/master/gsa.md)
       * [3.2.4 伦敦大学金史密斯学院](3_service/32uk/master/gs.md)
       * [3.2.5 爱丁堡大学](3_service/32uk/master/edin.md)
       * [3.2.6 华威大学](3_service/32uk/master/uow.md)
