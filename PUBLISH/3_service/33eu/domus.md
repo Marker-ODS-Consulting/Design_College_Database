@@ -1,4 +1,4 @@
-## 奥斯陆建筑设计学院挪威】 | Master of Design in Service Design
+## 奥斯陆建筑设计学院 [挪威] | Master of Design in Service Design
 2020年QS世界设计艺术排名: 51-100  
 2020年QS世界院校综合排名：/
 
