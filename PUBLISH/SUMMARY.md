@@ -202,7 +202,7 @@
 
 * [5 室内设计硕士数据](5_interior/5_interior.md)
     * [5.1 欧洲大陆室内设计硕士](5_interior/61eu/master/aia.md)
-      * [5.1.1 阿尔特兹艺术设计学院 [荷兰]](5_interior/61eu/master/aia.md)
+      * [5.1.1 阿尔特兹艺术学院 [荷兰]](5_interior/61eu/master/aia.md)
       * [5.1.2 海牙皇家艺术学院 [荷兰]](5_interior/61eu/master/raa.md)
       * [5.1.3 鹿特丹应用科技大学 [荷兰]](5_interior/61eu/master/ru.md)
       * [5.1.4 阿尔托大学 [芬兰]](5_interior/61eu/master/au.md)
@@ -214,7 +214,7 @@
 
     * [5.2 英国室内设计硕士](5_interior/62uk/master/rca.md)
       * [5.2.1 皇家艺术学院](5_interior/62uk/master/rca.md)
-      * [5.2.2 伦艺 坎伯韦尔艺术与设计学院](5_interiore/62uk/master/ual.md)
+      * [5.2.2 伦敦艺术大学 坎伯韦尔艺术与设计学院](5_interiore/62uk/master/ual.md)
       * [5.2.3 格拉斯哥艺术学院](5_interior//62uk/master/gas.md)
       * [5.2.4 建筑联盟学院](5_interior/62uk/master/aa.md)
       * [5.2.5 爱丁堡大学](5_interior/62uk/master/edin.md)
