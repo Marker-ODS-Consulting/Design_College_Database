@@ -8,7 +8,7 @@
 - **欧洲交互设计 umu.md 直接错误了 muzi**   
 - **延雪平大学 里是UMU学校的链接**
 - **乌普萨纳大学 介绍里是 KTH 的链接**
-- **补充拉夫堡大学的 service 方向资料，[链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/user-experience-service-design/)
+- **补充拉夫堡大学的 service 方向资料，[链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/user-experience-service-design/)**
 
 
 - domus服务设计内容没改  
