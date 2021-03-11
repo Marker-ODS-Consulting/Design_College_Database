@@ -2,7 +2,7 @@
 
 2020年QS世界综合院校排名: 96  
 
-### 1. 官网相关信息：
+### 1. 官网相关信息： 
 
 **院校**：University of Nottingham  
 **学位**：MSc Human Computer Interaction  

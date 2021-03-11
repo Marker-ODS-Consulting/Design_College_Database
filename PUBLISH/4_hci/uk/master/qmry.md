@@ -14,7 +14,7 @@
 **申请文件**： 学历证明+成绩单+个人陈述+推荐信+学习计划+语言成绩
 **作品集要求**：不强制要求提供  
 
-**课程描述：**   
+**课程描述：**    
 
 > Human computer interaction specialises in understanding the relationship between people and digital technologies.
 

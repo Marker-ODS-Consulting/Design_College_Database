@@ -1,14 +1,14 @@
 ## 约克大学 | MSc in Human-Centred Interactive Technologies
 
 2020年QS世界综合院校排名: 148  
-
+ 
 ### 1. 官网相关信息：
 
 **院校**：University of York  
 **学位**：MSc in Human-Centred Interactive Technologies  
 **学制**：1 年  
 **费用**：22720英镑/年  
-**语言**：IELTS总分6.5，单科6.0  
+**语言**：IELTS总分6.5，单科6.0   
 **申请时间**：无具体要求  
 **申请文件**： 学历证明+成绩单+个人陈述+简历+推荐信+语言+证明文件  
 **作品集要求**：不强制要求提供  

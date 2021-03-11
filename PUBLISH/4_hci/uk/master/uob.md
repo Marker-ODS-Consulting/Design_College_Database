@@ -23,15 +23,15 @@
 > The discipline of Human Computer Interaction is about many things: It is about the interface that a system provides (and, therefore, is the most important and most complex component of most systems) but it is also about so much more. We need to understand the people that use the systems and their abilities and constraints. We need to understand how to build systems that really work and also how to evaluate them. We also need to be able to think creatively in order to build innovative solutions to new problems and emerging applications and domains - to be able to solve the problems of tomorrow’s world rather than just those of today.
 
 > This course covers the underpinning theories, methodologies and practices of HCI. It includes specialist modules in application domains. Through course and project work your degree is intimately integrated into the research of the University’s HCI centre.
-
+>
 > Why study Human Computer Interaction Masters/MSc at Birmingham?
-
+>
 > - Birmingham is one of the leading universities in the country for postgraduate study in computer science, and we are proud to deliver outstanding programmes that offer a range of exciting career opportunities for students from around the world.
-
+>
 > - State-of-the-art, multi-million-pound facilities include dedicated laboratories for Computer Science students, a teaching laboratory for Robotics, and research laboratories for Security, Medical Imaging Intelligent Robotics and Computer Vision.
-
+>
 > - We are a partner in The Alan Turing Institute, the UK's national institute for data science and artificial intelligence.
-
+>
 > - Our Security and Privacy Group is recognised as an EPSRC/GCHQ Academic Centre of Excellence in Cyber Security Research and we have a strong collaboration with the Centre for Computational Biology (CCB).
 
 

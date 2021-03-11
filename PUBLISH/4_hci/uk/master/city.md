@@ -27,7 +27,6 @@
 
 > - Study modules that cover the entire user-centred design and evaluation process - from understanding user needs, to designing interactive systems that meet those needs, to evaluating the usability of those (and existing systems) through user research.
 
-
 ---
 
 

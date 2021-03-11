@@ -1,8 +1,7 @@
-## 伦敦大学学院 | MSc Human Computer Interaction
+## 伦敦大学学院 | MSc Human Computer Interaction  
 
 2020年QS世界综合院校排名: 8          
 2020年QS世界设计艺术院校排名：36
-
 
 ### 1. 官网相关信息：
 
