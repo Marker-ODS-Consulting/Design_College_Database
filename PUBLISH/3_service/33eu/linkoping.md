@@ -1,4 +1,4 @@
-## 林雪平大学【瑞典】| Master of Design
+## 林雪平大学[瑞典]| Master of Design
 2020年QS世界设计艺术排名: /  
 2020年QS世界院校综合排名：324
 

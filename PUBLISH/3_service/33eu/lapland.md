@@ -1,4 +1,4 @@
-## 拉普兰大学 【芬兰】  | Master in Arctic Art & Design
+## 拉普兰大学 [芬兰]  | Master in Arctic Art & Design
 2020年QS世界设计艺术排名: /  
 2020年QS世界院校综合排名：/
 

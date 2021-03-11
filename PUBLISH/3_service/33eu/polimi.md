@@ -1,4 +1,4 @@
-## 米兰理工大学【意大利】| Msc Product Service System Design
+## 米兰理工大学 [意大利] | Msc Product Service System Design
 2020年QS世界设计艺术排名: 6  
 2020年QS世界院校综合排名：149
 
@@ -59,6 +59,5 @@
 
 
 #### 编辑历史
-Yuan 20210224 已校对  
-
+Yuan 20210224 已校对    
 Cheng 20210108 初次建立  

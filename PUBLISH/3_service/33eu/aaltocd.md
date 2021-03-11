@@ -1,4 +1,4 @@
-## 阿尔托大学【芬兰】 | Master's Programme in Contemporary Design
+## 阿尔托大学 [芬兰] | Master's Programme in Contemporary Design
 
 2020年QS世界设计艺术排名: 7  
 2020年QS世界院校综合排名：134  
