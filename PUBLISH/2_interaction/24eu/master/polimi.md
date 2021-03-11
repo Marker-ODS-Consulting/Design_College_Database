@@ -1,4 +1,4 @@
-## 米兰理工大学 | Digital and Interaction Design
+## 米兰理工大学[意大利] | Digital and Interaction Design
 
 2020年QS世界设计艺术排名: 6
 2020年QS世界综合排名: 149  

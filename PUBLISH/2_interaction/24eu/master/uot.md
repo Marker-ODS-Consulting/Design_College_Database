@@ -1,4 +1,4 @@
-## 特温特大学 | Interaction Technology
+## 特温特大学[荷兰] | Interaction Technology
 
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: 102  

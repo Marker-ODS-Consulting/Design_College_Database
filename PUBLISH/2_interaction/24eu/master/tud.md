@@ -1,4 +1,4 @@
-## 代尔夫特理工大学 | MSc Design for Interaction
+## 代尔夫特理工大学[荷兰] | MSc Design for Interaction
 
 2020年QS世界设计艺术排名: /
 2020年QS世界设计综合排名: 50  

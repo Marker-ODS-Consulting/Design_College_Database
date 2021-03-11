@@ -1,4 +1,4 @@
-## 瑞典皇家理工大学 | Interactive Media Technology
+## 瑞典皇家理工大学[瑞典] | Interactive Media Technology
 
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: 98  

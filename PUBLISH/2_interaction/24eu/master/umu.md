@@ -1,4 +1,4 @@
-## 于默奥大学 | Interaction Design
+## 于默奥大学[瑞典] | Interaction Design
 
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: 116  

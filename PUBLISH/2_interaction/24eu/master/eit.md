@@ -1,4 +1,4 @@
-## EIT | Human Computer Interaction and Design (HCID)
+## EIT[匈牙利] | Human Computer Interaction and Design (HCID)
 
 2020年QS世界设计综合排名: /
 2020年QS世界综合排名: /  

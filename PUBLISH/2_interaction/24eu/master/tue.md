@@ -1,4 +1,4 @@
-## 埃因霍温理工大学 | Master of Human-Technology Interaction
+## 埃因霍温理工大学[荷兰] | Master of Human-Technology Interaction
 
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: 102  

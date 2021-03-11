@@ -1,4 +1,4 @@
-## 丹麦科技大学 | MSc Design and Innovation in User Experience and Systems Design
+## 丹麦科技大学[丹麦] | MSc Design and Innovation in User Experience and Systems Design
 
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: 112  

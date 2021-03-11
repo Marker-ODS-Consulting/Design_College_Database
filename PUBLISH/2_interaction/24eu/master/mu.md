@@ -1,4 +1,4 @@
-## 马尔默大学 | Master of Interaction Design
+## 马尔默大学[瑞典] | Master of Interaction Design
 
 2020年QS世界设计艺术排名: 151-200
 2020年QS世界综合排名: /  
