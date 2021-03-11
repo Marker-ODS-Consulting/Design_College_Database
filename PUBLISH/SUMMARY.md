@@ -215,7 +215,7 @@
     * [5.2 英国室内设计硕士](5_interior/62uk/master/rca.md)
       * [5.2.1 皇家艺术学院](5_interior/62uk/master/rca.md)
       * [5.2.2 伦敦艺术大学 坎伯韦尔艺术与设计学院](5_interiore/62uk/master/ual.md)
-      * [5.2.3 格拉斯哥艺术学院](5_interior//62uk/master/gas.md)
+      * [5.2.3 格拉斯哥艺术学院](5_interior//62uk/master/gsa.md)
       * [5.2.4 建筑联盟学院](5_interior/62uk/master/aa.md)
       * [5.2.5 爱丁堡大学](5_interior/62uk/master/edin.md)
       * [5.2.6 创意艺术大学](5_interior/62uk/master/uca.md)
@@ -223,7 +223,7 @@
       * [5.2.8 诺丁汉特伦特大学](5_interior/62uk/master/ntu.md)
       * [5.2.9 谢菲尔德哈勒姆大学](5_interior/62uk/master/shu.md)
       * [5.2.10 曼彻斯特城市大学](5_interior/62uk/master/mmu.md)
-      * [5.2.10 德蒙福特大学](5_interior/62uk/master/dmu.md)
+      * [5.2.11 德蒙福特大学](5_interior/62uk/master/dmu.md)
 
   * [5.3 美国艺术类院校室内设计硕士](5_interior/63us/master_a/nyid.md)
       * [5.3.1 纽约室内设计学院](5_interior/63us/master_a/nyid.md)
@@ -234,7 +234,7 @@
       * [5.3.6 萨凡那艺术设计学院](5_interior/63us/master_a/scad.md)
 
   * [5.4 美国综合类院校室内设计硕士](5_interior/63us/master_c/asu.md)
-      * [5.4.1 亚利桑那大学](5_interior/63us/master_c/asu.md)
+      * [5.4.1 亚利桑那州立大学](5_interior/63us/master_c/asu.md)
       * [5.4.2 德雷塞尔大学](5_interior/63us/master_c/du.md)
       * [5.4.3 佛罗里达大学](5_interior/63us/master_c/fsu.md)
       * [5.4.4 乔治华盛顿大学](5_interior/63us/master_c/gwu.md)
