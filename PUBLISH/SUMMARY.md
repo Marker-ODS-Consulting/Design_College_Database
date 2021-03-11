@@ -23,7 +23,7 @@
       * [1.2.8 亚利桑那州立大学MSD](1_industrial/11us/master_c/asumsd.md)
       * [1.2.9 辛辛那堤大学](1_industrial/11us/master_c/uccnt.md)
       * [1.2.10 罗切斯特理工大学](1_industrial/11us/master_c/rit.md)
-      
+
     * [1.3 英国工业设计硕士](1_industrial/13uk/master/rca.md)
       * [1.3.1 皇家艺术学院](1_industrial/13uk/master/rca.md)
       * [1.3.2 中央圣马丁艺术学院（伦敦艺术大学）](1_industrial/13uk/master/ualcsm.md)
@@ -34,8 +34,7 @@
       * [1.3.7 邓迪大学](1_industrial/13uk/master/dundee.md)
       * [1.3.8 谢菲尔德哈勒姆大学](1_industrial/13uk/master/shu.md)
       * [1.3.9 考文垂大学](1_industrial/13uk/master/cov.md)
-
-   * [1.4 欧洲大陆工业设计硕士](1_industrial/14eu/master/aalto.md)
+    * [1.4 欧洲大陆工业设计硕士](1_industrial/14eu/master/aalto.md)
       * [1.4.1 阿尔托大学 [芬兰]](1_industrial/14eu/master/aalto.md)
       * [1.4.1 拉普兰大学 [芬兰]](1_industrial/14eu/master/lapland.md)
       * [1.4.1 查尔姆斯理工大学 [瑞典]](1_industrial/14eu/master/chalm.md)
@@ -62,7 +61,6 @@
       * [1.4.1 米兰工业设计学院 [意大利]](1_industrial/14eu/master/spd.md)
       * [1.4.1 多莫斯设计学院 [意大利]](1_industrial/14eu/master/domus.md)
       * [1.4.1 科隆应用科技大学 [德国]](1_industrial/14eu/master/tuc.md)
-
    * [1.5 澳大利亚工业设计硕士](1_industrial/15au/master/unsw.md)
       * [1.5.4 新南威尔士大学](1_industrial/15au/master/unsw.md)
       * [1.5.3 莫纳什大学](1_industrial/15au/master/monash.md)
