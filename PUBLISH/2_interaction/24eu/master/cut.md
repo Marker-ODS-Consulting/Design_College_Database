@@ -1,4 +1,4 @@
-## 查尔姆斯理工大学 | Interaction Design and Technologies
+## 查尔姆斯理工大学[瑞典] | Interaction Design and Technologies
 
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: 125  

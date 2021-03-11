@@ -1,4 +1,4 @@
-## 乌普萨纳大学 | Human-Computer Interaction
+## 乌普萨纳大学[瑞典] | Human-Computer Interaction
 
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: 116  

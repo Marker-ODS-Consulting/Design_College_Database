@@ -1,4 +1,4 @@
-## 哥本哈根大学 | MSc in Computer Science Human-Computer Interaction (HCI)
+## 哥本哈根大学[丹麦] | MSc in Computer Science Human-Computer Interaction (HCI)
 
 2020年QS世界设计综合排名: 81
 2020年QS世界综合排名: /  

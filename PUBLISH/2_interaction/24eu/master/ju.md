@@ -1,4 +1,4 @@
-## 延雪平大学 | User Experience Design Msc
+## 延雪平大学[瑞典] | User Experience Design Msc
 
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: /  

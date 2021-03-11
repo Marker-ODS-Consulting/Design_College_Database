@@ -1,4 +1,4 @@
-## 南特大西洋设计学院 | MSc in Computer Science Human-Computer Interaction (HCI)
+## 南特大西洋设计学院[法国] | MSc in Computer Science Human-Computer Interaction (HCI)
 
 2020年QS世界设计综合排名: /
 2020年QS世界综合排名: /  

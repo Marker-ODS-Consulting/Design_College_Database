@@ -1,4 +1,4 @@
-## 阿尔托大学 | Human Computer Interaction and Designy
+## 阿尔托大学[芬兰] | Human Computer Interaction and Designy
 
 2020年QS世界设计艺术排名: 7
 2020年QS世界综合排名: 134  

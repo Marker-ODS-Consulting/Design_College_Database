@@ -1,4 +1,4 @@
-## 南丹麦大学 | MSc in IT – Web Communication Design
+## 南丹麦大学[丹麦] | MSc in IT – Web Communication Design
 
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: 359  

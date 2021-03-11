@@ -4,10 +4,6 @@
 
 ####待解决   
 
-- **欧洲交互设计没有加入国家标签（1.标题 2.正文 3.目录） muzi**  
-- **欧洲交互设计 umu.md 直接错误了 muzi**   
-- **延雪平大学 里是UMU学校的链接**
-- **乌普萨纳大学 介绍里是 KTH 的链接**
 - **补充拉夫堡大学的 service 方向资料，[链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/user-experience-service-design/)**
 
 

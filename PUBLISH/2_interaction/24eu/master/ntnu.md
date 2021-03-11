@@ -1,4 +1,4 @@
-## 挪威科技大学 | MIXD Interaction Design
+## 挪威科技大学[挪威] | MIXD Interaction Design
 
 2020年QS世界设计艺术排名: /
 2020年QS世界综合排名: 359  

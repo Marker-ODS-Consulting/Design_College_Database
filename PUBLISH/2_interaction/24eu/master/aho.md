@@ -1,4 +1,4 @@
-## 奥斯陆建筑设计学院 | Master of Design in Interaction Design
+## 奥斯陆建筑设计学院[挪威] | Master of Design in Interaction Design
 2020年QS世界设计艺术排名: 51-100
 2020年QS世界综合排名: /  
 
