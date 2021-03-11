@@ -1,4 +1,4 @@
-## 伦艺伦敦传媒学院 | MA Service Design
+## 伦艺 伦敦传媒学院 | MA Service Design
 
 2020年QS世界设计艺术排名:/
 2020年QS世界设计艺术排名：2
