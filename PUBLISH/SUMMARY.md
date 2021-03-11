@@ -223,7 +223,7 @@
   * [5.3 英国室内设计硕士](5_interior/53uk/master/rca.md)
       * [5.3.1 皇家艺术学院](5_interior/53uk/master/rca.md)
       * [5.3.2 伦敦艺术大学 坎伯韦尔艺术与设计学院](5_interior/53uk/master/ual.md)
-      * [5.3.3 格拉斯哥艺术学院](5_interior//62uk/master/gsa.md)
+      * [5.3.3 格拉斯哥艺术学院](5_interior/53uk/master/gsa.md)
       * [5.3.4 建筑联盟学院](5_interior/53uk/master/aa.md)
       * [5.3.5 爱丁堡大学](5_interior/53uk/master/ed.md)
       * [5.3.6 创意艺术大学](5_interior/53uk/master/uca.md)
