@@ -1,17 +1,17 @@
 ## 艺术中心设计学院 | Graduate Media Design Practices（LAB TRACK）
 
-2020年QS世界设计艺术排名: 13
+2020年QS世界设计艺术排名: 13  
 2020年QS世界综合排名: /  
 
-### 1. 官网相关信息：
+### 1. 官网相关信息：  
 
-**院校**：Art Center College of Design
-**学位**：Graduate Media Design Practices（LAB TRACK）
-**学制**：2-3年
-**费用**：23394美元/学期
-**语言**：TOEFL最低总分100；IELTS最低7.0
-**GRE**：不要求
-**申请时间**：截止到1月15日
+**院校**：Art Center College of Design  
+**学位**：Graduate Media Design Practices（LAB TRACK）  
+**学制**：2-3年  
+**费用**：23394美元/学期  
+**语言**：TOEFL最低总分100；IELTS最低7.0  
+**GRE**：不要求  
+**申请时间**：截止到1月15日  
 **作品集要求原文：**   
 
 > - The design portfolio is the cornerstone of the application. The portfolio should be a curated body of work that demonstrates the applicant’s expertise in the conception and creation of sophisticated design and other relevant works (e.g., creative or critical writing, business plans, software, curriculum, research, grants, etc.).
@@ -26,12 +26,12 @@
 ### 2. 翻译与解读：
 
 ##### 作品集解读：
-- 硬性要求：作品集为pdf或网站形式，动态媒体上传至Vimeo或Youtube上。
-- 软性要求：
-  - 展现完整的设计流程，思路清晰。
-  - 展现对方法的使用和理解。
-  - 展现专业技法：图形、空间、媒体、交互、动效、产品建模、测试评估。
-  - 转专业申请的同学需展示跨界的能力，既要与申请专业相关，又要体现本专业的优势。
+- 硬性要求：作品集为pdf或网站形式，动态媒体上传至Vimeo或Youtube上。  
+- 软性要求：  
+  - 展现完整的设计流程，思路清晰。  
+  - 展现对方法的使用和理解。  
+  - 展现专业技法：图形、空间、媒体、交互、动效、产品建模、测试评估。  
+  - 转专业申请的同学需展示跨界的能力，既要与申请专业相关，又要体现本专业的优势。  
 
 
 ---
@@ -40,8 +40,8 @@
 
 **专业介绍：**[院校链接](http://www.artcenter.edu/academics/graduate-degrees/media-design-practices/overview.html)  
 **课程介绍：** [院校链接](http://www.artcenter.edu/academics/graduate-degrees/media-design-practices/course-of-study/overview.html)  
-**申请要求：** [院校链接](http://www.artcenter.edu/admissions/graduate-admissions/application-requirements.html)
-**视频介绍：** [bilibili链接](https://www.bilibili.com/video/av24691067)
+**申请要求：** [院校链接](http://www.artcenter.edu/admissions/graduate-admissions/application-requirements.html)  
+**视频介绍：** [bilibili链接](https://www.bilibili.com/video/av24691067)  
 
 
 
@@ -50,4 +50,4 @@
 
 #### 编辑历史
 Yuan 20210223 已校对  
-Muzi 20210125 初次建立
+Muzi 20210125 初次建立  
