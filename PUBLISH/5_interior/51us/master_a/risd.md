@@ -1,7 +1,7 @@
-## 罗德岛设计学院 | Master of Design
+## 罗德岛设计学院 | Master of Design  
 
-QS2020年世界综合排名：/  
-QS2020年世界艺术专业排名：4
+QS2020年世界综合排名：/   
+QS2020年世界艺术专业排名：4  
 
 
 ### 1. 官网相关信息：
@@ -42,7 +42,7 @@ QS2020年世界艺术专业排名：4
 
 **专业介绍：**[院校链接](https://www.risd.edu/academics/interior-architecture/graduate/)  
 **课程介绍：**[院校链接](https://www.risd.edu/academics/interior-architecture/courses/)  
-**申请要求：**[院校链接](https://www.risd.edu/academics/interior-architecture/graduate/)
+**申请要求：**[院校链接](https://www.risd.edu/academics/interior-architecture/graduate/)  
 
 
 ---
@@ -50,4 +50,4 @@ QS2020年世界艺术专业排名：4
 
 #### 编辑历史
 Yuan 20210224 已校对  
-An 20210126 初建立
+An 20210126 初建立  
