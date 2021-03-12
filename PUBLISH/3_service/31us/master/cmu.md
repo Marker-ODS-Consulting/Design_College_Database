@@ -1,6 +1,6 @@
 ##  卡耐基梅隆大学| Master of Integrated Innovation for Products & Services (MIIPS)
 2020年QS世界设计艺术排名: 17   
-2020年QS世界院校综合排名：48
+2020年QS世界院校综合排名：48  
 
 ### 1. 官网相关信息：
 
@@ -9,7 +9,7 @@
 **学制**：1年  
 **费用**：48500美元/年  
 **语言**：TOEFL 不低于95，单科不低于23  
-**申请日期**：10月1日-1月20日
+**申请日期**：10月1日-1月20日  
 **申请材料**：成绩证明+学位证明+动机信+个人简历+作品集（可选）+三封推荐信+GRE+1-2分钟自我介绍视频+英文成绩  
 **作品集要求原文：**  
 > - The MIIPS portfolio is an opportunity to tell us your story. Showcase three to six projects that best illustrate your skills, talents, and interests. Your examples should speak to your problem-solving abilities, visualization skills, and overall level of craftsmanship.  In each project, please briefly describe and summarize your contributions.

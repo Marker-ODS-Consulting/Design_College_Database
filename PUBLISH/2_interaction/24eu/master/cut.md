@@ -22,7 +22,7 @@
 ##### 专业解读：
 属于常规的用户体验设计专业，学习内容涉及到数字产品完整开发过程，包含调研、交互设计、产品原型、概念发展、评估。此外还为学生提供行业实践机会。  
 
-##### 作品集解读：/
+##### 作品集解读：/  
 
 
 
@@ -34,7 +34,7 @@
 **专业介绍：**[院校链接](http://www.chalmers.se/en/education/programmes/masters-info/Pages/Interaction-Design-and-Technologies.aspx)  
 **课程介绍：** [院校链接](http://www.chalmers.se/en/education/programmes/masters-info/Pages/Interaction-Design-and-Technologies.aspx)  
 **申请要求：** [院校链接](https://www.chalmers.se/en/education/application-admission/required_documents/Pages/required%20documents.aspx)  
-**语言课：** /
+**语言课：** /  
 
 
 ---
