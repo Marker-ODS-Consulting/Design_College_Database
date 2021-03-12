@@ -1,19 +1,19 @@
 ## 纽约大学 | Master ITP
 
-2020年QS世界设计艺术排名: 44
-2020年QS世界综合排名: 39
+2020年QS世界设计艺术排名: 44  
+2020年QS世界综合排名: 39  
 
-### 1. 官网相关信息：
+### 1. 官网相关信息：  
 
-**院校**：New York University
-**学位**：Master ITP
-**学制**：2年
-**费用**：1901美元/学分
-**语言**：TOEFL总分100；IELTS 总分7.0
-**GRE**：不要求
-**申请时间**：截止到12月1日
-**申请材料**：成绩证明+学位证明+2封推荐信+个人简历+个人陈述+作品集+1分钟视频
-**作品集要求原文：**
+**院校**：New York University  
+**学位**：Master ITP  
+**学制**：2年  
+**费用**：1901美元/学分  
+**语言**：TOEFL总分100；IELTS 总分7.0  
+**GRE**：不要求  
+**申请时间**：截止到12月1日  
+**申请材料**：成绩证明+学位证明+2封推荐信+个人简历+个人陈述+作品集+1分钟视频  
+**作品集要求原文：**  
 
 > - Submission of a creative portfolio is optional due to the diversity of applicant backgrounds. Portfolio materials need not be professional-quality work or even interactive media projects. Applicants are encouraged to submit work that is reflective of their interests and experiences. If you come from a creative background or enjoy making things, we encourage you to submit your work, as this will give us a better overall impression of you and your interests.
 > - If you wish to send a portfolio, please prepare the following: We ask that applicants limit the creative work to just one of the following formats:
@@ -28,21 +28,21 @@ Print. Laser copies, photograph prints, portfolio book. Do not exceed 11″ x 14
 
 ---
 
-### 2. 翻译与解读：
+### 2. 翻译与解读：  
 
-##### 作品集解读：
-- 硬性要求解读
-  - 由于申请者的背景多样，作品集可以选择性提交。
-  - 上传方式：提供网站链接（确保链接可以打开）；Google Drive 链接，每个项目需附有项目描述。
-  - 打印尺寸不超过 11” x 14”
-  - 撰写文件（论文、报告等）不超过20页
+##### 作品集解读：  
+- 硬性要求解读  
+  - 由于申请者的背景多样，作品集可以选择性提交。  
+  - 上传方式：提供网站链接（确保链接可以打开）；Google Drive 链接，每个项目需附有项目描述。  
+  - 打印尺寸不超过 11” x 14”  
+  - 撰写文件（论文、报告等）不超过20页  
 
-- 软性要求解读
-  - 虽然提到作品集为 optional，但还是强烈建议设计艺术相关专业的同学提交作品集。
-  - 学校对作品集的要求比较宽泛，可以提交论文和作品，文件可以包含文档、视频、音频、图像和web链接。
-  - 展现完整的设计流程，思路清晰。
-  - 展现对方法的使用和理解。
-  - 展现专业技法：图形、空间、媒体、交互、动效、产品建模、测试评估。
+- 软性要求解读  
+  - 虽然提到作品集为 optional，但还是强烈建议设计艺术相关专业的同学提交作品集。  
+  - 学校对作品集的要求比较宽泛，可以提交论文和作品，文件可以包含文档、视频、音频、图像和web链接。  
+  - 展现完整的设计流程，思路清晰。  
+  - 展现对方法的使用和理解。  
+  - 展现专业技法：图形、空间、媒体、交互、动效、产品建模、测试评估。  
 
 ---
 
@@ -50,7 +50,7 @@ Print. Laser copies, photograph prints, portfolio book. Do not exceed 11″ x 14
 
 **专业介绍：**[院校链接](https://tisch.nyu.edu/itp/admissions/itp-mps)  
 **课程介绍：** [院校链接](https://tisch.nyu.edu/itp/courses/itp-courses)  
-**申请要求：** [院校链接](https://tisch.nyu.edu/itp/admissions/itp-admissions)
+**申请要求：** [院校链接](https://tisch.nyu.edu/itp/admissions/itp-admissions)  
 
 
 ---

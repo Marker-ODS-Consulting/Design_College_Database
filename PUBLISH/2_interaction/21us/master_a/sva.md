@@ -1,17 +1,17 @@
 ## 纽约视觉艺术学院 | MFA in Interaction Design
 
-2020年QS世界设计艺术排名: 24
-2020年QS世界综合排名: /  
+2020年QS世界设计艺术排名: 24  
+2020年QS世界综合排名: /    
 
 ### 1. 官网相关信息：
 
-**院校**：School of Visual Arts
-**学位**：MFA in Interaction Design
-**学制**：2年  
-**费用**：25930美元/学期
-**语言**：TOEFL最低总分79；IELTS最低6.5
-**GRE**：不要求
-**申请时间**：截止到1月15日
+**院校**：School of Visual Arts  
+**学位**：MFA in Interaction Design  
+**学制**：2年    
+**费用**：25930美元/学期  
+**语言**：TOEFL最低总分79；IELTS最低6.5  
+**GRE**：不要求  
+**申请时间**：截止到1月15日  
 **作品集要求原文：**   
 
 > - Interaction design portfolios are likely visual but need not be, as we look for a broad range of references as parallel influences to the field. Portfolios must include at least five projects. You might consider:
@@ -29,13 +29,13 @@ Applicants are encouraged to consult the MFA Interaction Design website for furt
 ### 2. 翻译与解读：
 
 ##### 作品集解读：
-- 硬性要求：
-  - 至少五个项目
-- 软性要求：
-  - 展现完整的设计流程，思路清晰。
-  - 展现对方法的使用和理解。
-  - 展现专业技法：图形、交互、动效、产品建模、测试评估、空间、媒体、服务。
-  - 建议写一份案例研究"case study"，1-6页，详细说明你的一个项目从概念到完成的过程。
+- 硬性要求：  
+  - 至少五个项目  
+- 软性要求：  
+  - 展现完整的设计流程，思路清晰。  
+  - 展现对方法的使用和理解。  
+  - 展现专业技法：图形、交互、动效、产品建模、测试评估、空间、媒体、服务。  
+  - 建议写一份案例研究"case study"，1-6页，详细说明你的一个项目从概念到完成的过程。  
 
 
 
