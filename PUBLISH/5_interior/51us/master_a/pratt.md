@@ -1,6 +1,6 @@
 ## 普瑞特艺术学院 | MFA Interior Design
 
-QS2020年世界综合排名：/
+QS2020年世界综合排名：/  
 QS2020年世界艺术专业排名：10
 
 
@@ -10,10 +10,10 @@ QS2020年世界艺术专业排名：10
 **学位**：MFA Interior Design  
 **学制**：2年  
 **费用**：1,847美元/学分  
-**语言**：TOEFL最低总分88，IELTS最低总分6.5
-**GRE要求**：不要求
+**语言**：TOEFL最低总分88，IELTS最低总分6.5  
+**GRE要求**：不要求  
 **申请时间**：截止到2月1日  
-**申请文件**：成绩证明（非官方）+学位证明+2封推荐信+GRE+动机信+个人简历+作品集+语言证明  
+**申请文件**：成绩证明（非官方）+学位证明+2封推荐信+GRE+动机信+个人简历+作品集+语言证明
 **作品集要求原文：**   
 > Provide 1-25 items. Images (up to 5MB each), Video (up to 250MB each), Audio (up to 30MB each), PDFs (up to 10MB each) and Models (Sketchfab)
 
