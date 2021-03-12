@@ -13,21 +13,21 @@
 **申请文件**： 待更新  
 
 **专业描述：**
-> - Why choose this course at London College of Communication
-> - Industry Engaged: This MA is highly engaged with UX industry practice and the future of UX as a professional discipline. You’ll benefit from live UX briefs, studio visits and partnership with leading London UX industry professional and studios such as ustwo, Made by Many and AKQA.
-> - Design Led UX: The course puts studio practice at the centre of what students do. Supported by the community of practice at LCC and grounded in a critical awareness of design methods and processes, you can expect to be designing new digital experiences from the start.
-> - Interdisciplinary: In the professional design world, UX designers perform many different tasks and are expected to have skills in research, interaction design, product prototyping, concept development and evaluation. This constellation of skills means the course delivers technical and critical training at an advanced level, in a highly interdisciplinary context.
-> - Skills: Key to building the expertise of a UX designer is a working understanding of industry standard UX prototyping tools, alongside user research methods that inform designs. You will learn practical skills alongside theoretical, within a critical framework, to become a discerning and conscious designer.
+> - Why choose this course at London College of Communication  
+> - Industry Engaged: This MA is highly engaged with UX industry practice and the future of UX as a professional discipline. You’ll benefit from live UX briefs, studio visits and partnership with leading London UX industry professional and studios such as ustwo, Made by Many and AKQA.  
+> - Design Led UX: The course puts studio practice at the centre of what students do. Supported by the community of practice at LCC and grounded in a critical awareness of design methods and processes, you can expect to be designing new digital experiences from the start.  
+> - Interdisciplinary: In the professional design world, UX designers perform many different tasks and are expected to have skills in research, interaction design, product prototyping, concept development and evaluation. This constellation of skills means the course delivers technical and critical training at an advanced level, in a highly interdisciplinary context.  
+> - Skills: Key to building the expertise of a UX designer is a working understanding of industry standard UX prototyping tools, alongside user research methods that inform designs. You will learn practical skills alongside theoretical, within a critical framework, to become a discerning and conscious designer.  
 
 **作品集要求原文：**   
 
-> - All applicants will be expected to submit an electronic portfolio of work as part of their application, evidencing their aptitude, skill and engagement in the field of user experience design or an adjacent practice.
-> - Please submit an edited selection of work (10-20 images, 4-5 projects maximum) accompanied by a short caption for each project acknowledging the motivation, development, realization and impact (one-two sentences maximum).
+> - All applicants will be expected to submit an electronic portfolio of work as part of their application, evidencing their aptitude, skill and engagement in the field of user experience design or an adjacent practice.  
+> - Please submit an edited selection of work (10-20 images, 4-5 projects maximum) accompanied by a short caption for each project acknowledging the motivation, development, realization and impact (one-two sentences maximum).  
 
 **学习计划要求原文：**
-> - Applicants must submit a study proposal for the Major Project outlining the intentions of their MA research (300-500 words).
-> - Please include a description of the area of interest, field of study and the particular focus of the intended project, and an overview of how you intend to go about producing the project and the methodology.
-> - It is important to recognize that these ideas will inevitably develop and change during your study on the course and only serve to inform your application at this stage.
+> - Applicants must submit a study proposal for the Major Project outlining the intentions of their MA research (300-500 words).  
+> - Please include a description of the area of interest, field of study and the particular focus of the intended project, and an overview of how you intend to go about producing the project and the methodology.  
+> - It is important to recognize that these ideas will inevitably develop and change during your study on the course and only serve to inform your application at this stage.  
 
 ---
 
@@ -72,6 +72,6 @@
 
 
 #### 编辑历史
-Natt 20210106 已审阅
-Yuan 20201229 已校对
-Muzi 20201221 初次建立
+Natt 20210106 已审阅  
+Yuan 20201229 已校对  
+Muzi 20201221 初次建立  

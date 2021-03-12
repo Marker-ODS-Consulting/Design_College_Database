@@ -13,17 +13,17 @@
 **申请文件**： 待更新  
 **专业描述：**  
 > - Why choose this course at London College of Communication
-Developing critical and creative practitioners: You’ll engage with emerging ideas and theories to work critically and creatively with media. This might include machine learning, physical computing, performance, poetry, and more, enabling you to graduate as a unique and dynamic practitioner.
-> - A new future for Interaction Design: Rather than designing for ‘users’, you’ll explore the complex relationship between you and your audience, and learn how to communicate depth and meaning through their interactions with your work.
-> - Cultural partners and experience: You’ll have the option to exhibit and collaborate with internationally-renowned arts and cultural partners. Previous partnerships include the Victoria and Albert (V&A) Museum, the Design Museum, and Ars Electronica Festival in Austria.
-> - Expert support: Alongside specialist technical support and resources, you’ll have access to a regular programme of guest lectures and workshops from international artists, designers, and researchers. You’ll have substantial support on your journey to become a professional practitioner with a sharpened critical mind.
+Developing critical and creative practitioners: You’ll engage with emerging ideas and theories to work critically and creatively with media. This might include machine learning, physical computing, performance, poetry, and more, enabling you to graduate as a unique and dynamic practitioner.  
+> - A new future for Interaction Design: Rather than designing for ‘users’, you’ll explore the complex relationship between you and your audience, and learn how to communicate depth and meaning through their interactions with your work.  
+> - Cultural partners and experience: You’ll have the option to exhibit and collaborate with internationally-renowned arts and cultural partners. Previous partnerships include the Victoria and Albert (V&A) Museum, the Design Museum, and Ars Electronica Festival in Austria.  
+> - Expert support: Alongside specialist technical support and resources, you’ll have access to a regular programme of guest lectures and workshops from international artists, designers, and researchers. You’ll have substantial support on your journey to become a professional practitioner with a sharpened critical mind.  
 
 **作品集要求原文：**   
 
-> - Applicants should present a portfolio (maximum 20 images) that evidences their knowledge, understanding, skills and engagement with the field of interaction design and/or adjacent fields. The portfolio should demonstrate intellectual curiosity and open mindedness and a strong commitment to the subject as well as to sustained study at postgraduate level.
+> - Applicants should present a portfolio (maximum 20 images) that evidences their knowledge, understanding, skills and engagement with the field of interaction design and/or adjacent fields. The portfolio should demonstrate intellectual curiosity and open mindedness and a strong commitment to the subject as well as to sustained study at postgraduate level.  
 
 **学习计划要求原文：**
-> - Applicants must submit a study proposal (400-800 words) outlining the intentions of their MA research. Please include a description of the area of interest, field of study and the particular focus of the intended project, and an overview of how you intend to go about producing the project and the methodology.
+> - Applicants must submit a study proposal (400-800 words) outlining the intentions of their MA research. Please include a description of the area of interest, field of study and the particular focus of the intended project, and an overview of how you intend to go about producing the project and the methodology.  
 
 ---
 

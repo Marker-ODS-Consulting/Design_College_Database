@@ -14,9 +14,9 @@
 **申请文件**： 待更新  
 **作品集要求原文：**   
 
-> - Please provide a maximum of 20 pages of your work plus a 300 word Personal Statement (if you have not already) which should support your application for your chosen course at Kingston University. Each page may include more than one image. The Personal Statement should be the final page of your portfolio. Your portfolio should be presented in a single PDF document or be a link to a flickr/vimeo account showing your work. For flickr/vimeo, please put the link to your portfolio in a word document and then compress and upload this file. Your compressed file must be under 50 MB.
+> - Please provide a maximum of 20 pages of your work plus a 300 word Personal Statement (if you have not already) which should support your application for your chosen course at Kingston University. Each page may include more than one image. The Personal Statement should be the final page of your portfolio. Your portfolio should be presented in a single PDF document or be a link to a flickr/vimeo account showing your work. For flickr/vimeo, please put the link to your portfolio in a word document and then compress and upload this file. Your compressed file must be under 50 MB.  
 
-> - You can only upload one compressed file, so your portfolio and statement must be saved in one folder. Please use ZIP to compress your file and also check your portfolio is in an easily viewable format and complete, as once you have uploaded your file you will not be able to go back and re-submit or upload anything further.
+> - You can only upload one compressed file, so your portfolio and statement must be saved in one folder. Please use ZIP to compress your file and also check your portfolio is in an easily viewable format and complete, as once you have uploaded your file you will not be able to go back and re-submit or upload anything further.  
 
 
 ---
