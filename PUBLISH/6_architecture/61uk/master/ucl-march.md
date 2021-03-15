@@ -1,13 +1,13 @@
 ## 伦敦大学学院 | Architectural Design MArch
 
-QS世界综合院校排名：8
+QS世界综合院校排名：8  
 QS世界设计艺术排名：36
 
 ### 1. 官网相关信息：
 
-**院校**：University College London
-**学位**：Architectural Design MArch  
-**学制**：22个月  
+**院校**：University College London  
+**学位**：Architectural Design MArch   
+**学制**：22个月   
 **费用**：31,200英镑  
 **语言**：TOEFL总分110，单科25 | IELTS总分7.5，单科7.0  
 **申请时间**：5月31日截  
@@ -22,9 +22,10 @@ A design/creative portfolio is also expected. Applicants will be asked to submit
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-
+无具体要求
 
 ##### 软性要求解读：
+无具体要求
 
 
 
@@ -44,5 +45,5 @@ A design/creative portfolio is also expected. Applicants will be asked to submit
 
 
 #### 编辑历史
-Yuan 20210221 已校对
+Yuan 20210221 已校对  
 Ran 20201225 初建  

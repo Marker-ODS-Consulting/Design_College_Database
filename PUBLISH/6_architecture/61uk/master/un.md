@@ -1,12 +1,12 @@
 ## 诺丁汉大学 | Architecture Design March
 
-QS世界设计综合排名：96
+QS世界设计综合排名：96  
 QS世界设计艺术排名：151-200
 
 ### 1. 官网相关信息：
 
-**院校**：University of Nottingham
-**学位**：Architecture Design March
+**院校**：University of Nottingham  
+**学位**：Architecture Design March  
 **学制**：1年  
 **费用**：22,000英镑  
 **语言**：IELTS总分6.5，单科6.0；  

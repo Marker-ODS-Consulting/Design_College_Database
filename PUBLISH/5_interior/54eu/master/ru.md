@@ -52,7 +52,7 @@ If you want to share videos please provide a Vimeo, Youtube or self hosted link.
 
 **专业介绍：**[院校链接](https://rotterdamuas.com/programmes/master/interior-architecture-research-design/)  
 **课程介绍：**[院校链接](https://rotterdamuas.com/programmes/master/interior-architecture-research-design/)  
-**申请要求：**[院校链接](https://www.pzwart.nl/application/application-requirements/)
+**申请要求：**[院校链接](https://www.pzwart.nl/application/application-requirements/)  
 **官方文件：**[院校链接](https://www.pzwart.nl/wp-content/uploads/2020/10/20201027-MD-Application-Portfolio-Assessment-2123.pdf)   
 
 
