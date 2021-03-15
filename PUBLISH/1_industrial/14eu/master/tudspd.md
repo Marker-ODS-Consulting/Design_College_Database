@@ -1,19 +1,19 @@
 ## 代尔夫特理工大学[荷兰] | MSc Strategic Product Design
 
-QS世界设计综合排名：50
+QS世界设计综合排名：50  
 QS世界设计艺术排名：/
 
 
 
 ### 1. 官网相关信息：
 
-**国家**: 荷兰 | Netherlands 或 Holland
+**国家**: 荷兰 | Netherlands 或 Holland  
 **院校**：Delft University of Technology
 **学位**：MSc Strategic Product Design  
 **学制**：2 年  
-**费用**：18,750 欧元/年
-**语言**：TOEFL总分90 或 IETLS总分 6.5，单项不低于6.0
-**申请时间**：1月15日秋季入学截止，10月1日春季入学截止
+**费用**：18,750 欧元/年  
+**语言**：TOEFL总分90 或 IETLS总分 6.5，单项不低于6.0  
+**申请时间**：1月15日秋季入学截止，10月1日春季入学截止  
 **申请文件**：学位证明+成绩证明+动机信+个人简历+语言成绩+课程描述+推荐信（optional）+打分体系证明  
 **作品集要求原文：**   
 
@@ -91,9 +91,8 @@ QS世界设计艺术排名：/
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.tudelft.nl/en/education/programmes/masters/strategic-product-design/msc-strategic-product-design/)  
-**课程设置：**[院校链接](https://www.tudelft.nl/en/education/programmes/masters/integrated-product-design/msc-integrated-product-design/programme/)
+**课程设置：**[院校链接](https://www.tudelft.nl/en/education/programmes/masters/integrated-product-design/msc-integrated-product-design/programme/)  
 **申请要求：**[院校链接](https://www.tudelft.nl/en/education/programmes/masters/integrated-product-design/msc-integrated-product-design/admission-and-application/)  
-
 **解读文章：**：[学姐带你看看真实的代尔夫特理工大学学习和生活](http://www.makebi.net/35967.html)  
 **解读文章：**：[非211院校背景可以申请代尔夫特理工吗？](http://www.makebi.net/34115.html)   
 **解读文章：**：[也许是申请TU/d和TU/e最全的攻略（一）](http://www.makebi.net/21378.html)  

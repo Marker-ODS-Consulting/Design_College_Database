@@ -94,8 +94,7 @@ Instructions:
 
 **专业介绍：**[院校链接](https://www.rca.ac.uk/schools/school-of-design/design-products/)  
 **课程介绍：** [院校链接](https://www.rca.ac.uk/schools/school-of-design/design-products/)  
-**申请要求：** [院校链接](https://www.rca.ac.uk/schools/school-of-design/design-products/ma-entrance/)
-
+**申请要求：** [院校链接](https://www.rca.ac.uk/schools/school-of-design/design-products/ma-entrance/)  
 **解读文章：**：[如何申请皇家艺术学院产品设计？](http://www.makebi.net/28018.html)  
 **解读文章：**：[一起来看看皇艺RCA最新要求](http://www.makebi.net/38630.html)  
 **解读文章：**：[在皇艺学习产品设计的4个平台怎么选？](http://www.makebi.net/38830.html)  
@@ -109,7 +108,7 @@ Instructions:
 
 #### 编辑历史  
 
-Natt 20201222 已审阅
-Yuan 20201217 已校对
-Natt 20201217 修改视频部分内容
+Natt 20201222 已审阅  
+Yuan 20201217 已校对  
+Natt 20201217 修改视频部分内容  
 Natt 20201215 初次建立编辑  

@@ -1,5 +1,5 @@
 ## 罗德岛设计学院 | Master of Industrial Design   
-QS2020年世界综合排名: /
+QS2020年世界综合排名: /  
 QS2020年世界艺术专业排名：4
 
 
@@ -7,11 +7,11 @@ QS2020年世界艺术专业排名：4
 ### 1. 官网相关信息：
 
 **院校**：Rhode Island School of Design    
-**学位**：Master of Industrial Design
+**学位**：Master of Industrial Design  
 **学制**：2 - 2.5 年  
 **费用**：51800美元/年  
 **语言**：TOEFL最低总分93，IELTS 最低总分6.5  
-**GRE**：不要求
+**GRE**：不要求  
 **申请时间**：1月10日     
 **申请材料**：成绩证明（非官方）+学位证明+动机信+3封推荐信+个人简历+作品集+语言证明    
 **作品集要求原文：**   

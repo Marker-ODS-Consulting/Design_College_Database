@@ -1,5 +1,5 @@
 ## 宾夕法尼亚大学 | Master of Integrated Product Design (M:IPD)  
-2020年QS世界院校综合排名：15
+2020年QS世界院校综合排名：15  
 2020年QS世界设计艺术排名：51-100
 
 
@@ -7,11 +7,11 @@
 ### 1. 官网相关信息：
 
 **院校**：University of Pennsylvania  
-**学位**：Master's Programme in Collaborative and Industrial Design (M:IPD)
-**学制**：2 年  
+**学位**：Master's Programme in Collaborative and Industrial Design (M:IPD)  
+**学制**：2 年   
 **费用**：55566 美元/年  
 **语言**：TOEFL总分100 | IELTS 总分7.5  
-**GRE**：要求
+**GRE**：要求  
 **申请时间**：2月1日 截止   
 **作品集要求原文：**   
 
@@ -63,5 +63,4 @@
 
 #### 编辑历史
 Yuan 20210224 已校对  
-
 Natt 20210126 初次建立  

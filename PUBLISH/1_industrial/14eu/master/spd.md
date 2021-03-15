@@ -1,6 +1,6 @@
 ## 米兰工业设计学院[意大利] | Master of Industrial Design
 
-QS世界设计综合排名：/
+QS世界设计综合排名：/  
 QS世界设计艺术排名：/
 
 
@@ -10,10 +10,10 @@ QS世界设计艺术排名：/
 **院校**：Scuola Politecnica di Design  
 **学位**：Master of Industrial Design   
 **学制**：15 个月  
-**费用**：/
-**语言**：/
-**申请时间**：/
-**申请文件**：学位证明+成绩证明+个人简历+动机信+DOV+护照复印件+面试
+**费用**：/  
+**语言**：/  
+**申请时间**：/  
+**申请文件**：学位证明+成绩证明+个人简历+动机信+DOV+护照复印件+面试  
 **作品集要求原文：**   
 
 >Portfolio in digital format (ppt, pptx, pdf, jpeg, flash, etc). In case of files larger than 10MB, we suggest to use any cloud storage service like ICloud, Google Drive, One Drive, Dropbox or similar ones.

@@ -1,5 +1,5 @@
 ## 华盛顿大学 | Master of Design  
-QS2020年世界综合排名: 68
+QS2020年世界综合排名: 68  
 QS2020年世界艺术专业排名：151-200
 
 
@@ -8,13 +8,13 @@ QS2020年世界艺术专业排名：151-200
 ### 1. 官网相关信息：
 
 **院校**：University of Washington  
-**学位**：Master of Design
+**学位**：Master of Design  
 **学制**：2 年  
 **费用**：32800美元/年  
 **语言**：TOEFL总分92，不接受IELTS  
-**GRE**：不要求
+**GRE**：不要求  
 **申请时间**：10月1日 - 1月15日     
-**申请材料**：成绩证明+学位证明+动机信+最多4封推荐信+个人简历+作品集
+**申请材料**：成绩证明+学位证明+动机信+最多4封推荐信+个人简历+作品集  
 **作品集要求原文：**   
 
 > Portfolio: The portfolio should demonstrate your knowledge and abilities in the field of Design. You may include **up to 20 pages** of your design work, saved as **one PDF** which will largely be viewed on a computer screen. The document should include **a cover sheet and an image list**. The PDF document should not exceed **30MB** in size. You are welcome to include web design, animation, or video content as part of your portfolio by inserting links to these sources within your portfolio document. Please note, however, that these should be considered supplementary. You will be prompted to upload your pdf portfolio to the University of Washington online graduate student application.
@@ -55,5 +55,4 @@ QS2020年世界艺术专业排名：151-200
 
 #### 编辑历史
 Yuan 20210224 已校对  
-
 Natt 20210126 初次建立  

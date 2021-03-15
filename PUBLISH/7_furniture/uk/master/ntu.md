@@ -1,13 +1,13 @@
 ## 诺丁汉特伦特大学 | MA Design: Products and Furniture
 
-QS世界综合排名：701-750
+QS世界综合排名：701-750  
 QS世界设计艺术排名：51-100
 
 
 ### 1. 官网相关信息：
 
 **院校**：Nottingham Trent University  
-**学位**：MA Design: Products and Furniture
+**学位**：MA Design: Products and Furniture  
 **学制**：1 年  
 **费用**：14500 英镑/年  
 **语言**：IELTS 总分6.5，单科不低于 5.5  
@@ -16,7 +16,7 @@ QS世界设计艺术排名：51-100
 **作品集要求原文：**   
 
 >If your initial application is successful, you'll be asked to upload a digital portfolio of your work to the University.
-
+>
 >For the academic team to consider your application, you're required to submit at least 12 examples of your practical work.
 Your work can be in the form of images, photographs, drawings or other media.
 You should include:
@@ -24,11 +24,11 @@ You should include:
 > - any other work which demonstrates your visual interests
 > - five slides on sketchbook or personal work.
 > - You should also include dates and descriptions of the projects, including the reasoning behind why they were undertaken.
-
+>
 > What we're looking for in your work
 > - The details of your application form and portfolio will be carefully considered when assessing your suitability for the course.
 > - Our academic team will be looking for evidence of your creativity, innovation, intellectual engagement, technical skills and professionalism.
-
+>
 > How to submit your digital portfolio
 >Making sure your work is in the correct format and adheres to our guidelines is important.
 >Your portfolio should:
@@ -36,8 +36,7 @@ You should include:
 > - be no more than 20 slides – this will allow you to include more than one image of each piece of work, if required, plus short descriptions
 be submitted as a single unzipped file not exceeding 10 megabytes (mb).
 > - Further guidance on how to submit your digital portfolio will be sent via email during your application process.
-
-
+>
 > Guidance on images
 Where images are inserted into your presentation, they should be:
 > - in JPEG format
@@ -73,6 +72,6 @@ Where images are inserted into your presentation, they should be:
 
 
 #### 编辑历史  
-Natt 20210116 已审阅
-Yuan 20201229 已校对
+Natt 20210116 已审阅  
+Yuan 20201229 已校对  
 Natt 20201229 初次建立编辑  

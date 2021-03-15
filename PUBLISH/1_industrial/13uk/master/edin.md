@@ -1,6 +1,6 @@
 ## 爱丁堡大学 | MA Design for Change
 
-2020年QS世界综合排名：20
+2020年QS世界综合排名：20  
 2020年QS设计艺术排名：51-100
 
 
@@ -52,10 +52,7 @@
 **专业介绍：**[院校链接](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=951)  
 **语言课：** [院校链接](https://www.ed.ac.uk/english-language-teaching/ele-courses/team-test)  
 **申请要求：** [院校链接](https://www.ed.ac.uk/studying/international/postgraduate-entry/asia/china)  
-
-
-
-**解读文章：**：[爱丁堡 MA Design for Change 申请中2分钟小视频准备思路](http://www.makebi.net/32431.html)
+**解读文章：**：[爱丁堡 MA Design for Change 申请中2分钟小视频准备思路](http://www.makebi.net/32431.html)  
 **解读文章：**：[皇艺和爱丁堡要求的2分钟视频，到底要什么？](http://www.makebi.net/36199.html)  
 **解读文章：**：[同学，爱丁堡大学产品设计了解下？](http://www.makebi.net/27462.html)  
 **解读文章：**：[4步搞定爱丁堡产品设计3分钟小视频](http://www.makebi.net/25881.html)  
@@ -69,6 +66,6 @@
 
 #### 编辑历史  
 
-Natt 20201222 已审阅
-Yuan 20201217已校对
+Natt 20201222 已审阅  
+Yuan 20201217 已校对  
 Natt 20201217 初次建立编辑  

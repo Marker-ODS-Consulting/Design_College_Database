@@ -1,6 +1,6 @@
 ## 瑞典皇家理工大学[瑞典] | Master's programme in Integrated Product Design
 
-QS世界院校综合排名：98
+QS世界院校综合排名：98  
 QS世界设计艺术排名：/
 
 
@@ -8,17 +8,17 @@ QS世界设计艺术排名：/
 
 ### 1. 官网相关信息：
 
-**国家**: 瑞典 | Sweden
+**国家**: 瑞典 | Sweden  
 **院校**：KTH Royal Institute of Technology  
 **学位**：Master's programme in Integrated Product Design  
 **学制**：2 年  
-**费用**：310,000 瑞典克朗/整体学费
-**语言**：TOEFL总分90，单科20    或     IETLS总分6.5，单科5.5
-**申请时间**：2021秋季入学这一批：
+**费用**：310,000 瑞典克朗/整体学费  
+**语言**：TOEFL总分90，单科20    或     IETLS总分6.5，单科5.5  
+**申请时间**：2021秋季入学这一批：  
 - 16 October 2020: Application opens / 2020年10月16日开放申请
 - 15 January 2021: Application deadline / **2021年1月15日截止**
-- 1 February 2021: Deadline for supporting academic documents (all applicants) and documentation of fee exempt status (if required) or receipt of application fee (if required) / 2021年2月1日 其余文档截止
-- 9 April 2021: Notification of selection results / 2021年4月9日 放榜
+- 1 February 2021: Deadline for supporting academic documents (all applicants) and documentation  of fee exempt status (if required) or receipt of application fee (if required) / 2021年2月1日 其余文档截止  
+- 9 April 2021: Notification of selection results / 2021年4月9日 放榜  
 - August 2021: Arrival and start of studies  / 2021年8月 到达入学  
 
 **申请文件**：学位证明+成绩证明+语言证明+动机信+个人简历+作品集  

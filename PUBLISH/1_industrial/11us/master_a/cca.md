@@ -1,5 +1,5 @@
 ## 加州艺术学院 | MFA in Design (Industrial Design)   
-QS2020年世界综合排名: /
+QS2020年世界综合排名: /  
 QS2020年世界艺术专业排名：25
 
 
@@ -8,11 +8,11 @@ QS2020年世界艺术专业排名：25
 ### 1. 官网相关信息：
 
 **院校**：California College of the Arts    
-**学位**：MFA in Design (Industrial Design)
+**学位**：MFA in Design (Industrial Design)  
 **学制**：2-3 年  
 **费用**：55380美元/年  
 **语言**：TOEFL最低总分100，IELTS最低总分7.5  
-**GRE**：不要求
+**GRE**：不要求  
 **申请时间**：优先录取截止到1月10日       
 **申请材料**：成绩证明+学位证明+2封推荐信+个人陈述+个人简历+作品集    
 **作品集要求原文：**   
@@ -49,8 +49,8 @@ QS2020年世界艺术专业排名：25
 
 **专业介绍：**[院校链接](https://www.cca.edu/design/mfa-design/)  
 **申请要求：** [院校链接](https://www.cca.edu/admissions/)  
-**语言课：** [院校链接](https://www.cca.edu/admissions/international/#section-how-to-apply)
-**课程安排：** [院校链接](https://www.cca.edu/design/mfa-design/#section-concentrations)
+**语言课：** [院校链接](https://www.cca.edu/admissions/international/#section-how-to-apply)  
+**课程安排：** [院校链接](https://www.cca.edu/design/mfa-design/#section-concentrations)  
 **SlideRoom页面：**[SlideRoom链接](https://cca.slideroom.com/#/login/program/57363)
 
 
