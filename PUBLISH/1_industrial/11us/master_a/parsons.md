@@ -1,16 +1,16 @@
 ## 帕森斯设计学院 | MFA Industrial Design   
-QS2020年世界综合排名: /
+QS2020年世界综合排名: /  
 QS2020年世界艺术专业排名：3
 
 
 ### 1. 官网相关信息：
 
 **院校**：Parsons The New School for Design    
-**学位**：MFA Industrial Design
+**学位**：MFA Industrial Design  
 **学制**：2 年  
 **费用**：26870美元/学期    
 **语言**：TOEFL最低总分92，IELTS最低总分7.0    
-**GRE**：不要求
+**GRE**：不要求  
 **申请时间**：1月2日 截止       
 **申请材料**：成绩证明（非官方）+学位证明+2封推荐信+动机信+个人简历+作品集+语言证明      
 **作品集要求原文：**   
@@ -40,8 +40,7 @@ QS2020年世界艺术专业排名：3
 **专业介绍：**[院校链接](https://www.newschool.edu/parsons/mfa-industrial-design/)  
 **申请要求：** [院校链接](https://www.newschool.edu/parsons/mfa-industrial-design/?show=program-admission-requirements)  
 **课程安排：** [院校链接](https://www.newschool.edu/parsons/mfa-industrial-design-curriculum/)  
-**作品集要求：**[院校链接](https://www.newschool.edu/parsons/portfolio-requirements-graduate/)
-
+**作品集要求：**[院校链接](https://www.newschool.edu/parsons/portfolio-requirements-graduate/)  
 **解读文章：**：[帕森斯设计学院](http://www.makebi.net/22281.html)
 
 

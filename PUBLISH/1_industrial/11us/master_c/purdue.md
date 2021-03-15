@@ -1,18 +1,18 @@
 ## 普渡大学 | MFA Industrial Design  
-QS2020年世界综合排名: 111
+QS2020年世界综合排名: 111  
 QS2020年世界艺术专业排名：/
 
 
 ### 1. 官网相关信息：
 
 **院校**：Purdue University   
-**学位**：MFA Industrial Design
+**学位**：MFA Industrial Design  
 **学制**：2 年  
 **费用**：1018.3美元/学分时  
 **语言**：TOEFL最低总分80，IELTS 最低总分6.5  
-**GRE**：不要求
+**GRE**：不要求  
 **申请时间**：1月15日 截止     
-**申请材料**：成绩证明（官方）+学位证明+动机信+3封推荐信+个人简历+个人陈述+作品集
+**申请材料**：成绩证明（官方）+学位证明+动机信+3封推荐信+个人简历+个人陈述+作品集  
 **作品集要求原文：**   
 
 > Portfolio of at least 20 examples of work completed in the last two year. Indicate the title, medium, size, and date of execution for each work.
@@ -47,5 +47,4 @@ QS2020年世界艺术专业排名：/
 
 #### 编辑历史
 Yuan 20210224 已校对  
-
 Natt 20210126 初次建立  

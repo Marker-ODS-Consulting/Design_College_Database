@@ -1,5 +1,5 @@
 ## 纽约视觉艺术学院 | MFA in Products of Design   
-QS2020年世界综合排名: /
+QS2020年世界综合排名: /  
 QS2020年世界艺术专业排名：28
 
 
@@ -8,11 +8,11 @@ QS2020年世界艺术专业排名：28
 ### 1. 官网相关信息：
 
 **院校**：School of Visual Arts    
-**学位**：MFA in Products of Design
+**学位**：MFA in Products of Design  
 **学制**：2 年  
 **费用**：25930美元/学期  
 **语言**：TOEFL最低总分79，IELTS最低总分6.5    
-**GRE**：不要求
+**GRE**：不要求  
 **申请时间**：1月15日 截止       
 **申请材料**：成绩证明（WES）+学位证明+3封推荐信+个人陈述+个人简历+作品集+语言证明    
 **作品集要求原文：**   
@@ -57,10 +57,9 @@ QS2020年世界艺术专业排名：28
 **专业介绍：**[院校链接](https://sva.edu/academics/graduate/mfa-products-of-design)  
 **申请要求：** [院校链接](http://www.sva.edu/admissions/graduate)  
 **课程安排：** [院校链接](http://www.sva.edu/graduate/mfa-products-of-design/curriculum)  
-**作品集要求：**[院校链接](https://sva.edu/admissions/how-to-apply/graduate-application-requirements/products-of-design)
-**SlideRoom页面：**[SlideRoom链接](https://cca.slideroom.com/#/login/program/57363)
-
-**解读文章：**：[全面了解纽约视觉艺术学院产品设计专业](http://www.makebi.net/27228.html)
+**作品集要求：**[院校链接](https://sva.edu/admissions/how-to-apply/graduate-application-requirements/products-of-design)  
+**SlideRoom页面：**[SlideRoom链接](https://cca.slideroom.com/#/login/program/57363)  
+**解读文章：**[全面了解纽约视觉艺术学院产品设计专业](http://www.makebi.net/27228.html)
 
 
 ---
@@ -68,5 +67,4 @@ QS2020年世界艺术专业排名：28
 
 #### 编辑历史
 Yuan 20210224 已校对  
-
 Natt 20210126 初次建立  

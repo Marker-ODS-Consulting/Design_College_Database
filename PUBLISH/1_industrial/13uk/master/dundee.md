@@ -1,6 +1,6 @@
 ## 邓迪大学 | Product Design MSc
 
-2020年QS世界综合排名：302
+2020年QS世界综合排名：302  
 2020年QS设计艺术排名：51-100
 
 
@@ -54,11 +54,8 @@ File format
 **语言课：** [院校链接](https://www.dundee.ac.uk/study/english-international-students/pre-sessional/)  
 **申请要求：** [院校链接](https://www.dundee.ac.uk/study/pg/product-design/#info-entry-requirements)  
 **课程安排：** [院校链接](https://www.dundee.ac.uk/study/pg/product-design/#info-overview)  
-**作品集说明：** [院校链接](https://www.dundee.ac.uk/postgraduate/product-design/portfolio)
-
-
-**相关视频：**：[邓迪大学产品设计专业学生访谈](https://www.bilibili.com/video/av28983130)  
-
+**作品集说明：** [院校链接](https://www.dundee.ac.uk/postgraduate/product-design/portfolio)  
+**相关视频：**[邓迪大学产品设计专业学生访谈](https://www.bilibili.com/video/av28983130)  
 
 
 
@@ -67,6 +64,6 @@ File format
 
 #### 编辑历史  
 
-Natt 20201222 已审阅
-Yuan 20201217 已校对
+Natt 20201222 已审阅  
+Yuan 20201217 已校对  
 Natt 20201217 初次建立编辑  

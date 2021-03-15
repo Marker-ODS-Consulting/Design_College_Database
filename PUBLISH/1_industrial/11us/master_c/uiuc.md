@@ -1,5 +1,5 @@
 ## 伊利诺大学香槟分校 | MFA in Industrial Design
-QS2020年世界综合排名: 75
+QS2020年世界综合排名: 75  
 QS2020年世界艺术专业排名：/
 
 
@@ -8,13 +8,13 @@ QS2020年世界艺术专业排名：/
 ### 1. 官网相关信息：
 
 **院校**：University of Illinois At Urbana Champaign   
-**学位**：MFA in Industrial Design
+**学位**：MFA in Industrial Design  
 **学制**：2 年  
 **费用**：33448-42796美元/年  
 **语言**：TOEFL总分不低于102，IELTS 总分不低于7.0  
-**GRE**：不要求
+**GRE**：不要求  
 **申请时间**：1月15日 截止     
-**申请材料**：成绩证明+学位证明+动机信+最多4封推荐信+个人简历+作品集
+**申请材料**：成绩证明+学位证明+动机信+最多4封推荐信+个人简历+作品集  
 **作品集要求原文：**   
 
 > Your portfolio should showcase your strongest work and convey an understanding of your creative research practice. Portfolios must be submitted online through an additional application process in **SlideRoom**. Applicants must submit **12 to 20 media files** (images and/or videos). As part of the media upload process, and tied to individual files, you must provide additional details (title, date, media, contextual information, etc.) through “Label Media” to frame the work samples. This will help reviewers understand and appreciate your work.
@@ -62,5 +62,4 @@ QS2020年世界艺术专业排名：/
 
 #### 编辑历史
 Yuan 20210224 已校对  
-
 Natt 20210126 初次建立  

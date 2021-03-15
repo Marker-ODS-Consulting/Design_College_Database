@@ -1,6 +1,6 @@
 ## 米兰理工大学[意大利] | MSc. Integrated Product Design
 
-QS世界设计综合排名：149
+QS世界设计综合排名：149  
 QS世界设计艺术排名：6
 
 
@@ -11,8 +11,8 @@ QS世界设计艺术排名：6
 **院校**：Politecnico di Milano  
 **学位**：MSc. Integrated Product Design   
 **学制**：2 年  
-**费用**：3,500 欧元/年
-**语言**：TOEFL 总分79 或 IETLS总分6.0
+**费用**：3,500 欧元/年  
+**语言**：TOEFL 总分79 或 IETLS总分6.0  
 **申请时间**：  
 - 9月5日-11月18日（秋季第一轮）
 - 1月10日-3月5日（秋季第二轮）
@@ -47,10 +47,9 @@ The portfolio is a collection of selected samples of work from your previous edu
 
 **专业介绍：**[院校链接](https://www.polimi.it/?id=6502&anno=2020&campus=&scuola=19&corso=1261&L=1)  
 **申请要求：**[院校链接](https://www.polimi.it/en/international-prospective-students/laurea-magistrale-programmes-equivalent-to-master-of-science/application-procedures/application/list-of-documents-required-by-the-admissions-office/)  
-
-**解读文章：**：[给你最全的米兰理工大学申请攻略](http://www.makebi.net/28311.html)    
-**解读文章：**：[[ASK问起来]聊一聊米兰理工大学](http://www.makebi.net/21296.html)  
-**相关教程：**：[米兰理工大学在线申请讲解/哔哩哔哩链接](https://www.bilibili.com/video/av35341944)  
+**解读文章：**[给你最全的米兰理工大学申请攻略](http://www.makebi.net/28311.html)   
+**解读文章：**[[ASK问起来]聊一聊米兰理工大学](http://www.makebi.net/21296.html)  
+**相关教程：**[米兰理工大学在线申请讲解/哔哩哔哩链接](https://www.bilibili.com/video/av35341944)  
 
 
 ---

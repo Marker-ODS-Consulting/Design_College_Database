@@ -1,19 +1,19 @@
 ## 南丹麦大学[丹麦] | MSc in IT - Product Design
 
-QS世界设计综合排名：372
+QS世界设计综合排名：372  
 QS世界设计艺术排名：151-200
 
 
 
 ### 1. 官网相关信息：
 
-**国家**: 丹麦 | Denmark
-**院校**：University of Southern Denmark
+**国家**: 丹麦 | Denmark  
+**院校**：University of Southern Denmark  
 **学位**：MSc in IT - Product Design  
 **学制**：2 年  
-**费用**：6,950 欧元/学期 (四学期总共 27,800 欧元)
-**语言**：TOEFL总分88 或 IETLS总分 6.5
-**申请时间**：2月1日
+**费用**：6,950 欧元/学期 (四学期总共 27,800 欧元)  
+**语言**：TOEFL总分88 或 IETLS总分 6.5  
+**申请时间**：2月1日  
 **申请文件**：学位证明+成绩证明+动机信+个人简历+作品集+语言成绩+课程描述+面试  
 **作品集要求原文：**   
 
@@ -50,12 +50,11 @@ QS世界设计艺术排名：151-200
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.sdu.dk/en/uddannelse/kandidat/it_produktudvikling/introduktion)  
-**学费说明：**[院校链接](https://www.sdu.dk/en/uddannelse/kandidat/it_produktudvikling/pris) [院校链接2](https://www.sdu.dk/en/uddannelse/tuition)
-**该专业学费：**[院校了解](https://www.sdu.dk/en/uddannelse/tuition/hum_tuition)
+**学费说明：**[院校链接](https://www.sdu.dk/en/uddannelse/kandidat/it_produktudvikling/pris) [院校链接2](https://www.sdu.dk/en/uddannelse/tuition)  
+**该专业学费：**[院校了解](https://www.sdu.dk/en/uddannelse/tuition/hum_tuition)  
 **入学要求：** [院校链接](https://www.sdu.dk/en/uddannelse/kandidat/it_produktudvikling/adgangskrav)  
-**作品集要求：** [院校链接](https://www.sdu.dk/en/uddannelse/kandidat/it_produktudvikling/adgangskrav)
+**作品集要求：** [院校链接](https://www.sdu.dk/en/uddannelse/kandidat/it_produktudvikling/adgangskrav)  
 **官方手册：** [点击下载](https://www.sdu.dk/-/media/mitsdu/filer/mit_studie/kandidat/cand_it_product_design/itpd_brochure_2020_university_of_southern_denmark.pdf)
-
 
 ---
 

@@ -1,5 +1,5 @@
 ## 乔治亚理工学院 | Master of Industrial Design  
-QS2020年世界综合排名: 72
+QS2020年世界综合排名: 72  
 QS2020年世界艺术专业排名：/
 
 
@@ -8,13 +8,13 @@ QS2020年世界艺术专业排名：/
 ### 1. 官网相关信息：
 
 **院校**：Georgia Institute of Technology  
-**学位**：Master of Industrial Design
-**学制**：2 年  
+**学位**：Master of Industrial Design  
+**学制**：2 年    
 **费用**：17318美元/12课时  
-**语言**：TOEFL最低总分100
-**GRE**：要求
+**语言**：TOEFL最低总分100  
+**GRE**：要求  
 **申请时间**：1月5日 截止     
-**申请材料**：成绩证明+学位证明+动机信+3封推荐信+GRE+作品集
+**申请材料**：成绩证明+学位证明+动机信+3封推荐信+GRE+作品集  
 **作品集要求原文：**   
 
 > There are no hard requirements for that digital portfolio. But generally it should:
@@ -56,5 +56,4 @@ QS2020年世界艺术专业排名：/
 
 #### 编辑历史
 Yuan 20210224 已校对  
-
 Natt 20210126 初次建立  

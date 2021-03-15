@@ -1,19 +1,19 @@
 ## 卑尔根大学[挪威] | Master of Design
 
-QS世界院校综合排名：359
+QS世界院校综合排名：359  
 QS世界设计艺术排名：/
 
 
 
 ### 1. 官网相关信息：
 
-**国家**: 挪威 | Norway
-**院校**：University of Bergen
+**国家**: 挪威 | Norway  
+**院校**：University of Bergen  
 **学位**：Master of Design  
 **学制**：2 年  
-**费用**：免费
-**语言**：TOEFL总分90 或 IETLS总分 6.5
-**申请时间**：2月1日
+**费用**：免费  
+**语言**：TOEFL总分90 或 IETLS总分 6.5  
+**申请时间**：2月1日  
 **申请文件**：作品集+项目介绍+个人简历+高中证明+大学学历证明+成绩证明+语言证明+护照复印件+动机信+面试  
 **作品集要求原文：**   
 
@@ -63,10 +63,7 @@ QS世界设计艺术排名：/
 
 **专业介绍：**[院校链接](https://www.uib.no/en/kmd/111989/masters-programme-design)  
 **课程安排：** [院校链接](https://www.uib.no/en/kmd/111989/masters-programme-design#project-description)  
-
-
-
-**解读文章：**：[免学费？学校好？来挪威读设计吧](http://www.makebi.net/27327.html)  
+**解读文章：**[免学费？学校好？来挪威读设计吧](http://www.makebi.net/27327.html)  
 
 ---
 

@@ -1,16 +1,16 @@
 ## 罗切斯特理工大学 | Industrial Design MFA   
-QS2020年世界综合排名: /
+QS2020年世界综合排名: /  
 QS2020年世界艺术专业排名：/
 
 
 ### 1. 官网相关信息：
 
 **院校**：Rochester Institute of Technology    
-**学位**：Industrial Design MFA
+**学位**：Industrial Design MFA  
 **学制**：2 年  
 **费用**：47522美元/年  
 **语言**：TOEFL最低总分88，IELTS最低总分6.5  
-**GRE**：不要求
+**GRE**：不要求  
 **申请时间**：Rolling     
 **申请材料**：成绩证明（非官方）+学位证明+3封推荐信+个人陈述+个人简历+作品集+作品集动机陈述    
 **作品集要求原文：**   
@@ -43,7 +43,7 @@ QS2020年世界艺术专业排名：/
 **申请要求：** [院校链接](https://www.rit.edu/programs/industrial-design-mfa)  
 **语言课：** [院校链接](https://www.rit.edu/emcs/ptgrad/apply/information-for-international-applicants)  
 **课程安排：** [院校链接](https://artdesign.rit.edu/schools/design/graduate-industrial-design)  
-**作品集要求：**[院校链接](https://www.rit.edu/admissions/graduate/portfolio-requirements)
+**作品集要求：**[院校链接](https://www.rit.edu/admissions/graduate/portfolio-requirements)  
 **SlideRoom页面：**[SlideRoom链接](https://rit.slideroom.com/#/Login)
 
 ---
@@ -51,5 +51,4 @@ QS2020年世界艺术专业排名：/
 
 #### 编辑历史
 Yuan 20210224 已校对  
-
 Natt 20210126 初次建立  

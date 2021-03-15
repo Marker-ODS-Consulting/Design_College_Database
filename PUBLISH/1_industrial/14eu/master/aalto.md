@@ -1,18 +1,17 @@
 ## 阿尔托大学[芬兰] | Master's Programme in Collaborative and Industrial Design
 
-QS世界院校综合排名：134
+QS世界院校综合排名：134  
 QS世界设计艺术排名：7
 
 
 ### 1. 官网相关信息：
 
-**国家**: 芬兰 | Finland
+**国家**: 芬兰 | Finland  
 **院校**：Aalto University  
 **学位**：Master's Programme in Collaborative and Industrial Design  
 **学制**：2 年  
 **费用**：15000 欧元/年  
-**语言**：TOEFL 92 写作不低于22 或 IETLS 6.5 写作不低于5.5
-
+**语言**：TOEFL 92 写作不低于22 或 IETLS 6.5 写作不低于5.5  
 **申请时间**：1月4日  
 **申请文件**：成绩证明（Chis认证）+学位证明+英文成绩+作品集+动机信+个人简历  
 **作品集要求原文：**   
@@ -56,8 +55,7 @@ QS世界设计艺术排名：7
 
 **专业介绍：**[院校链接](https://www.aalto.fi/en/study-options/masters-programme-in-collaborative-and-industrial-design)  
 **课程介绍：** [院校链接](https://www.aalto.fi/en/study-options/masters-programme-in-collaborative-and-industrial-design)  
-**申请要求：** [院校链接](https://www.aalto.fi/en/study-options/masters-programme-in-collaborative-and-industrial-design)
-
+**申请要求：** [院校链接](https://www.aalto.fi/en/study-options/masters-programme-in-collaborative-and-industrial-design)  
 **解读文章：**：[开放在即，阿尔托大学2021年申请季流程全揭秘](http://www.makebi.net/39074.html)  
 **解读文章：**：[聊一聊阿尔托大学申请的注意事项](http://www.makebi.net/32776.html)  
 **解读文章：**：[CDGDC取消认证，阿尔托和WES成绩如认证？](http://www.makebi.net/32275.html)  

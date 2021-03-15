@@ -15,7 +15,7 @@
 
 >If you meet the entry requirements you will be invited to submit a digital portfolio (up to 30 pages) through UAL’s online portfolio review system.
 Your portfolio should demonstrate your ability to skilfully generate and communicate a range of ideas addressing problems relevant to the discipline of industrial design including:
-
+>
 > -	The generation and communication of a range of ideas
 > -	The analysis of a design problem from a number of perspectives to generate a range of design responses to a particular problem
 > -	The necessary fluency in your design process to be able to benefit from this postgraduate course
@@ -24,13 +24,12 @@ Your portfolio should demonstrate your ability to skilfully generate and communi
 **视频要求原文：**   
 
 > As part of your portfolio application we ask that you include a 2-3 minute video, within this video:
-
+>
 > - Please identify one project which challenged you and your understanding of Industrial Design – explaining how the project advanced your practice. Tell us how this experience has motivated you to undertake study on MA Industrial Design
 > - You must be visible, speak clearly in English and look toward the camera. Record yourself alone and ensure the audio is clear
 > - Use whichever method of filming that's easiest for you e.g. mobile phone or laptop
 > - If you have declared a learning difference or a disability in your application you may submit an audio or written file if this task is not accessible to you.  
-
-
+>
 > The only files that can be uploaded as part of the portfolio are:
 > - Images: bmp, gif, jpg, jpeg, png
 > - Audio: mp3, mp4, ogg, wav, wma
@@ -87,10 +86,8 @@ Your portfolio should demonstrate your ability to skilfully generate and communi
 **专业介绍：**[院校链接](http://www.arts.ac.uk/csm/courses/postgraduate/ma-industrial-design/)  
 **语言课：** [院校链接](https://www.arts.ac.uk/study-at-ual/international/presessional-academic-english-programme)  
 **申请要求：** [院校链接](https://www.arts.ac.uk/subjects/3d-design-and-product-design/postgraduate/ma-industrial-design-csm)  
-**课程安排：** [点击下载](http://www.arts.ac.uk/media/arts/colleges/csm/courses/programme-specification-2018-19/CSM-MA-Industrial-Design-Programme-Specification_201819-Entry.pdf)
-
-
-**解读文章：**：[2020 伦艺 CSM MA Industrial Design 2-3分钟视频该怎么做？](http://www.makebi.net/39293.html)
+**课程安排：** [点击下载](http://www.arts.ac.uk/media/arts/colleges/csm/courses/programme-specification-2018-19/CSM-MA-Industrial-Design-Programme-Specification_201819-Entry.pdf)  
+**解读文章：**：[2020 伦艺 CSM MA Industrial Design 2-3分钟视频该怎么做？](http://www.makebi.net/39293.html)  
 **解读文章：**：[朴实解读 伦艺中央圣马丁工业设计专业](http://www.makebi.net/27647.html)  
 **解读文章：**：[名校推介，中央圣马丁不了解一哈？](http://www.makebi.net/30051.html)  
 **解读文章：**：[本·休斯(CSM工业设计硕士)访谈录](http://www.makebi.net/36164.html)  
@@ -104,6 +101,6 @@ Your portfolio should demonstrate your ability to skilfully generate and communi
 
 #### 编辑历史  
 
-Natt 20201222 已审阅
-Yuan 20201217 已校对
+Natt 20201222 已审阅  
+Yuan 20201217 已校对  
 Natt 20201217 初次建立编辑  

@@ -14,13 +14,12 @@
 **作品集要求原文：**   
 
 >The full portfolio should be no more than 30 pages comprising your work and/or relevant documentary material, and evidence your current creative practice.
-
+>
 >Your digital portfolio should demonstrate:
 > - The full range and level of your design, technical and practical skills
 > - Your thinking and decision making in the design process
 > - Your personal vision and approach to design.
-
-
+>
 > Your portfolio should contain at least one fully documented design process showing:
 > - A project brief and your research into or interrogation of the brief (This could be a client or college brief or a brief you might have set yourself)
 > - Inspirations and initial ideas (where do these come from?)
@@ -28,19 +27,17 @@
 > - Drawing/design of objects based on these visual/conceptual developments
 > - Iterative model making, production and refinement of objects
 > - Final product(s), object(s) and/or presentations such as exhibitions etc.
-
+>
 > The only files that can be uploaded as part of the portfolio are:
 > - Images: bmp, gif, jpg, jpeg, png
 > - Audio: mp3, mp4, ogg, wav, wma
 > - Video: avi, mp4, mpg, mpeg, mkv, mov, wmv
-
+>
 > #### Portfolio advice
-
+>
 > - Your portfolio should demonstrate creative development, whether for a college project or in your personal work. By creative development, we mean ideas that have originated through your own experience and research and progressed towards potential visual proposals. Ideas, visual research and experimentation are more important than finished design solutions and can be shown in 2D work, or through photos of 3D objects and maquettes.  
 > - It is important that the creative work you include reflects and demonstrates your thinking, initiative and personal commitment to a particular project, theme or idea.  We are interested in you as an individual, your personal interests, your creativity and initiative in finding out about your proposed area of study. We would also like to know about your favourite designers and artists, where you have seen their work at first hand and how you have acquired more information about the work that interests you.
-
-
-
+>
 > #### Interview
 > The interviews are used to evaluate the extent to which a candidate demonstrates:
 > - The suitability, appropriateness and deliverability of the Project Proposal in relation to the professional expertise of the staff team
@@ -78,11 +75,8 @@
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.arts.ac.uk/subjects/3d-design-and-product-design/postgraduate/ma-design-ceramics-ma-design-furniture-ma-design-jewellery-csm#fees-and-funding)  
-
-
-
-**解读文章：**：[院校面试，一篇就够](http://www.makebi.net/36254.html)
-**解读文章：**：[申请伦艺，选择线上递交还是线下面试？](http://www.makebi.net/38849.html)  
+**解读文章：**[院校面试，一篇就够](http://www.makebi.net/36254.html)  
+**解读文章：**[申请伦艺，选择线上递交还是线下面试？](http://www.makebi.net/38849.html)  
 
 
 
@@ -91,6 +85,6 @@
 
 
 #### 编辑历史  
-Natt 20210116 已审阅
-Yuan 20201229 已校对
+Natt 20210116 已审阅  
+Yuan 20201229 已校对  
 Natt 20201229 初次建立编辑  

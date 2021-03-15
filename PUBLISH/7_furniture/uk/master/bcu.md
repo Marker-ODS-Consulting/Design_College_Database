@@ -1,6 +1,6 @@
 ## 伯明翰城市大学 | Product and Furniture Design - MA
 
-QS世界综合排名：801-1000
+QS世界综合排名：801-1000  
 QS世界设计艺术排名：151-200
 
 
@@ -8,7 +8,7 @@ QS世界设计艺术排名：151-200
 ### 1. 官网相关信息：
 
 **院校**：Birmingham City University  
-**学位**：Product and Furniture Design - MA
+**学位**：Product and Furniture Design - MA  
 **学制**：1 年  
 **费用**：14500 英镑/年  
 **语言**：IELTS 总分6.0  
@@ -42,10 +42,7 @@ QS世界设计艺术排名：151-200
 
 **专业介绍：**[院校链接](https://www.bcu.ac.uk/courses/product-and-furniture-design-ma-2021-22)  
 **语言课：**[院校链接](https://www.bcu.ac.uk/international/your-application/english-language-and-english-tests)   
-
-
-
-**解读文章：**：[critical design和speculative design有什么区别？](http://www.makebi.net/38485.html)
+**解读文章：**[critical design和speculative design有什么区别？](http://www.makebi.net/38485.html)
 
 
 ---
@@ -53,6 +50,6 @@ QS世界设计艺术排名：151-200
 
 #### 编辑历史  
 
-Natt 20210116 已审阅
-Yuan 20201229 已校对
+Natt 20210116 已审阅  
+Yuan 20201229 已校对  
 Natt 20201229 初次建立编辑  

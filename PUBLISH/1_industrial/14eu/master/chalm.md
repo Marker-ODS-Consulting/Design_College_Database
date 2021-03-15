@@ -1,18 +1,18 @@
 ## 查尔姆斯理工大学[瑞典] | Industrial Design Engineering, MSc
 
-QS世界院校综合排名：125
+QS世界院校综合排名：125  
 QS世界设计艺术排名：/
 
 
 
 ### 1. 官网相关信息：
 
-**国家**: 瑞典 | Sweden
+**国家**: 瑞典 | Sweden  
 **院校**：Chalmers University of Technology  
 **学位**：Industrial Design Engineering, MSc  
 **学制**：2 年  
 **费用**：280,000 瑞典克朗/整体学费 (7000 瑞典克朗/学期)  
-**语言**：TOEFL总分90，单科20    或     IETLS总分6.5，单科5.5
+**语言**：TOEFL总分90，单科20    或     IETLS总分6.5，单科5.5  
 **申请时间**：1月7日 - 1月20日 (2021年)  
 **申请文件**：成绩单+学位证明+英文成绩+作品集+动机信+个人简历+护照+推荐信(optional)  
 **作品集要求原文：**   
@@ -21,7 +21,7 @@ QS世界设计艺术排名：/
 >
 >  The project portfolio is mandatory for the following programmes: Architecture and Urban Design, Architecture and Planning Beyond Sustainability and Industrial Design Engineering.
 Read the information below thoroughly!
-
+>
 > #### Portfolio content
 >此部分出处[链接](https://www.chalmers.se/en/education/application-admission/required_documents/Pages/required%20documents.aspx#punkt7)  
 >
@@ -36,14 +36,14 @@ Read the information below thoroughly!
   > - To be considered as on time, the portfolio must be submitted no later than the last date for supporting documents.
   >   Check Key dates [链接](https://www.chalmers.se/en/education/application-admission/Pages/Key-dates.aspx)
   > - Each programme has a unique link, check the information regarding the portfolio portal below.
-
+>
 >The Portfolio Portal at Chalmers
 >
 >There is a unique link below to each of the three Master's programmes. If applying for more than one programme - re-label your portfolio correctly.
 >Architecture and Urban Design (code: MPARC21) Portfolio portal
 >Industrial Design Engineering (code: ​MPDES21) Portfolio portal
 >Architecture and Planning Beyond Sustainability (code: MPDSD21) Portfolio portal
-
+>
 >Follow the instructions
 >
  > -  Do not submit the portfolio to your account at universityadmissions.se/antagning.se or to any other address or e-mail. It will then neither be assessed nor approved.
@@ -82,11 +82,8 @@ Read the information below thoroughly!
 **专业介绍：**[院校链接](http://www.chalmers.se/en/education/programmes/masters-info/Pages/Industrial-Design-Engineering.aspx)  
 **学费说明：** [院校链接](http://www.chalmers.se/en/education/fees-finance/Pages/Tuition-fees.aspx)  
 **课程安排：** [院校链接](http://www.chalmers.se/en/education/programmes/masters-info/Pages/Industrial-Design-Engineering.aspx#second-page)  
-**申请要求：** [院校链接](http://www.chalmers.se/en/education/application-admission/entry_requirements/Pages/default.aspx)
-**作品集要求：** [院校链接](https://www.chalmers.se/en/education/application-admission/required_documents/Pages/required%20documents.aspx#punkt7)
-
-
-
+**申请要求：** [院校链接](http://www.chalmers.se/en/education/application-admission/entry_requirements/Pages/default.aspx)  
+**作品集要求：** [院校链接](https://www.chalmers.se/en/education/application-admission/required_documents/Pages/required%20documents.aspx#punkt7)  
 **解读文章：**：[3个月时间，如何获得顶尖欧洲院校青睐？](http://www.makebi.net/37926.html)  
 **解读文章：**：[北欧院校到底哪里好？维京男神告诉你](http://www.makebi.net/34499.html)  
 **解读文章：**：[留学瑞典分享：“社恐”的留学好去处，来瑞典准没错](http://www.makebi.net/36010.html)  

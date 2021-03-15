@@ -1,17 +1,17 @@
 ## 特温特大学[荷兰] | MSc. Industrial Design Engineering
 
-QS世界院校综合排名：186
+QS世界院校综合排名：186  
 QS世界艺术设计排名：/
 
 
 
 ### 1. 官网相关信息：
 
-**国家**: 荷兰 | Netherlands 或 Holland
-**院校**：University of Twente
+**国家**: 荷兰 | Netherlands 或 Holland  
+**院校**：University of Twente  
 **学位**：MSc. Industrial Design Engineering   
 **学制**：2 年  
-**费用**：16,000 欧元/年
+**费用**：16,000 欧元/年  
 **语言**：TOEFL总分90 或 IETLS总分 6.5
 **申请时间**：
 - 9月开学 5月1日申请截止
@@ -51,12 +51,10 @@ QS世界艺术设计排名：/
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.utwente.nl/en/education/master/programmes/industrial-design-engineering/)  
-**课程设置：**[院校链接](https://www.utwente.nl/en/education/master/programmes/industrial-design-engineering/masters-structure/)
+**课程设置：**[院校链接](https://www.utwente.nl/en/education/master/programmes/industrial-design-engineering/masters-structure/)  
 **语言课：**[院校链接](https://www.utwente.nl/en/ces/language-centre/courses/)  
-**作品集要求：**[院校链接](https://www.utwente.nl/en/education/master/programmes/industrial-design-engineering/admission/portfolio-requirements/)
-
-
-**相关教程：**：[作品大小不能超过4MB？教你如何极限压缩！）](http://www.makebi.net/38655.html)  
+**作品集要求：**[院校链接](https://www.utwente.nl/en/education/master/programmes/industrial-design-engineering/admission/portfolio-requirements/)  
+**相关教程：**[作品大小不能超过4MB？教你如何极限压缩！](http://www.makebi.net/38655.html)  
 
 
 ---

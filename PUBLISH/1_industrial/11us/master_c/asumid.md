@@ -1,5 +1,5 @@
 ## 亚利桑那州立大学 | Master of Industrial Design  
-QS2019年世界综合排名: 215
+QS2019年世界综合排名: 215  
 QS2019年世界艺术专业排名：151-200
 
 
@@ -7,17 +7,17 @@ QS2019年世界艺术专业排名：151-200
 ### 1. 官网相关信息：
 
 **院校**：Arizona State University    
-**学位**：Master of Industrial Design
+**学位**：Master of Industrial Design  
 **学制**：2-3年  
 **费用**：1400美元/课时  
 **语言**：TOEFL最低总分80，IELTS 最低总分6.5  
-**GRE**：不要求
+**GRE**：不要求  
 **申请时间**：1月15日 截止     
-**申请材料**：成绩证明（官方）+学位证明+动机信+3封推荐信+作品集+语言证明
+**申请材料**：成绩证明（官方）+学位证明+动机信+3封推荐信+作品集+语言证明  
 **作品集要求原文：**   
 
 > 官网: The Design School requires that the portfolio, letter of intent and references be submitted via SlideRoom in addition to the Graduate College application requirements.  
-
+>
 > SlideRoom:
 >A portfolio is required. The portfolio should include documenting papers and imaginative projects that support the intended concentration and demonstrate drawing, rendering, graphic, and modeling skills.
 >
@@ -59,5 +59,4 @@ QS2019年世界艺术专业排名：151-200
 
 #### 编辑历史
 Yuan 20210224 已校对  
-
 Natt 20210126 初次建立  

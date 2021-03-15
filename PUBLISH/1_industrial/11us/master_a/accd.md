@@ -1,5 +1,5 @@
 ## 艺术中心设计学院 | Graduate Industrial Design   
-QS2020年世界综合排名: /
+QS2020年世界综合排名: /  
 QS2020年世界艺术专业排名：4
 
 
@@ -7,11 +7,11 @@ QS2020年世界艺术专业排名：4
 ### 1. 官网相关信息：
 
 **院校**：Art Center (ACCD)   
-**学位**：Graduate Industrial Design
+**学位**：Graduate Industrial Design  
 **学制**：2 年  
 **费用**：24,190美元/学期  
 **语言**：TOEFL最低总分100，IELTS 最低总分7.0  
-**GRE**：不要求
+**GRE**：不要求  
 **申请时间**：截止到1月15日     
 **申请材料**：成绩证明（官方）+学位证明+推荐信+个人简历+作品集+语言证明+ Written Essays（个人陈述）    
 **作品集要求原文：**   
@@ -55,8 +55,8 @@ Submit work that demonstrates your design and innovation abilities. Include exam
 
 **专业介绍：**[院校链接](http://www.artcenter.edu/academics/graduate-degrees/industrial-design/overview.html)  
 **申请要求：** [院校链接](hhttp://www.artcenter.edu/admissions/graduate-admissions/application-requirements.html)  
-**课程安排：** [院校链接](http://www.artcenter.edu/academics/graduate-degrees/industrial-design/course-of-study/overview.html)
-**作品集要求：** [院校链接](http://www.artcenter.edu/admissions/graduate-admissions/portfolio-requirements/requirements-by-major.html)
+**课程安排：** [院校链接](http://www.artcenter.edu/academics/graduate-degrees/industrial-design/course-of-study/overview.html)  
+**作品集要求：** [院校链接](http://www.artcenter.edu/admissions/graduate-admissions/portfolio-requirements/requirements-by-major.html)  
 **SlideRoom页面：**[SlideRoom链接](https://artcenter.slideroom.com/#/Login)
 
 
@@ -64,6 +64,6 @@ Submit work that demonstrates your design and innovation abilities. Include exam
 ---
 
 
-#### 编辑历史
+#### 编辑历史  
 Yuan 20210224 已校对  
 Natt 20210126 初次建立  
