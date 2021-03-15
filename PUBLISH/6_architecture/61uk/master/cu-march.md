@@ -1,12 +1,12 @@
 ## 卡迪夫大学 | Architectural Studies (MArch)
 
-QS世界综合排名：154
+QS世界综合排名：154  
 QS世界设计艺术排名：/
 
 ### 1. 官网相关信息：
 
-**院校**：Cardiff University
-**学位**：Architectural Studies (MArch)
+**院校**：Cardiff University  
+**学位**：Architectural Studies (MArch)  
 **学制**：2年  
 **费用**：24,450英镑  
 **语言**：TOEFL总分90 | IELTS总分6.5，单科5.5；  
@@ -45,5 +45,5 @@ You will also need to provide a portfolio. It may include architectural drawings
 
 
 #### 编辑历史
-Yuan 20210221 已校对
+Yuan 20210221 已校对  
 Ran 20210105 初建  

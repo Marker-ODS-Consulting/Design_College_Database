@@ -11,7 +11,7 @@ QS世界艺术设计排名：6
 **学制**：2年  
 **费用**：3,500欧元  
 **语言**：TOEFL总分79; IELTS总分不低于6.0  
-**申请时间**：11月19日（第一批）
+**申请时间**：11月19日（第一批）  
 **申请文件**：学位证明+成绩单+课程描述+个人简历+个人陈述+语言证明+作品集  
 **作品集要求原文：**   
 >You must provide a Portfolio of your works. The portfolio must be uploaded on your online profile in the section “Master of Science programme(s) selection” and cannot be bigger than 20 MB. Please do not send hard copies by post since they will not be considered.  

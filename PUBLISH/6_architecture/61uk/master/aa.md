@@ -1,25 +1,25 @@
 ## AA建筑联盟 | Architecture & Urbanism MArch
 
-QS世界综合排名：/
+QS世界综合排名：/  
 QS世界设计艺术排名：
 
 ### 1. 官网相关信息：
 
-**院校**：Architectural Association School of Architecture
-**学位**：Architecture & Urbanism MArch
+**院校**：Architectural Association School of Architecture  
+**学位**：Architecture & Urbanism MArch  
 **学制**：16个月  
 **费用**：37,341英镑  
 **语言**：TOEFL总分90 | IELTS总分6.5，单科5.5；  
 **申请时间**：6月30  
 **申请文件**：2封推荐信+成绩单+英文成绩+作品集+在线申请表+申请费  
 **作品集要求原文：**   
-The digital portfolio of art or design work should emphasise an applicant’s skills, interests, creativity and personality. Applicants to any of the taught postgraduate programmes should include in this document a range of both their academic and professional work. The portfolio should also show working processes (sketches, development drawings, models etc) rather than just final images.
-
-There is no single way of preparing a portfolio and each will be different. A panel will assess each submission. It is very important all applicants spend time preparing this document.
-
-The portfolio should be a single a PDF document of 20–30 pages and must be no more than 40MB in size. It must be clearly labelled with the full name of the applicant and the programme or course to which they are applying.
-
-Upon signature of the application form, applicants certify that the work submitted is entirely their own. Plagiarism is unacceptable in the academic setting and students are subject to penalties including dismissal from their programme, should they commit an act of plagiarism.
+> The digital portfolio of art or design work should emphasise an applicant’s skills, interests, creativity and personality. Applicants to any of the taught postgraduate programmes should include in this document a range of both their academic and professional work. The portfolio should also show working processes (sketches, development drawings, models etc) rather than just final images.
+>
+> There is no single way of preparing a portfolio and each will be different. A panel will assess each submission. It is very important all applicants spend time preparing this document.
+>
+> The portfolio should be a single a PDF document of 20–30 pages and must be no more than 40MB in size. It must be clearly labelled with the full name of the applicant and the programme or course to which they are applying.
+>
+> Upon signature of the application form, applicants certify that the work submitted is entirely their own. Plagiarism is unacceptable in the academic setting and students are subject to penalties including dismissal from their programme, should they commit an act of plagiarism.
 
 
 
@@ -53,5 +53,5 @@ Upon signature of the application form, applicants certify that the work submitt
 
 
 #### 编辑历史
-Yuan 20210221 已校对
+Yuan 20210221 已校对  
 Ran 20210105 初建  

@@ -55,7 +55,6 @@ Please ensure you read PebblePad's file uploads and limits when submitting your 
 **专业介绍：**[院校链接](https://www.arts.ac.uk/subjects/architecture-spatial-and-interior-design/postgraduate/ma-interior-and-spatial-design-camberwell)   
 **课程介绍：**[院校链接](https://www.arts.ac.uk/subjects/architecture-spatial-and-interior-design/postgraduate/ma-interior-and-spatial-design-camberwell#coursesummary)   
 **申请要求：**[院校链接](https://www.arts.ac.uk/subjects/architecture-spatial-and-interior-design/postgraduate/ma-interior-and-spatial-design-camberwell#apply)  
-
 **相关文章：**[英国室内设计专业偏爱什么风格？](http://www.makebi.net/32984.html)  
 **相关视频：**[伦敦艺术大学室内空间专业介绍【马克笔设计留学】](https://www.bilibili.com/video/av23106885)  
 

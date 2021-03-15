@@ -1,12 +1,12 @@
 ## 谢菲尔德大学 | MArch Architecture
 
-QS世界设计综合排名：78
+QS世界设计综合排名：78  
 QS世界设计艺术排名：101-150
 
 ### 1. 官网相关信息：
 
-**院校**：University of Sheffield
-**学位**：MArch Architecture
+**院校**：University of Sheffield  
+**学位**：MArch Architecture  
 **学制**：2年  
 **费用**：24,450英镑  
 **语言**：TOEFL总分88，听写18，读18，说20；IELTS总分6.5，单科6.0；  
@@ -30,10 +30,10 @@ Some advice on putting together your portfolio:
 ### 2. 翻译与解读：
 
 ##### 硬性要求解读：
-
+无具体要求
 
 ##### 软性要求解读：
-
+无具体要求
 
 
 ---
@@ -52,5 +52,5 @@ Some advice on putting together your portfolio:
 
 
 #### 编辑历史
-Yuan 20210221 已校对
+Yuan 20210221 已校对  
 Ran 20210105 初建  

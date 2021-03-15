@@ -1,12 +1,12 @@
 ## 曼彻斯特大学 | MArch Architecture
 
-QS世界设计综合排名：27
+QS世界设计综合排名：27  
 QS世界设计艺术排名：/
 
 ### 1. 官网相关信息：
 
-**院校**：University College London
-**学位**：MArch Architecture  
+**院校**：University College London  
+**学位**：MArch Architecture    
 **学制**：2年  
 **费用**：25,000英镑  
 **语言**：TOEFL总分92，单科20 | IELTS总分6.5，单科6.0；  
@@ -44,5 +44,5 @@ A portfolio of work should be submitted with your application, this can be sent 
 
 
 #### 编辑历史
-Yuan 20210221 已校对
+Yuan 20210221 已校对  
 Ran 20201225 初建  

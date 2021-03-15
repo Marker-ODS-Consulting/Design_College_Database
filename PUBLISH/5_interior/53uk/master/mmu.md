@@ -5,7 +5,7 @@ QS世界设计艺术排名：151-200
 
 ### 1. 官网相关信息：
 
-**院校**：Manchester Metropolitan University
+**院校**：Manchester Metropolitan University  
 **学位**：MA/MFA DESIGN: INTERIOR DESIGN  
 **学制**：1-2年
 **费用**：15504英镑  

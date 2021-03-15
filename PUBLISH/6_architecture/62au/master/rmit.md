@@ -1,6 +1,6 @@
 ## 墨尔本皇家理工大学 | Master of Architecture
 
-QS世界院校综合排名：238
+QS世界院校综合排名：238  
 QS世界设计艺术排名：11
 
 
@@ -77,5 +77,5 @@ Send message via the online applicant portal with the username and password to a
 
 
 #### 编辑历史
-Yuan 20210221 已校对
+Yuan 20210221 已校对  
 An 20210119 初建立
