@@ -13,7 +13,7 @@
 
 ####说明  
 
-国外院校对于“室内设计”这个专业名称一般常见有三种叫法：“Interior Design”，"Interior Architecture Design"以及“Spatial Design”。
+国外院校对于“室内设计”这个专业名称一般常见有三种叫法：“Interior Design”，"Interior Architecture Design"以及“Spatial Design”。一般来说，室内设计常见的相关学位有MA，MFA和MsD，分为为文学硕士，艺术硕士和设计硕士。
 
 
 
