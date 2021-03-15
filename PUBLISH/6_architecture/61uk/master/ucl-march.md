@@ -13,7 +13,7 @@ QS世界设计艺术排名：36
 **申请时间**：5月31日截  
 **申请文件**：两封学术推荐信+成绩单+英文成绩+作品集+学习计划+作品案例（最多1个）+ Gates Cambridge References+简历  
 **作品集要求原文：**   
-A design/creative portfolio is also expected. Applicants will be asked to submit a portfolio of their design work once their completed application has been received, and should not send or upload work until it has been requested. Although it is not a requirement, professional work experience taken after completing your undergraduate degree is also expected.
+> A design/creative portfolio is also expected. Applicants will be asked to submit a portfolio of their design work once their completed application has been received, and should not send or upload work until it has been requested. Although it is not a requirement, professional work experience taken after completing your undergraduate degree is also expected.
 
 
 ---

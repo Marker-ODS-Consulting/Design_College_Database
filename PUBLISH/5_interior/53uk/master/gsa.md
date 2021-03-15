@@ -12,40 +12,40 @@ QS世界综合排名：8
 **申请时间**：[详见官方PDF内](https://www.gsa.ac.uk/media/1831921/sod-application-guide-2122-entry.pdf)  
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**  
-The digital portfolio should:
-1. demonstrate your individual interests, approach and creativity  
-2. clearly present your research methods and routes  
-3. show the links between your research and development of ideas  
-4. include evidence of your working process, from project inception to resolution, demonstrating experiments and explorations  
-5. demonstrate technical knowledge and skills used to realise intentions  
-6. include professional, fully resolved work  
-7. show an awareness and understanding of the professional context for the work  
-
-How to demonstrate your individual interests, approach and creativity  
+> The digital portfolio should:
+> 1. demonstrate your individual interests, approach and creativity  
+> 2. clearly present your research methods and routes  
+> 3. show the links between your research and development of ideas  
+> 4. include evidence of your working process, from project inception to resolution, demonstrating experiments and explorations  
+> 5. demonstrate technical knowledge and skills used to realise intentions  
+> 6. include professional, fully resolved work  
+> 7. show an awareness and understanding of the professional context for the work  
+> 
+> How to demonstrate your individual interests, approach and creativity  
 > - We are very keen to learn about your interest in design; this includes historical or contemporary artists / designers that you are inspired
 by, exhibitions you have visited, and work experience you have undertaken. We want to know what or who has inspired you within your
 design specialism and motivated you to make an application to a specialist programme at GSA.
 > - You may include work generated from previous study and independently generated work either self-directed or produced within
 industry. If there is work included that you have professionally designed for clients or that was undertaken as part of a group project,
 please ensure your role within the project is explicit.
-
-How to show your research methods, and the links between your research and the development of ideas  
+>
+> How to show your research methods, and the links between your research and the development of ideas  
 > - We are interested in how and where you gather the research that informs your projects and how you analyse this information. We want to know about how this research informs the concepts and ideas behind your work and how the progress and develop; from the initial starting point through to a finished piece of work.
 > - This could be evidenced by uploading high quality scans of work in progress sketchbook pages, notebooks or loose sheets. This should be mainly made up of your own work, we do not want to see lots of secondary source material (magazine cut outs, print outs from the
 internet, photocopies of books).  
 > - Where the portfolio requires it, you may include short text descriptions for the work you are presenting.
-
-How to evidence your working process, and your technical knowledge and skills
+>
+> How to evidence your working process, and your technical knowledge and skills
 >  In order to show your working process and technical abilities during the development of your projects, you may wish to combine several pieces of work together onto one page. You could do this by photographing or scanning sketch books, working sheets, technical log books, prototypes, experiments, resolved 3d work individually and use Photoshop (or a similar programme) to combine into one page.
 When recording your work in this way make sure the imagery is of high quality and an appropriate size to ensure that the details that you wish to communicate can be read by the academic staff viewing it.
-
-How to show fully resolved work and your understanding of it’s professional context
+>
+> How to show fully resolved work and your understanding of it’s professional context
 >  We are interested in how you visually present and communicate about your work. It is important to show that you understand how and where to position your work within your design specialism. This could be evidenced by including high quality photographs of fully resolved outcomes indicating its context (position in market). Including relevant contemporary sources within the research would also demonstrate the setting for your resolved outcomes.  
 Approximately 20% of the imagery in your digital portfolio should include final outcomes. The remaining 80% should focus onyour design process and the elements listed on the previous 4 slides.
-
-- a single PDF file, consisting of approximately 20 pages (please note portfolios that are longer may not be fully read).  
-- or 20 individual images.  
-- Your digital portfolio should consist of a minimum of 3 projects.  
+>
+> - a single PDF file, consisting of approximately 20 pages (please note portfolios that are longer may not be fully read).  
+> - or 20 individual images.  
+> - Your digital portfolio should consist of a minimum of 3 projects.  
 
 ---
 

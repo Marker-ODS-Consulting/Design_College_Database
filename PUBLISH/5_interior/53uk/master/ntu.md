@@ -13,14 +13,14 @@ QS世界设计艺术排名：51-100
 **申请时间**：第一学期5月31日截止 | 第二学期11月15日截止  
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**  
-In order for NTU to consider your application, you are required to submit at least 12 examples of your practical work.You should include a range of work that supports your application and shows your understanding of your specialist area of study.  
+> In order for NTU to consider your application, you are required to submit at least 12 examples of your practical work.You should include a range of work that supports your application and shows your understanding of your specialist area of study.  
 You are asked to submit a portfolio of work with your online application. This should include:
 > - At least 12 examples of work which show your architectural and technological work  
 > - Any other work which demonstrates your visual interests  
 > - At least 5 slides on sketchbook or personal work.  
 > - Work can be in the form of images, photographs, drawings or other media, with dates and descriptions of why the projects were undertaken.  
-
-Please submit your practical work as a Microsoft PowerPoint and/or Apple QuickTime presentation. It should be:  
+>
+> Please submit your practical work as a Microsoft PowerPoint and/or Apple QuickTime presentation. It should be:  
 > - as many slides as necessary to allow you to include more than one image of each piece of work, if required, plus short descriptions  
 > - submitted as a single unzipped file not exceeding 10mb (megabytes) and saved as a PowerPoint file (with a file extension of .ppt NOT .pptx).  
 > - NOTE: where images are inserted into a PowerPoint presentation they must be:

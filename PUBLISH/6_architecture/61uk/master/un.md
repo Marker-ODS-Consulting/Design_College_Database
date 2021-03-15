@@ -24,8 +24,8 @@ QS世界设计艺术排名：151-200
 > - examples of a few design projects that you have completed as part of your taught university education. Try to show different presentation techniques that represent your design skills (such as plans, sections, perspectives, physical and computer models, etc). The images can be any from architectural, urban, planning or landscape projects that you have completed in your studies
 > - you may also include a few sketches, paintings, photographs, still life or life drawings to show your skills (maximum 2 pages)
 > - as well as the above, it is also acceptable to include an example of a project that you have completed as part of work experience or a professional placement (maximum 2 pages)
-
-Portfolios will be judged on whether you have the visual skills required together with a keen sense of judgement and spatial awareness in your work.
+>
+> Portfolios will be judged on whether you have the visual skills required together with a keen sense of judgement and spatial awareness in your work.
 
 
 
@@ -59,5 +59,5 @@ Portfolios will be judged on whether you have the visual skills required togethe
 
 
 #### 编辑历史
-Yuan 20210221 已校对
+Yuan 20210221 已校对  
 Ran 20210105 初建  

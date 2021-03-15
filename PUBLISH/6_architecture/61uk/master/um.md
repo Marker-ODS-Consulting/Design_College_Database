@@ -13,7 +13,7 @@ QS世界设计艺术排名：/
 **申请时间**：7月14日  
 **申请文件**：推荐信+成绩单+英文成绩+作品集+个人陈述+语言成绩  
 **作品集要求原文：**   
-A portfolio of work should be submitted with your application, this can be sent to us using online file transfer apps such as dropbox or we-transfer. It should include a table of contents with information regarding the duration of each project and in which academic year/level it was completed and a selection of projects worked on during your year in practice. We also require a concise letter of intent and two references, one of which must be from a former Year 3 tutor, the other a reference from your current employer.
+> A portfolio of work should be submitted with your application, this can be sent to us using online file transfer apps such as dropbox or we-transfer. It should include a table of contents with information regarding the duration of each project and in which academic year/level it was completed and a selection of projects worked on during your year in practice. We also require a concise letter of intent and two references, one of which must be from a former Year 3 tutor, the other a reference from your current employer.
 
 
 ---

@@ -13,14 +13,14 @@ QS世界设计艺术排名：101-150
 **申请时间**：/  
 **申请文件**：2封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**   
-Some advice on putting together your portfolio:
-- You should include a range of academic and practice work
-- Use this as an opportunity to show your breadth and range of experience
-- We do not need every drawing from every project
--	Feel free to include extra activities such as competitions, workshops, field trips
-- This should be 10-12 sheets
-- Please keep file size for this to a max of 20Mb
-- You should submit this as a pdf. We do not accept links to online portfolios or shared drives.
+> Some advice on putting together your portfolio:
+> - You should include a range of academic and practice work
+> - Use this as an opportunity to show your breadth and range of experience
+> - We do not need every drawing from every project
+> -	Feel free to include extra activities such as competitions, workshops, field trips
+> - This should be 10-12 sheets
+> - Please keep file size for this to a max of 20Mb
+> - You should submit this as a pdf. We do not accept links to online portfolios or shared drives.
 
 
 

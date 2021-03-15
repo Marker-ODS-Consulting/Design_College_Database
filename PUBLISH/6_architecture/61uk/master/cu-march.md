@@ -13,7 +13,7 @@ QS世界设计艺术排名：/
 **申请时间**：6月30  
 **申请文件**：2封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**   
-You will also need to provide a portfolio. It may include architectural drawings, other types of drawing, painting, sculpture, photography, graphics, product design or any other work in visual design. You can include as many images as you like, but please make sure they are clear and do justice to your work.
+> You will also need to provide a portfolio. It may include architectural drawings, other types of drawing, painting, sculpture, photography, graphics, product design or any other work in visual design. You can include as many images as you like, but please make sure they are clear and do justice to your work.
 
 
 

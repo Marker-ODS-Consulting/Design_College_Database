@@ -13,29 +13,29 @@ QS世界设计艺术排名：51-100
 **申请时间**：5月31日截  
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+简历  
 **作品集要求原文：**   
-The portfolio is the most important part of your application. It allows us to build up a picture of your capacities to draw, make things, think creatively, manipulate form, organise information, and handle ideas.
-Content
+> The portfolio is the most important part of your application. It allows us to build up a picture of your capacities to draw, make things, think creatively, manipulate form, organise information, and handle ideas.
+> ##### Content
 > - On the first page of the portfolio incorporate your name and UUN (if applicable)
 > - Include a brief CV and your personal statement after the first page
 > - Include examples of your work (see below) after your personal statement
-
-Focus
+>
+> ##### Focus
 > - Your portfolio should include examples of work undertaken as part of a formal programme of study, while in practice, and as part of self-initiated projects.
 > - The focus of the portfolio should be on your best and most recent work.
 Your best work
 > - This doesn’t mean you should limit submissions to presentation images alone. Include sketches, studies and working drawings. If possible, include examples from your design sketchbooks and notebooks.
-
-Most recent work
+>
+> ##### Most recent work
 > -	It is important to present your most recent work, but if you have had a longer period in practice or have a diverse educational, professional background, you should include work that would best show the wider scope and development of your career.
-
-Varied work
+>
+> ##### Varied work
 > -	Include work which varies in terms of kind, scale and media:
 > -	Kind: architectural design, speculative projects,art, built, research
 > -	Scale: furniture, buildings, urban design, regional studies
 > -	Media: freehand drawings, technical drawings, computer drawings, models,sculptures, live performances, paintings, installations, video
 > -	Organise your work so that the admissions panel can see and appreciate your development.
-
-Format
+>
+> ##### Format
 > -	Your portfolio should be presented digitally as a PDF document. Make sure the portfolio is saved as a single PDF file.
 > -	The pages should be set up at A4 size, organised in landscape format.
 > -	Images should appear at a high enough resolution to be clearly legible. However, avoid files sizes that will make the document load very slowly.

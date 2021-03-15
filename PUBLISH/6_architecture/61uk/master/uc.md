@@ -13,7 +13,7 @@ QS世界设计艺术排名：/
 **申请时间**：5月15日截止  
 **申请文件**：两封学术推荐信+成绩单+英文成绩+作品集+学习计划+作品案例（最多1个）+ Gates Cambridge   References+简历  
 **作品集要求原文：**   
-An extract from a design portfolio (maximum of 2GB) is required. If invited to interview an applicant will be required to submit a full Portfolio    
+> An extract from a design portfolio (maximum of 2GB) is required. If invited to interview an applicant will be required to submit a full Portfolio    
 
 
 ---

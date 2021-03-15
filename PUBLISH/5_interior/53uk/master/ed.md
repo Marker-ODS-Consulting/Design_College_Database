@@ -13,17 +13,17 @@ QS世界综合排名：20
 **申请时间**：截止到7月  
 **申请文件**：推荐信+成绩单+英文成绩+作品集+个人陈述+Experience Statement+2 min video
 **作品集要求原文：**  
-You must submit a portfolio as part of your application. Your portfolio should include:
+> You must submit a portfolio as part of your application. Your portfolio should include:
 > - completed interior, architectural, spatial or landscape projects undertaken individually or as part of a group (please note that you should state your involvement in the group projects  
 > - evidence of hand drawing, sketching, model making, orthographic drawing and rendered  visuals  
 > - engagement with materials and detailing  
 > - work demonstrating a range of research methods and lines of enquiry  
 > - development work, demonstrating the iterative design process, as well as finished  projects.
-
-As part of your portfolio, you are encouraged to include a personal video, no more than 2 minutes long, talking about your best piece of work.  
+>
+> As part of your portfolio, you are encouraged to include a personal video, no more than 2 minutes long, talking about your best piece of work.  
 As part of the application process, you must submit a personal statement and CV. Your personal statement should include why you want to study at ECA and what you feel you would contribute to the programme.* You may also be invited to interview via phone or Skype.  
-
-Selection will be made on key criteria:
+>
+> Selection will be made on key criteria:
 > - research: what has generated your design ideas and what methods did you use to support this?  
 > - conceptual ambition: what are the big ideas driving your work? How are you questioning current design thinking ?  
 > - development: how have you developed those ideas in your project work through the iterative design process?  

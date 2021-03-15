@@ -12,8 +12,8 @@
 **申请时间**：10月28日（第一批）  
 **申请文件**： 推荐信+成绩单+学位证明+英文成绩+作品集+作品陈述+个人陈述  
 **作品集要求原文：**  
-Your portfolio is a showcase of your work as an artist or designer and can be made up of images, videos or writing examples. Your portfolio helps us to better understand your application and allows you to show evidence of your ability and motivation to undertake a given programme.  
-
+> Your portfolio is a showcase of your work as an artist or designer and can be made up of images, videos or writing examples. Your portfolio helps us to better understand your application and allows you to show evidence of your ability and motivation to undertake a given programme.  
+>
 > - Creativity, imagination and innovation   
 > - Ability to articulate the intentions of the work  
 > - Intellectual engagement in areas relevant to the work  
@@ -21,7 +21,7 @@ Your portfolio is a showcase of your work as an artist or designer and can be ma
 > - Potential to benefit from the programme  
 
 **作品集上传要求原文：**
-We require the first project in the portfolio to express what you consider to be the work that encompasses all of your best attributes.  
+> We require the first project in the portfolio to express what you consider to be the work that encompasses all of your best attributes.  
 Another slot in the portfolio should contain images, drawings, and a description of the interior space that you are inspired by. It must contain a succinct description as to why it is important to you in the space provided.​​​​​​​  
 ​​​​​​​All projects should demonstrate, research, process, resolution and succinct communication of the ideas and journey of the work.  
 ​​​​​​​Demonstrate skills, particularly an aptitude for thinking through making
@@ -30,8 +30,8 @@ Another slot in the portfolio should contain images, drawings, and a description
 ​​​​​​​Professional work to be included (if applicable)
 ​​​​​​​Include photography of spaces that you have designed that have been built (if applicable)
 The portfolio must be edited and arranged in a graphically coherent and elegant manner.
-
-​​​​​General information
+>
+> ​​​​​General information
 > - 1. Provide a title and relevant details for each area used. Depending on the work, outline the dimensions (artefact), length (digital audio/video) or word count (written) to describe your work.
 > - 2. You have 5 areas available to upload content, each area can hold multiple files and various file types.
 > - 3. In the text space provided:
@@ -41,7 +41,7 @@ b. Always state whether this is an individual or collaborative piece/project; if
 
 
 **动机信要求：**  
-The Royal College of Art supports interdisciplinary art and design practice and encourages applicants with diverse backgrounds and work experience.  
+> The Royal College of Art supports interdisciplinary art and design practice and encourages applicants with diverse backgrounds and work experience.  
 ​​​​​​​Provide us with a 300-word statement of intent that addresses the following points:
 Introduce yourself, your interests and your motivations for applying to the Royal College of Art, and to this programme in particular.  
 Briefly summarise any educational background and professional experience to date that will support your application.   
