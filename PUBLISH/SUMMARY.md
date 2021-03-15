@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [0 数据库介绍](about.md)
+* [0 数据库介绍](README.md)
 * [1 工业设计硕士数据](1_industrial/1_industrial.md)
     * [1.1 美国艺术类工业设计硕士](1_industrial/11us/master_a/accd.md)
         * [1.1.1 艺术中心ACCD](1_industrial/11us/master_a/accd.md)
