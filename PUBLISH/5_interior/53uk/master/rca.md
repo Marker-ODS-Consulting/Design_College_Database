@@ -1,4 +1,4 @@
-## 皇家艺术学院 | MA Interior Design
+## 皇家艺术学院 | MA Interior Design  
 
 2020年QS世界设计艺术排名: 1  
 
@@ -14,19 +14,19 @@
 **作品集要求原文：**  
 Your portfolio is a showcase of your work as an artist or designer and can be made up of images, videos or writing examples. Your portfolio helps us to better understand your application and allows you to show evidence of your ability and motivation to undertake a given programme.  
 
-> - Creativity, imagination and innovation  
+> - Creativity, imagination and innovation   
 > - Ability to articulate the intentions of the work  
 > - Intellectual engagement in areas relevant to the work  
-> - Technical skills appropriate to the work
+> - Technical skills appropriate to the work  
 > - Potential to benefit from the programme  
 
 **作品集上传要求原文：**
-We require the first project in the portfolio to express what you consider to be the work that encompasses all of your best attributes.
-Another slot in the portfolio should contain images, drawings, and a description of the interior space that you are inspired by. It must contain a succinct description as to why it is important to you in the space provided.​​​​​​​
-​​​​​​​All projects should demonstrate, research, process, resolution and succinct communication of the ideas and journey of the work.
+We require the first project in the portfolio to express what you consider to be the work that encompasses all of your best attributes.  
+Another slot in the portfolio should contain images, drawings, and a description of the interior space that you are inspired by. It must contain a succinct description as to why it is important to you in the space provided.​​​​​​​  
+​​​​​​​All projects should demonstrate, research, process, resolution and succinct communication of the ideas and journey of the work.  
 ​​​​​​​Demonstrate skills, particularly an aptitude for thinking through making
-​​​​​​​Include work that is analogue as well as digital, work that is three as well as in two dimensions
-​​​​​​​All projects should have well-edited, concise written descriptions in the spaces provided.
+​​​​​​​Include work that is analogue as well as digital, work that is three as well as in two dimensions  
+​​​​​​​All projects should have well-edited, concise written descriptions in the spaces provided.  
 ​​​​​​​Professional work to be included (if applicable)
 ​​​​​​​Include photography of spaces that you have designed that have been built (if applicable)
 The portfolio must be edited and arranged in a graphically coherent and elegant manner.
@@ -40,20 +40,20 @@ b. Always state whether this is an individual or collaborative piece/project; if
 > - 4. Mark as 'Fully Evidenced' when you have finished editing each space.  
 
 
-**动机信要求：**
-The Royal College of Art supports interdisciplinary art and design practice and encourages applicants with diverse backgrounds and work experience.
+**动机信要求：**  
+The Royal College of Art supports interdisciplinary art and design practice and encourages applicants with diverse backgrounds and work experience.  
 ​​​​​​​Provide us with a 300-word statement of intent that addresses the following points:
-Introduce yourself, your interests and your motivations for applying to the Royal College of Art, and to this programme in particular.
-Briefly summarise any educational background and professional experience to date that will support your application.
+Introduce yourself, your interests and your motivations for applying to the Royal College of Art, and to this programme in particular.  
+Briefly summarise any educational background and professional experience to date that will support your application.   
 Tell us what you want to do in the future.
 
-**2分钟视频要求原文：**   
-> - Express coherently why you want to study Interior Design at the RCA.
-> - What motivates you to be a designer of interior space.
-> - What do you wish to achieve from the course, and how do you think it will assist you in accomplishing this aim.
-> - Complement the work in your portfolio by taking your strongest project and describing succinctly what your aim was, and how did the project achieve it.
-> - Describe the inspirational project in your portfolio to us and express why it stimulates you.
-> - Eloquently describe the biggest challenge you think you will face on the programme at the RCA.
+**2分钟视频要求原文：**    
+> - Express coherently why you want to study Interior Design at the RCA.  
+> - What motivates you to be a designer of interior space.  
+> - What do you wish to achieve from the course, and how do you think it will assist you in accomplishing this aim.  
+> - Complement the work in your portfolio by taking your strongest project and describing succinctly what your aim was, and how did the project achieve it.  
+> - Describe the inspirational project in your portfolio to us and express why it stimulates you.  
+> - Eloquently describe the biggest challenge you think you will face on the programme at the RCA.  
 > - Describe where you see yourself and what you hope to be doing in 5 years-time.
 
 
@@ -67,22 +67,22 @@ Tell us what you want to do in the future.
 ##### 硬性要求提取：
 - 作品集无硬性要求，但是从学校提出的五点“不太具体的要求”来看，你的作品集还是应该在展现出足够的创造力的前提下还要展示出相应的技术层面上的能力，比如动手能力，非常良好的图面表达能力等等。同时，你还要能清楚的表达出你的想法和意图。
 
-- 动机信解读
+- 动机信解读  
 
     - 申请皇艺室内设计的动机和原因；
     - 你过往哪些背景和能力能支持你的申请？
-    - 你未来的计划  
+    - 你未来的计划   
 </br>
 
 - 视频要求
 
   - 问题1. 你为什么要来皇艺学校室内设计专业？
-  - 问题2. 是什么让你想成为一名室内设计师？
-  - 问题3. 你想要从课程中学到什么，从而如何帮助你实现目标?
-  - 问题4. 说一下你作品集中最棒的项目，然后简单的描述你的设计目标是什么，以及如何实现。
-  - 问题5. 描述一下你作品中最有灵感的项目，并简述一下怎么激发你的。
-  - 问题6. 简单地描述一下你认为在RCA你将面临的最大挑战。
-  - 问题7. 描述你对自己的看法，以及五年内你希望做什么。
+  - 问题2. 是什么让你想成为一名室内设计师？  
+  - 问题3. 你想要从课程中学到什么，从而如何帮助你实现目标?  
+  - 问题4. 说一下你作品集中最棒的项目，然后简单的描述你的设计目标是什么，以及如何实现。  
+  - 问题5. 描述一下你作品中最有灵感的项目，并简述一下怎么激发你的。  
+  - 问题6. 简单地描述一下你认为在RCA你将面临的最大挑战。  
+  - 问题7. 描述你对自己的看法，以及五年内你希望做什么。  
 </br>
 
 - 对策：
@@ -123,6 +123,6 @@ Tell us what you want to do in the future.
 
 
 #### 编辑历史
-Natt 20210106 已审阅
-Yuan 20201229 已校对
-Ran 20201217 初次建立
+Natt 20210106 已审阅  
+Yuan 20201229 已校对  
+Ran 20201217 初次建立  

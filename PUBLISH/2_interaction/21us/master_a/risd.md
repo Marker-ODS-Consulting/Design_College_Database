@@ -1,18 +1,18 @@
 ## 罗德岛设计学院 | MFA DIGITAL + MEDIA
 
-2020年QS世界设计艺术排名: 4
-2020年QS世界综合排名: /  
+2020年QS世界设计艺术排名: 4  
+2020年QS世界综合排名: /    
 
 ### 1. 官网相关信息：
 
-**院校**：Rhode Island School of Design
-**学位**：MFA DIGITAL + MEDIA
-**学制**：2年
-**费用**：51800美元/年
-**语言**：TOEFL最低总分93；IELTS最低6.5
-**GRE**：不需要
-**申请时间**：1月10日
-**申请材料**：成绩证明（非官方）+学位证明+动机信+3封推荐信+个人简历+作品集+语言证明
+**院校**：Rhode Island School of Design  
+**学位**：MFA DIGITAL + MEDIA  
+**学制**：2年  
+**费用**：51800美元/年  
+**语言**：TOEFL最低总分93；IELTS最低6.5  
+**GRE**：不需要  
+**申请时间**：1月10日  
+**申请材料**：成绩证明（非官方）+学位证明+动机信+3封推荐信+个人简历+作品集+语言证明  
 **作品集要求原文：**   
 
 > - Graduate applicants to studio programs are required to submit 10–20 examples of visual work, with certain programs suggesting more specific ideas or portfolio requirements. Applicants to the MA programs in Global Arts and Cultures and Nature–Culture–Sustainability Studies are required to submit an example of critical and/or analytical writing. See below for all program-specific instructions.
@@ -22,17 +22,17 @@
 
 ---
 
-### 2. 翻译与解读：
+### 2. 翻译与解读：  
 
-##### 作品集解读：
-- 硬性要求：
-  - 10-20页的pdf文件
-  - 视频不超过5个，每个不超过5分钟
-- 软性要求：
-  - 展现完整的设计流程，思路清晰。
-  - 展现对方法的使用和理解。
-  - 展现专业技法：图形、交互、动效、产品建模、测试评估、空间、媒体。
-  - 转专业申请的同学需展示跨界的能力，既要与申请专业相关，又要体现本专业的优势。
+##### 作品集解读：  
+- 硬性要求：  
+  - 10-20页的pdf文件  
+  - 视频不超过5个，每个不超过5分钟  
+- 软性要求：  
+  - 展现完整的设计流程，思路清晰。  
+  - 展现对方法的使用和理解。  
+  - 展现专业技法：图形、交互、动效、产品建模、测试评估、空间、媒体。  
+  - 转专业申请的同学需展示跨界的能力，既要与申请专业相关，又要体现本专业的优势。  
 
 
 
@@ -43,7 +43,7 @@
 
 **专业介绍：**[院校链接](https://www.risd.edu/academics/digital-media/graduate/)  
 **课程介绍：** [院校链接](http://www.risd.edu/academics/digital-media/graduate/)  
-**申请要求：** [院校链接](https://www.risd.edu/academics/digital-media/graduate/)
+**申请要求：** [院校链接](https://www.risd.edu/academics/digital-media/graduate/)  
 
 ---
 
