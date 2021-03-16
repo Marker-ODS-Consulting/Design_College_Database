@@ -20,7 +20,7 @@
 ### 2. 翻译与解读：
 
 ##### 专业解读：
-新开设的专业，在拉夫堡的伦敦校区，官网的介绍比较少，目前没看到具体的课程设置、作品集要求。
+新开设的专业，在拉夫堡的伦敦校区，官网的介绍比较少，目前没看到具体的课程设置和作品集要求。
 
 ##### 硬性要求提取：
 - 作品集无硬性要求  
@@ -42,3 +42,10 @@
 **课程介绍：** /  
 **申请要求：**[院校链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/service-design-innovation/), [语言要求](https://www.lboro.ac.uk/international/apply/english-language-requirements/)  
 **语言课：**[院校链接](https://www.lboro.ac.uk/services/alss/pre-sessional-courses/pre-sessional-dates-fees-entry/)
+
+
+---
+
+
+#### 编辑历史
+Muzi 20210310 初次建立
