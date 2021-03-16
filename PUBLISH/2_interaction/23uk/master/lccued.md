@@ -4,7 +4,7 @@
 
 ### 1. 官网相关信息：  
 
-**院校**： London College of Communication  
+**院校**：London College of Communication  
 **学位**：MA User Experience Design  
 **学制**：15个月  
 **费用**：22920英镑  
