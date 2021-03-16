@@ -40,7 +40,7 @@ MSc Human Technology Interaction
 **官网：**[院校连接](https://le.ac.uk/courses/human-technology-interaction-msc/2020)  
 **语言课：**[院校链接](https://www2.le.ac.uk/offices/eltu)  
 **课程介绍：** [院校链接](https://le.ac.uk/courses/human-technology-interaction-msc/2020?option=September%202020)  
-**申请要求：** [院校链接](https://le.ac.uk/~/media/uol/docs/publications/prospectus/pg-prospectus-201920.pdf?la=en)
+**申请要求：** [院校链接](https://le.ac.uk/~/media/uol/docs/publications/prospectus/pg-prospectus-201920.pdf?la=en)  
 **解读文章：**[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
 **解读文章：**[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
@@ -51,6 +51,6 @@ MSc Human Technology Interaction
 
 #### 编辑历史  
 
-Natt 20210106 已审阅
-Yuan 20201222 已校对
+Natt 20210106 已审阅  
+Yuan 20201222 已校对  
 Cheng 20201218 初次建立  

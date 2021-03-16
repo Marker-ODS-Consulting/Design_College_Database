@@ -36,7 +36,7 @@
 
 **官网链接：**[院校链接](https://www.ulapland.fi/EN/Units/Faculty-of-Art-and-Design/Studies/Masters-Degree-Programme-in-Arctic-Art-and-Design)  
 **课程介绍：** [院校链接](https://www.ulapland.fi/loader.aspx?id=b41370b3-9bf7-447d-820a-182b044d664f)  
-**申请要求：** [院校链接](https://www.ulapland.fi/loader.aspx?id=2490461e-5b32-465d-a689-fb3167ab7a19)
+**申请要求：** [院校链接](https://www.ulapland.fi/loader.aspx?id=2490461e-5b32-465d-a689-fb3167ab7a19)  
 **解读文章：**[北欧地区学校推荐](http://www.makebi.net/7216.html)  
 
 
