@@ -8,7 +8,7 @@ QS世界综合排名：/
 **学位1**：MA in Spatial Performance and Design - 12 months  
 **学位2**：MFA in Spatial Performance and Design 18 months  
 **学制**：12-18个月  
-**费用**：MFA 35649/ MA 26240英镑  
+**费用**：MFA 35,649/ MA 26,240英镑  
 **语言**：IELTS总分6.5，单科6.0  
 **申请时间**：1月25日（早申请截止）；3月8日（正常申请截止）  
 **申请文件**：申请表+在读证明+成绩单+2封推荐信+作品集+动机信+个人简历  
