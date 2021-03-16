@@ -5,7 +5,7 @@
 ### 1. 官网相关信息：
 
 **院校**：City, University of London   
-**学位**：Human-Computer Interaction Design MSc
+**学位**：Human-Computer Interaction Design MSc  
 **学制**：1 年  
 **费用**：20000英镑/年  
 **语言**：雅思总分不低于7.0分，单科不低于6.5分  
@@ -46,7 +46,7 @@ Human Computer Interaction MSc
 **官网：**[院校连接](https://www.city.ac.uk/study/courses/postgraduate/human-computer-interaction-design)  
 **语言课：**[院校链接](https://www.intostudy.com/en-gb/universities/city-university-london/courses/pre-sessional-english)  
 **课程介绍：** [院校链接](https://www.city.ac.uk/__data/assets/pdf_file/0006/469833/PSHCID-MSc-Human-Computer-Interaction-Design.pdf)  
-**申请要求：** [院校链接](https://www.city.ac.uk/study/courses/postgraduate/human-computer-interaction-design)
+**申请要求：** [院校链接](https://www.city.ac.uk/study/courses/postgraduate/human-computer-interaction-design)  
 **解读文章：**[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
 **解读文章：**[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
@@ -58,5 +58,5 @@ Human Computer Interaction MSc
 #### 编辑历史  
 
 Natt 20210106 已审阅  
-Yuan 20201222 已校对
+Yuan 20201222 已校对  
 Cheng 20201218 初次建立  

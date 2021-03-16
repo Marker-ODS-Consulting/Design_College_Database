@@ -12,7 +12,7 @@
 **语言**：TOEFL总分80；
          IETLS 总分6.5  
 **申请时间**：3月1日截止      
-**申请文件**：学位证明+成绩证明+动机信+个人简历+作品集+语言成绩
+**申请文件**：学位证明+成绩证明+动机信+个人简历+作品集+语言成绩  
 **作品集要求原文：**  
 
 > - The AHO Assessment Committee evaluates your portfolio. It must contain a selection of your works/projects, from studies and work experience. Criteria’s for assessment are knowledge and sensibility towards various aspects of design studies, skills and variety of representation, and portfolio design: structure, length, clarity and conveying of concept rather than completed and fulfilled assignments.
@@ -39,7 +39,7 @@
 
 **官网链接：**[院校链接](https://aho.no/en/content/master-design-2-years)  
 **课程介绍：**[院校链接](https://aho.no/en/content/master-design-2-years)  
-**申请要求：**[院校链接](https://aho.no/en/studies/master-design/admission-design-2)
+**申请要求：**[院校链接](https://aho.no/en/studies/master-design/admission-design-2)  
 **解读文章：**[免学费？学校好？来挪威读设计吧](http://www.makebi.net/27327.html)  
 
 

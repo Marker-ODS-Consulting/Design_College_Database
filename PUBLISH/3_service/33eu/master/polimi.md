@@ -48,7 +48,7 @@
 **官网链接：**[院校链接](https://www.polimi.it/?id=6502&anno=2017&campus=&scuola=19&corso=1159&L=1)  
 **课程介绍：** [院校链接](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?check_params=1&aa=2017&k_corso_la=1159&lang=EN&__pj0=0&__pj1=f3710a5e32c04baa0a4051d8c4c171de)  
 **申请要求：** [院校链接](https://www.polimi.it/en/programmes/how-to-apply/)  
-**语言课：** [院校链接](https://www.polimi.it/en/programmes/language-courses/)
+**语言课：** [院校链接](https://www.polimi.it/en/programmes/language-courses/)  
 **解读文章：** [带你快速了解服务设计（米兰理工大学服务设计）](http://www.makebi.net/25366.html)  
 **解读文章：** [给你最全的米兰理工大学申请攻略）](http://www.makebi.net/28311.html).  
 **解读文章：** [[留学攻略]米兰理工大学介绍](http://www.makebi.net/4911.html)     

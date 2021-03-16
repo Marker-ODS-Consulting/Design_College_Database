@@ -47,7 +47,7 @@
 **官网：**[院校连接](https://www.bath.ac.uk/courses/postgraduate-2019/taught-postgraduate-courses/msc-human-computer-interaction/)  
 **语言课：**[院校链接](https://www.bath.ac.uk/professional-services/pre-sessional-programme/)  
 **课程介绍：** [院校链接](https://www.bath.ac.uk/courses/postgraduate-2019/taught-postgraduate-courses/msc-human-computer-interaction/#course-structure)  
-**申请要求：** [院校链接](https://www.bath.ac.uk/courses/postgraduate-2019/taught-postgraduate-courses/msc-human-computer-interaction/#entry-requirements)
+**申请要求：** [院校链接](https://www.bath.ac.uk/courses/postgraduate-2019/taught-postgraduate-courses/msc-human-computer-interaction/#entry-requirements)  
 **解读文章：**[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
 **解读文章：**[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
@@ -58,6 +58,6 @@
 
 #### 编辑历史  
 
-Natt 20210106 已审阅
-Yuan 20201221 已校对
+Natt 20210106 已审阅  
+Yuan 20201221 已校对  
 Cheng 20201218 初次建立  

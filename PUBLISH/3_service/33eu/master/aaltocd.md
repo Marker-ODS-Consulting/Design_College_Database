@@ -43,7 +43,7 @@
 
 **官网链接：**[院校链接](https://www.aalto.fi/study-options/masters-programme-in-contemporary-design-master-of-arts)  
 **课程介绍：** [院校链接](https://www.aalto.fi/study-options/masters-programme-in-contemporary-design-master-of-arts)  
-**申请要求：** [院校链接](https://www.aalto.fi/study-at-aalto/admission-to-master-of-arts-2-yrs)
+**申请要求：** [院校链接](https://www.aalto.fi/study-at-aalto/admission-to-master-of-arts-2-yrs)  
 **解读文章：**[阿尔托大学开新专业了？](http://www.makebi.net/33709.html)  
 
 ---
