@@ -158,8 +158,8 @@
         * [3.2.9 利兹大学](3_service/32uk/master/leeds.md)
         * [3.2.10 雷文斯本设计与传播学院](3_service/32uk/master/rul.md)
     * [3.3 欧洲大陆服务设计硕士](3_service/33eu/master/aaltocs.md)
-        * [3.3.1 阿尔托大学 [芬兰] CD](3_service/33eu/master/aaltocs.md)
-        * [3.3.2 阿尔托大学 [芬兰] CS](3_service/33eu/master/aaltocd.md)
+        * [3.3.1 阿尔托大学 [芬兰] CS](3_service/33eu/master/aaltocs.md)
+        * [3.3.2 阿尔托大学 [芬兰] CD](3_service/33eu/master/aaltocd.md)
         * [3.3.3 奥斯陆建筑设计学院 [挪威]](3_service/33eu/master/aho.md)
         * [3.3.4 拉普兰大学 [芬兰]](3_service/33eu/master/lapland.md)
         * [3.3.5 拉瑞尔应用科技大学[芬兰]](3_service/33eu/master/Laurea.md)
@@ -253,4 +253,3 @@
         * [7.1.3 中央圣马丁艺术学院（伦敦艺术大学）](7_furniture/uk/master/ualcsm.md)
         * [7.1.4 伦敦城市大学](7_furniture/uk/master/lmu.md)
         * [7.1.5 诺丁汉特伦特大学](7_furniture/uk/master/ntu.md)
-
