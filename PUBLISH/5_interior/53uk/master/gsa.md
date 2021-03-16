@@ -7,8 +7,8 @@ QS世界综合排名：8
 **院校**：The Glasgow School of Art  
 **学位**：MDes Interior Design  
 **学制**：1年  
-**费用**：19440英镑/年  
-**语言**：IELTS总分6.5，单科6.0
+**费用**：19,440英镑/年  
+**语言**：IELTS总分6.5，单科6.0  
 **申请时间**：[详见官方PDF内](https://www.gsa.ac.uk/media/1831921/sod-application-guide-2122-entry.pdf)  
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  
 **作品集要求原文：**  
@@ -20,7 +20,7 @@ QS世界综合排名：8
 > 5. demonstrate technical knowledge and skills used to realise intentions  
 > 6. include professional, fully resolved work  
 > 7. show an awareness and understanding of the professional context for the work  
-> 
+>
 > How to demonstrate your individual interests, approach and creativity  
 > - We are very keen to learn about your interest in design; this includes historical or contemporary artists / designers that you are inspired
 by, exhibitions you have visited, and work experience you have undertaken. We want to know what or who has inspired you within your
