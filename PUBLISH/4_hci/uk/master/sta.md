@@ -11,7 +11,7 @@
 **语言**：IELTS总分7，单科6.0  
 **申请时间**：无具体要求  
 **申请文件**： 学历证明+成绩单+简历+陈述+推荐信+语言成绩+证明文件  
-**作品集要求**：不要求提供 
+**作品集要求**：不要求提供
 
 **课程描述：**   
 
@@ -53,10 +53,8 @@
 **语言课：**[院校链接](https://www.st-andrews.ac.uk/international-education/short-courses/pre-sessional/)  
 **课程介绍：** [院校链接](https://www.st-andrews.ac.uk/subjects/computer-science/human-computer-interaction-msc/#27987)  
 **申请要求：** [院校链接](https://www.st-andrews.ac.uk/subjects/computer-science/human-computer-interaction-msc/)
-
-
-**解读文章：**：[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
-**解读文章：**：[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
+**解读文章：**[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
+**解读文章：**[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
 
 

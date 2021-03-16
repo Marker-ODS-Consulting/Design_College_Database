@@ -28,8 +28,8 @@
 ### 3. 有用链接：
 
 **官网链接：**[院校链接](https://www.naba.it/en/postgraduate-programs/master-of-arts-in-product-design)  
-**课程介绍：** [院校链接](https://www.naba.it/en/postgraduate-programs/master-of-arts-in-product-design)  
-**申请要求：** [院校链接](https://www.naba.it/en/postgraduate-application/entry-requirements)  
+**课程介绍：**[院校链接](https://www.naba.it/en/postgraduate-programs/master-of-arts-in-product-design)  
+**申请要求：**[院校链接](https://www.naba.it/en/postgraduate-application/entry-requirements)  
 
 
 ---
@@ -37,5 +37,4 @@
 
 #### 编辑历史
 Yuan 20210224 已校对  
-
 Cheng 20210108 初次建立  

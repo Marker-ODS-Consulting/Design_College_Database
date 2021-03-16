@@ -38,11 +38,9 @@
 ### 3. 有用链接：
 
 **官网链接：**[院校链接](https://aho.no/en/content/master-design-2-years)  
-**课程介绍：** [院校链接](https://aho.no/en/content/master-design-2-years)  
-**申请要求：** [院校链接](https://aho.no/en/studies/master-design/admission-design-2)
-
-
-**解读文章：**：[免学费？学校好？来挪威读设计吧](http://www.makebi.net/27327.html)  
+**课程介绍：**[院校链接](https://aho.no/en/content/master-design-2-years)  
+**申请要求：**[院校链接](https://aho.no/en/studies/master-design/admission-design-2)
+**解读文章：**[免学费？学校好？来挪威读设计吧](http://www.makebi.net/27327.html)  
 
 
 
