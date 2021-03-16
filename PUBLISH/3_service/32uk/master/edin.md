@@ -44,6 +44,7 @@ DI 是一个偏工科的专业，所以注重作品集的逻辑性，要做到�
 **课程介绍：**[院校链接](http://www.drps.ed.ac.uk/18-19/dpt/ptmartdech1f.htm)  
 **申请要求：**[院校链接](https://www.ed.ac.uk/studying/international/postgraduate-entry/asia/china)  
 **语言课：**[院校链接](https://www.ed.ac.uk/english-language-teaching/ele-courses/team-test)  
+
 **解读文章：**[「实例」爱丁堡 MA Design for Change 申请中2分钟小视频准备思路](http://www.makebi.net/32431.html)  
 
 

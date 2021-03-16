@@ -40,7 +40,7 @@
 
 **专业介绍：**[院校链接](http://mfa.dma.ucla.edu/#overview)  
 **课程介绍：** [院校链接](http://mfa.dma.ucla.edu/#program)  
-**申请要求：** [院校链接](http://www.dma.ucla.edu/grad/apply/)
+**申请要求：** [院校链接](http://www.dma.ucla.edu/grad/apply/)  
 **语言课：** [院校链接](https://grad.ucla.edu/admissions/english-requirements/)
 
 ---

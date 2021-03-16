@@ -54,7 +54,6 @@
 **申请要求：** [院校链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/user-experience-design/)  
 **语言课：** [院校链接](https://www.lboro.ac.uk/services/alss/pre-sessional-courses/pre-sessional-dates-fees-entry/)  
 
-**相关视频：**：[马克笔哔哩哔哩视频链接](/)  
 
 
 

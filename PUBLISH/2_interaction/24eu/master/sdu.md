@@ -28,7 +28,7 @@
 ### 3. 有用链接：  
 
 **专业介绍：**[院校链接](https://www.sdu.dk/en/uddannelse/kandidat/cand_it_webcommunication_design)    
-**课程介绍：** [院校链接](file:///C:/Users/MARKER-03/Downloads/Forloebsmodel%20Web%20Communication%20Design.pdf)  
+**课程介绍：** [院校链接](https://www.sdu.dk/en/uddannelse/kandidat/cand_it_webcommunication_design/uddannelsens_opbygning) ；[院校链接](https://www.sdu.dk/-/media/files/uddannelse/uddoversigt/kandidat/webkommunikation/forloebsmodel+web+communication+design2020.pdf)  
 **申请要求：** [院校链接](https://www.sdu.dk/en/uddannelse/kandidat/saadan_soeger_du)  
 **语言课：** /  
 
