@@ -11,7 +11,7 @@ QS世界综合排名：20
 **费用**：23950英镑/年  
 **语言**：IELTS总分7.0，单科6.0  
 **申请时间**：截止到7月  
-**申请文件**：推荐信+成绩单+英文成绩+作品集+个人陈述+Experience Statement+2 min video
+**申请文件**：推荐信+成绩单+英文成绩+作品集+个人陈述+Experience Statement+2 min video  
 **作品集要求原文：**  
 > You must submit a portfolio as part of your application. Your portfolio should include:
 > - completed interior, architectural, spatial or landscape projects undertaken individually or as part of a group (please note that you should state your involvement in the group projects  

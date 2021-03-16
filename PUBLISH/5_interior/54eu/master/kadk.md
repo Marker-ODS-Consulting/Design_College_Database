@@ -5,7 +5,7 @@ QS世界艺术设计排名：20
 
 ### 1. 官网相关信息：
 
-**国家**: 丹麦 | Denmark
+**国家**: 丹麦 | Denmark  
 **院校**：The Royal Danish Academy of Fine Arts  
 **学位**：Master of Spatial Design  
 **学制**：2年  
