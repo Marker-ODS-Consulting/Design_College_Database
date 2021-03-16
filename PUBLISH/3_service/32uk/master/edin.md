@@ -1,17 +1,17 @@
 ## 爱丁堡大学 | MA Design for Change
 
-2020年QS世界设计艺术排名: 51-100
-2020年QS世界综合排名: 20
+2020年QS世界设计艺术排名: 51-100  
+2020年QS世界综合排名: 20  
 
-### 1. 官网相关信息：
+### 1. 官网相关信息：  
 
 **院校**：University of Edinburgh  
 **学位**：MA Design for Change  
 **学制**：1年  
 **费用**：23950英镑  
-**语言**：IELTS总分7.0，单科6.0; TOEFL总分100，单科20
-**申请时间**：第一批12月6日；第二批1月15日
-**申请文件**： 待更新
+**语言**：IELTS总分7.0，单科6.0; TOEFL总分100，单科20  
+**申请时间**：第一批12月6日；第二批1月15日  
+**申请文件**： 待更新  
 
 **作品集要求原文：**   
 
@@ -42,9 +42,9 @@ DI 是一个偏工科的专业，所以注重作品集的逻辑性，要做到�
 
 **专业介绍：**[院校链接](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=951)  
 **课程介绍：**[院校链接](http://www.drps.ed.ac.uk/18-19/dpt/ptmartdech1f.htm)  
-**申请要求：**[院校链接](https://www.ed.ac.uk/studying/international/postgraduate-entry/asia/china)
-**语言课：**[院校链接](https://www.ed.ac.uk/english-language-teaching/ele-courses/team-test)
-**解读文章：**[-](http://www.makebi.net/32431.html)  
+**申请要求：**[院校链接](https://www.ed.ac.uk/studying/international/postgraduate-entry/asia/china)  
+**语言课：**[院校链接](https://www.ed.ac.uk/english-language-teaching/ele-courses/team-test)  
+**解读文章：**[「实例」爱丁堡 MA Design for Change 申请中2分钟小视频准备思路](http://www.makebi.net/32431.html)  
 
 
 

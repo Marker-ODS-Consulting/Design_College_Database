@@ -1,17 +1,17 @@
 ## 利兹大学 | Design MA
 
-2020年QS世界设计艺术排名: 51-100
-2020年QS世界综合排名: 93
+2020年QS世界设计艺术排名: 51-100  
+2020年QS世界综合排名: 93  
 
 ### 1. 官网相关信息：
 
-**院校**：University of Leeds
-**学位**：Design MA（Service Design）
+**院校**：University of Leeds  
+**学位**：Design MA（Service Design）  
 **学制**：1年  
-**费用**：19000英镑  
-**语言**：IELTS总分6.5，单科不低于6.0
-**申请时间**：/
-**申请文件**： 待更新  
+**费用**：19000英镑    
+**语言**：IELTS总分6.5，单科不低于6.0  
+**申请时间**：/  
+**申请文件**： 待更新    
 **作品集要求原文：**   
 
 > - An electronic link or pdf to your digital portfolio. The portfolio will demonstrate research, idea development and presentation of final concepts for each project. If any group work is included, the candidate must clearly state this and indicate what their individual role in the project was.
@@ -47,7 +47,7 @@
 
 **专业介绍：**[院校链接](https://courses.leeds.ac.uk/a672/design-ma)  
 **课程介绍：** [院校链接](https://courses.leeds.ac.uk/a672/design-ma#section2)  
-**申请要求：** [院校链接](https://courses.leeds.ac.uk/a672/design-ma#section3)
+**申请要求：** [院校链接](https://courses.leeds.ac.uk/a672/design-ma#section3)  
 **语言课：** [院校链接](https://www.leeds.ac.uk/info/130567/language_centre/617/postgraduate_pre-sessional_english)
 
 

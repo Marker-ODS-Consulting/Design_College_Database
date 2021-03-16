@@ -46,7 +46,7 @@
 **课程介绍：** [院校链接](https://www.cca.edu/academics/graduate/design/curriculum)  
 **申请要求：** [院校链接](https://www.cca.edu/admissions/)  
 **语言课：** [院校链接](https://www.cca.edu/admissions/international/#section-how-to-apply)
-**视频介绍：**[bilibili链接](https://www.bilibili.com/video/av24182748)  
+**视频介绍：**[CA加州艺术学院硕士设计专业【马克笔设计留学](https://www.bilibili.com/video/av24182748)  
 
 
 ---

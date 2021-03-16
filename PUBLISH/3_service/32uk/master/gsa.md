@@ -1,17 +1,17 @@
 ## 格拉斯哥艺术学院 | Design Innovation & Service Design MSc
 
-2020年QS世界设计艺术排名:/
-2020年QS世界设计艺术排名：8
+2020年QS世界设计艺术排名:/  
+2020年QS世界设计艺术排名：8  
 
 ### 1. 官网相关信息：
 
 **院校**：The Glasgow school of Art  
 **学位**：Design Innovation & Service Design MSc  
-**学制**：1年
-**费用**：19440英镑
-**语言**：IELTS总分6.5，单科6.0  
-**申请时间**：第一批1月3日；第二批2月14日
-**申请文件**： 待更新
+**学制**：1年  
+**费用**：19440英镑  
+**语言**：IELTS总分6.5，单科6.0   
+**申请时间**：第一批1月3日；第二批2月14日  
+**申请文件**： 待更新  
 
 **作品集要求原文：**   
 > - a single PDF file, consisting of approximately 15 pages (portfolios that are longer may not be fully read)
@@ -45,10 +45,11 @@ RCA 的服务设计聚焦在服务和体验上，研究生活中的实际问题�
 
 **专业介绍：**[院校链接](http://www.gsa.ac.uk/study/graduate-degrees/design-innovation-service-design/)  
 **课程介绍：** [院校链接](http://www.gsa.ac.uk/media/1752372/design-innovation-jan20.pdf)  
-**申请要求：** [院校链接](http://www.gsa.ac.uk/study/graduate-degrees/how-to-apply/)
-**语言课：** [院校链接](http://www.gsa.ac.uk/study/foundation-portfolio/english-for-creative-disciplines/)
-**解读文章：**[-](http://www.makebi.net/30236.html)  
-**解读文章：**[-](http://www.makebi.net/29140.html)  
+**申请要求：** [院校链接](http://www.gsa.ac.uk/study/graduate-degrees/how-to-apply/)  
+**语言课：** [院校链接](http://www.gsa.ac.uk/study/foundation-portfolio/english-for-creative-disciplines/)  
+
+**解读文章：**[服务设计院校第一选择，GSA全面详解](http://www.makebi.net/30236.html)  
+**解读文章：**[最全的服务设计院校Skr](http://www.makebi.net/29140.html)  
 
 
 

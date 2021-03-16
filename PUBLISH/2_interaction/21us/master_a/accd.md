@@ -41,7 +41,7 @@
 **专业介绍：**[院校链接](http://www.artcenter.edu/academics/graduate-degrees/media-design-practices/overview.html)  
 **课程介绍：** [院校链接](http://www.artcenter.edu/academics/graduate-degrees/media-design-practices/course-of-study/overview.html)  
 **申请要求：** [院校链接](http://www.artcenter.edu/admissions/graduate-admissions/application-requirements.html)  
-**视频介绍：** [bilibili链接](https://www.bilibili.com/video/av24691067)  
+**视频介绍：** [ACCD媒体设计实践专业【马克笔设计留学】](https://www.bilibili.com/video/av24691067)  
 
 
 ---

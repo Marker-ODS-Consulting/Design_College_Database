@@ -1,16 +1,16 @@
 ## 布鲁内尔大学 | Digital Service Design MSc
 
-2020年QS世界设计艺术排名: 101-150
-2020年QS世界综合排名: 359
+2020年QS世界设计艺术排名: 101-150  
+2020年QS世界综合排名: 359  
 
 ### 1. 官网相关信息：
 
-**院校**：Brunel University
+**院校**：Brunel University  
 **学位**：Digital Service Design MSc  
 **学制**：1年  
 **费用**：19280英镑  
-**语言**：IELTS总分6.5，单科不低于6.0
-**申请时间**：/
+**语言**：IELTS总分6.5，单科不低于6.0  
+**申请时间**：/  
 **申请文件**： 待更新  
 **作品集要求原文：** 无具体要求   
 
@@ -36,7 +36,7 @@
 
 **专业介绍：**[院校链接](https://www.brunel.ac.uk/study/postgraduate/Digital-Service-Design-MSc)  
 **课程介绍：** [院校链接](https://www.brunel.ac.uk/study/postgraduate/Digital-Service-Design-MSc)  
-**申请要求：** [院校链接](https://www.brunel.ac.uk/study/postgraduate/Digital-Service-Design-MSc)
+**申请要求：** [院校链接](https://www.brunel.ac.uk/study/postgraduate/Digital-Service-Design-MSc)  
 **语言课：** [院校链接](https://www.brunel.ac.uk/international/language-centre/Pre-sessional-English)
 
 
