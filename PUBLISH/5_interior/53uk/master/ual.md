@@ -25,7 +25,7 @@ This should be about 500 words long and include:
 > - If you do not have any formal academic qualifications please describe your relevant education and experience
 >
 >**2分钟视频要求原文：**  
-> -As part of your application please include a 3 minute video. Within your video please take 90 seconds to show and describe for us the view from your window, then spend a further 90 seconds to explain how the view changes over time  
+> As part of your application please include a 3 minute video. Within your video please take 90 seconds to show and describe for us the view from your window, then spend a further 90 seconds to explain how the view changes over time  
 Within your video you must be visible, speak clearly in English and look towards the camera. Ensure you record yourself alone and the audio is clear  
 Please ensure you read PebblePad's file uploads and limits when submitting your video. If you have declared a learning difference or a disability in your application you may submit an audio or written file if this task is not accessible to you  
 
