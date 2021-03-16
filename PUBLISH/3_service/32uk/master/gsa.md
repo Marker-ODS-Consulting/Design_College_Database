@@ -47,9 +47,8 @@ RCA 的服务设计聚焦在服务和体验上，研究生活中的实际问题�
 **课程介绍：** [院校链接](http://www.gsa.ac.uk/media/1752372/design-innovation-jan20.pdf)  
 **申请要求：** [院校链接](http://www.gsa.ac.uk/study/graduate-degrees/how-to-apply/)
 **语言课：** [院校链接](http://www.gsa.ac.uk/study/foundation-portfolio/english-for-creative-disciplines/)
-
-**解读文章：**：[-](http://www.makebi.net/30236.html)  
-**解读文章：**：[-](http://www.makebi.net/29140.html)  
+**解读文章：**[-](http://www.makebi.net/30236.html)  
+**解读文章：**[-](http://www.makebi.net/29140.html)  
 
 
 

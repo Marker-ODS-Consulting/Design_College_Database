@@ -40,10 +40,8 @@ MSc Internet of Things with Industrial Experience
 **语言课：**[院校链接](https://www.qmul.ac.uk/sllf/language-centre/pre-sessional/)  
 **课程介绍：** [院校链接](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/173074.html)  
 **申请要求：** [院校链接](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/173074.html)
-
-
-**解读文章：**：[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
-**解读文章：**：[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
+**解读文章：**[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
+**解读文章：**[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
 
 

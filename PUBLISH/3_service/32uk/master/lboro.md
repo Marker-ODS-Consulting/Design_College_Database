@@ -41,5 +41,5 @@
 
 **专业介绍：**[院校链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/service-design-innovation/)  
 **课程介绍：** /  
-**申请要求：** [院校链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/service-design-innovation/), [语言要求](https://www.lboro.ac.uk/international/apply/english-language-requirements/)
-**语言课：** [院校链接](https://www.lboro.ac.uk/services/alss/pre-sessional-courses/pre-sessional-dates-fees-entry/)
+**申请要求：**[院校链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/service-design-innovation/), [语言要求](https://www.lboro.ac.uk/international/apply/english-language-requirements/)
+**语言课：**[院校链接](https://www.lboro.ac.uk/services/alss/pre-sessional-courses/pre-sessional-dates-fees-entry/)

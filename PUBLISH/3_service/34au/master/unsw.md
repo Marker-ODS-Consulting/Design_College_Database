@@ -47,7 +47,6 @@ QS2020世界设计艺术排名：48
 **申请要求：** [院校链接](https://artdesign.unsw.edu.au/future-students/postgraduate-coursework-degrees/master-design#admission)  
 **课程安排：** [院校链接](https://artdesign.unsw.edu.au/future-students/postgraduate-coursework-degrees/master-design)  
 **语言课：** [院校链接](https://www.unsw.edu.au/english-requirements-policy#english-language-tests)
-
 **解读文章：** [申请两天就获得UNSW录取，有怎样的秘诀呢？](http://www.makebi.net/17930.html)
 
 ---

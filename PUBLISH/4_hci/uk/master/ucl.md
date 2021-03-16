@@ -48,10 +48,8 @@
 **语言课：**[院校链接](https://www.ucl.ac.uk/languages-international-education/)  
 **课程介绍：** [院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/human-computer-interaction-msc)  
 **申请要求：** [院校链接](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/human-computer-interaction-msc)
-
-
-**解读文章：**：[伦敦大学院UCL人机交互专业最全申请攻略](http://www.makebi.net/28185.html)  
-**解读文章：**：[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
+**解读文章：** [伦敦大学院UCL人机交互专业最全申请攻略](http://www.makebi.net/28185.html)  
+**解读文章：** [英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
 
 

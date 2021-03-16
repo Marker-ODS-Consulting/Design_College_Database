@@ -30,8 +30,8 @@
 ### 3. 有用链接：
 
 **官网链接：**[院校链接](https://www.laurea.fi/en/degree_programmes/service-industry/service-innovation-and-design/)  
-**课程介绍：** [院校链接](https://www.laurea.fi/contentassets/f4fd8a4135fe428b88400c74177e38cb/sid-curriculum_2019_a4_eng.pdf)  
-**申请要求：** [院校链接](https://www.laurea.fi/en/degree_programmes/how-to-apply-to-full-degree-programmes/selection-criteria/)
+**课程介绍：**[院校链接](https://www.laurea.fi/contentassets/f4fd8a4135fe428b88400c74177e38cb/sid-curriculum_2019_a4_eng.pdf)  
+**申请要求：**[院校链接](https://www.laurea.fi/en/degree_programmes/how-to-apply-to-full-degree-programmes/selection-criteria/)
 
 
 
