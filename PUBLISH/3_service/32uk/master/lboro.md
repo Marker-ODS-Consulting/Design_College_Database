@@ -1,19 +1,18 @@
 ## 拉夫堡大学 | Service Design Innovation
 
-2020年QS世界设计艺术排名: 24
-2020年QS世界综合排名: 222
+2020年QS世界设计艺术排名: 24  
+2020年QS世界综合排名: 222  
 
 ### 1. 官网相关信息：
 
 **院校**：Loughborough University  
 **学位**：Service Design Innovation  
-**学制**：1年
-**费用**：26,500英镑
-**语言**：IELTS总分6.5，单科不低于6.0
-**申请时间**：/
-**申请文件**： 待更新
-
-**作品集要求原文：** /
+**学制**：1年  
+**费用**：26,500英镑  
+**语言**：IELTS总分6.5，单科不低于6.0  
+**申请时间**：/  
+**申请文件**： 待更新  
+**作品集要求原文：** 无具体要求
 
 ---
 
@@ -41,5 +40,5 @@
 
 **专业介绍：**[院校链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/service-design-innovation/)  
 **课程介绍：** /  
-**申请要求：**[院校链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/service-design-innovation/), [语言要求](https://www.lboro.ac.uk/international/apply/english-language-requirements/)
+**申请要求：**[院校链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/service-design-innovation/), [语言要求](https://www.lboro.ac.uk/international/apply/english-language-requirements/)  
 **语言课：**[院校链接](https://www.lboro.ac.uk/services/alss/pre-sessional-courses/pre-sessional-dates-fees-entry/)

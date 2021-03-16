@@ -1,16 +1,16 @@
 ## 皇家艺术学院 | MA Service Design
 
-2020年QS世界设计艺术排名:/
-2020年QS世界设计艺术排名：1
+2020年QS世界设计艺术排名:/  
+2020年QS世界设计艺术排名：1  
 ### 1. 官网相关信息：
 
 **院校**：Royal Collage of Art  
 **学位**：MA Service Design  
 **学制**：2年  
-**费用**：28400英镑/年
+**费用**：28400英镑/年  
 **语言**：IELTS总分6.5，单科 6.0  
-**申请时间**：第一批11月15日；第二批3月5日
-**申请文件**： 待更新
+**申请时间**：第一批11月15日；第二批3月5日  
+**申请文件**： 待更新  
 
 **作品集要求原文：**   
 > - Creativity, imagination and innovation
@@ -64,7 +64,7 @@ RCA 的服务设计聚焦在服务和体验上，研究生活中的实际问题�
 
 **专业介绍：**[院校链接](https://www.rca.ac.uk/schools/school-of-design/service-design/)  
 **课程介绍：** [院校链接](https://www.rca.ac.uk/schools/school-of-design/service-design/#curriculum)  
-**申请要求：** [院校链接](https://www.rca.ac.uk/studying-at-the-rca/apply/application-process/ma-application-process/)
+**申请要求：** [院校链接](https://www.rca.ac.uk/studying-at-the-rca/apply/application-process/ma-application-process/)  
 **语言课：** [院校链接](https://www.rca.ac.uk/studying-at-the-rca/support/learning-support/english-for-academic-purposes/)
 
 **解读文章：**：[皇家艺术学院RCA服务设计专业深度解读](http://www.makebi.net/27692.html)  

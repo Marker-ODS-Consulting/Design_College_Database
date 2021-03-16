@@ -45,8 +45,8 @@
 **专业介绍：**[院校链接](https://www.cca.edu/design/interaction-design/)  
 **课程介绍：** [院校链接](https://www.cca.edu/design/interaction-design/)  
 **申请要求：** [院校链接](https://www.cca.edu/admissions/)  
-**语言课：** [院校链接](https://www.cca.edu/admissions/international/#section-how-to-apply)
-**视频介绍：** [bilibili连接](https://www.bilibili.com/video/av24456792)  
+**语言课：** [院校链接](https://www.cca.edu/admissions/international/#section-how-to-apply)  
+**视频介绍：** [CCA加州艺术学院交互设计专业MA【马克笔设计留学】](https://www.bilibili.com/video/av24456792)  
 
 ---
 

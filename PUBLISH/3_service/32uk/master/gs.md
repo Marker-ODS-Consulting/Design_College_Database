@@ -1,20 +1,20 @@
 ## 伦敦大学金史密斯学院 | MA Design: Expanded Practice
 
-2020年QS世界设计艺术排名: 14
-2020年QS世界综合排名: 417
+2020年QS世界设计艺术排名: 14  
+2020年QS世界综合排名: 417  
 
-### 1. 官网相关信息：
+### 1. 官网相关信息：  
 
-**院校**：Goldsmiths, University of London  
-**学位**：MA Design: Expanded Practice  
-**学制**：15个月  
-**费用**：19760英镑  
-**语言**：IELTS总分6.5，写作不低于6.5, 其他不低于6.0
+**院校**：Goldsmiths, University of London    
+**学位**：MA Design: Expanded Practice    
+**学制**：15个月    
+**费用**：19760英镑    
+**语言**：IELTS总分6.5，写作不低于6.5, 其他不低于6.0  
 **申请时间**：第一轮截止：1月8日
 第二轮截止：3月15日
-第三轮截止：6月14日
+第三轮截止：6月14日  
 **申请文件**： 待更新  
-**专业描述：**
+**专业描述：**  
 > - This course is a radical post-disciplinary programme for practitioners who want to push the boundaries of what design can be and do. During this MA we work with you to transform your practice as a critical and social undertaking.
 > - By challenging the role and norms of traditional design towards an emerging type of ‘advanced design’, unshackled from the history of specialisms and entrenched methods, you will become part of a community of practice. You will be encouraged to actively contribute to a deep understanding of how design is set to address and affect change within contemporary society.
 
@@ -32,21 +32,21 @@
 ### 2. 翻译与解读：
 
 ##### 专业解读：
-MA Design: Expanded Practice（DEP）是在后学科时代背景下，为想要突破设计界限的实践者们而设立。属于比较综合的学科，可以选择服务工作室Innovation & Service，但是整体不属于“典型的”服务设计专业。
+MA Design: Expanded Practice（DEP）是在后学科时代背景下，为想要突破设计界限的实践者们而设立。属于比较综合的学科，可以选择服务工作室Innovation & Service，但是整体不属于“典型的”服务设计专业。  
 
 个人认为 DEP 和皇艺的 IED 十分相似，都是跨学科融合类专业，都强调试验性和批判性，但是从他们提供的不同方向可以看出两个专业的不同，皇艺的 IED 提供三个固定的方向，且全都偏向“digital”：
->Experimental Design
-Moving Image Design
-Sound Design
+>Experimental Design 实验性设计  
+Moving Image Design 动态图像设计  
+Sound Design 声音设计  
 
 而 DEP 会涉及的领域更广泛，会根据申请者的背景来调整工作室，2019/20的工作室有如下：
->Communication & Experience
-Fashions & Embodiment
-Innovation & Service
-Interactions & Engagement
-Spaces & Participation
+>Communication & Experience  
+Fashions & Embodiment  
+Innovation & Service  
+Interactions & Engagement  
+Spaces & Participation  
 
-这些研究方向不仅包含数字化（交互、体验、传播），还囊括了服务设计、时尚、创新、空间等，给学生提供了更多的可能性。
+这些研究方向不仅包含数字化（交互、体验、传播），还囊括了服务设计、时尚、创新、空间等，为申请者提供了更多的可能性。
 
 
 ##### 作品集解读：
@@ -68,7 +68,7 @@ Spaces & Participation
 
 **专业介绍：**[院校链接](https://www.gold.ac.uk/pg/ma-design-expanded-practice/)  
 **课程介绍：**[院校链接](https://www.gold.ac.uk/pg/ma-design-expanded-practice/)  
-**申请要求：**[院校链接](https://www.gold.ac.uk/pg/ma-design-expanded-practice/)
+**申请要求：**[院校链接](https://www.gold.ac.uk/pg/ma-design-expanded-practice/)  
 **语言课：**[院校链接](https://www.gold.ac.uk/preparation/apply/)
 
 **解读文章：**[最全的服务设计院校Skr](http://www.makebi.net/29140.html)  

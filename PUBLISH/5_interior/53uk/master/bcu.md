@@ -9,7 +9,7 @@ QS世界设计艺术排名: 151-200
 **院校**：Birmingham City University  
 **学位**：MA Interior Architecture and Design   
 **学制**：1年  
-**费用**：12800英镑  
+**费用**：12,800英镑  
 **语言**：IELTS总分6.0  
 **申请时间**：/  
 **申请文件**：两封推荐信+成绩单+英文成绩+作品集+个人陈述+个人简历  

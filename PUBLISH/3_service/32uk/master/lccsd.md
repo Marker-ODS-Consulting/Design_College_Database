@@ -1,16 +1,16 @@
 ## 伦艺 伦敦传媒学院 | MA Service Design
 
-2020年QS世界设计艺术排名:/
-2020年QS世界设计艺术排名：2
+2020年QS世界设计艺术排名:/  
+2020年QS世界设计艺术排名：2  
 ### 1. 官网相关信息：
 
 **院校**：London Communication of College  
 **学位**：MA Service Design  
-**学制**：15个月
-**费用**：19930英镑
+**学制**：15个月  
+**费用**：19930英镑  
 **语言**：IELTS总分6.5，单科5.5  
-**申请时间**：2月28日
-**申请文件**： 待更新
+**申请时间**：2月28日  
+**申请文件**： 待更新  
 
 **作品集要求原文：**   
 > - All applicants will be expected to submit a digital portfolio which includes (maximum 20 images, across six projects) with supporting materials showing your process. These should be clearly annotated and organised.
@@ -41,14 +41,14 @@ LCC的服务设计主要讨论个体和系统之间的关系，属于“典型�
 
 **专业介绍：**[院校链接](https://www.arts.ac.uk/subjects/business-and-management-and-science/postgraduate/ma-service-design-lcc)  
 **课程介绍：** [院校链接](https://www.arts.ac.uk/subjects/business-and-management-and-science/postgraduate/ma-service-design-lcc#coursedetails)  
-**申请要求：** [院校链接](https://www.arts.ac.uk/subjects/business-and-management-and-science/postgraduate/ma-service-design-lcc#apply)
+**申请要求：** [院校链接](https://www.arts.ac.uk/subjects/business-and-management-and-science/postgraduate/ma-service-design-lcc#apply)  
 **语言课：** [院校链接](https://www.arts.ac.uk/study-at-ual/language-centre)
 
-**解读文章：**：[-](http://www.makebi.net/32120.html)  
-**解读文章：**：[-](http://www.makebi.net/29140.html)  
+**解读文章：**：[如何准备伦敦艺术大学Study Proposal?](http://www.makebi.net/32120.html)  
+**解读文章：**：[最全的服务设计院校Skr](http://www.makebi.net/29140.html)  
 
-**相关视频：**：[-](https://www.bilibili.com/video/av22482246)  
-**相关视频：**：[-](https://www.bilibili.com/video/av25318255)
+**相关视频：**：[LCC服务设计专业学生之声VOL02【马克笔设计留学】](https://www.bilibili.com/video/av22482246)  
+**相关视频：**：[LCC服务设计学生之声VOLO1【马克笔设计留学】](https://www.bilibili.com/video/av25318255)
 
 
 ---
