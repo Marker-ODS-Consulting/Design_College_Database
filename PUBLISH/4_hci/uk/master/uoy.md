@@ -1,7 +1,7 @@
 ## 约克大学 | MSc in Human-Centred Interactive Technologies
 
 2020年QS世界综合院校排名: 148  
- 
+
 ### 1. 官网相关信息：
 
 **院校**：University of York  
@@ -45,10 +45,8 @@
 **语言课：**[院校链接](https://www.york.ac.uk/study/international/applying/pre-sessionals/)  
 **课程介绍：** [院校链接](https://www.york.ac.uk/study/postgraduate-taught/courses/msc-human-centred-interactive-technologies/#content_modules)  
 **申请要求：** [院校链接](https://www.york.ac.uk/study/postgraduate-taught/courses/msc-human-centred-interactive-technologies/#entry)
-
-
-**解读文章：**：[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
-**解读文章：**：[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
+**解读文章：**[留学读交互你必须了解这几件事](http://www.makebi.net/34036.html)  
+**解读文章：**[英国HCI方向交互设计院校推荐](http://www.makebi.net/24434.html)   
 
 
 

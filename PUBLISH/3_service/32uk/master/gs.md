@@ -67,13 +67,13 @@ Spaces & Participation
 ### 3. 有用链接：
 
 **专业介绍：**[院校链接](https://www.gold.ac.uk/pg/ma-design-expanded-practice/)  
-**课程介绍：** [院校链接](https://www.gold.ac.uk/pg/ma-design-expanded-practice/)  
-**申请要求：** [院校链接](https://www.gold.ac.uk/pg/ma-design-expanded-practice/)
-**语言课：** [院校链接](https://www.gold.ac.uk/preparation/apply/)
+**课程介绍：**[院校链接](https://www.gold.ac.uk/pg/ma-design-expanded-practice/)  
+**申请要求：**[院校链接](https://www.gold.ac.uk/pg/ma-design-expanded-practice/)
+**语言课：**[院校链接](https://www.gold.ac.uk/preparation/apply/)
 
-**解读文章：**：[最全的服务设计院校Skr](http://www.makebi.net/29140.html)  
-**相关视频：**：[金史密斯学院校园行【马克笔设计留学】](https://www.bilibili.com/video/av32456496)
-**相关视频：**：[伦敦大学金史密斯硕士设计专业【马克笔设计留学】](https://www.bilibili.com/video/av28103943)
+**解读文章：**[最全的服务设计院校Skr](http://www.makebi.net/29140.html)  
+**相关视频：**[金史密斯学院校园行【马克笔设计留学】](https://www.bilibili.com/video/av32456496)
+**相关视频：**[伦敦大学金史密斯硕士设计专业【马克笔设计留学】](https://www.bilibili.com/video/av28103943)
 
 
 
