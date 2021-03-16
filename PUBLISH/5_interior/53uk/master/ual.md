@@ -12,19 +12,19 @@
 **申请时间**：/  
 **申请文件**：成绩单+学位证明+英文成绩+作品集+个人陈述  
 **作品集要求原文：**  
-The portfolio should show the following:
+> **The portfolio should show the following:**
 > - Subject specific skills including architectural drawing, model making, computer aided design (CAD) or equivalent
 > - A developed spatial awareness and an ability to creatively organise space and represent spatial ideas
 > - An engagement with the critical debate surrounding contemporary interior and spatial design practice through writing or other creative practice
 > - Evidence of approaches to research, design thinking and experimentation
-
-**个人陈述要求原文：**
+>
+>**个人陈述要求原文：**  
 This should be about 500 words long and include:
 > - Your reasons for choosing the course
 > - Your current creative practice and how this will help with your future plans
 > - If you do not have any formal academic qualifications please describe your relevant education and experience
-
-**2分钟视频要求原文：**
+>
+>**2分钟视频要求原文：**  
 > -As part of your application please include a 3 minute video. Within your video please take 90 seconds to show and describe for us the view from your window, then spend a further 90 seconds to explain how the view changes over time  
 Within your video you must be visible, speak clearly in English and look towards the camera. Ensure you record yourself alone and the audio is clear  
 Please ensure you read PebblePad's file uploads and limits when submitting your video. If you have declared a learning difference or a disability in your application you may submit an audio or written file if this task is not accessible to you  
