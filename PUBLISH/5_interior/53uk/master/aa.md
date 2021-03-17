@@ -6,7 +6,7 @@ QS世界综合排名：/
 
 **院校**：Architectural Association School of Architecture  
 **学位1**：MA in Spatial Performance and Design - 12 months  
-**学位2**：MFA in Spatial Performance and Design 18 months  
+**学位2**：MFA in Spatial Performance and Design - 18 months  
 **学制**：12-18个月  
 **费用**：MFA 35,649/ MA 26,240英镑  
 **语言**：IELTS总分6.5，单科6.0  
