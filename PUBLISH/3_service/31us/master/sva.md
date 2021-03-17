@@ -11,7 +11,7 @@
 **语言**：TOEFL最低总分79，IELTS最低总分6.5  
 **GRE**：不要求    
 **申请时间**：截止到1月15日     
-**作品集要求原文：**  
+**作品集要求原文：**      
 > - Visual Portfolio reflecting a wide range of communication, 3-D and interactive design, data visualization, service design, and system design. Format: A URL should be included with the online application, or a portfolio may be uploaded to the Graduate Admissions SlideRoom account. To access the portal and find out more information, please click here. Please upload 10–15 still images in .jpg format, not to exceed 5mb each in file size.
 ---
 
