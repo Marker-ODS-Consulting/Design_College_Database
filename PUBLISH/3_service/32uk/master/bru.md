@@ -5,7 +5,7 @@
 
 ### 1. 官网相关信息：
 
-**院校**：Brunel University  
+**院校**：Brunel University London  
 **学位**：Digital Service Design MSc  
 **学制**：1年  
 **费用**：19280英镑  
