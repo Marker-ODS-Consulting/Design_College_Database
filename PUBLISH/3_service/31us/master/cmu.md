@@ -13,12 +13,12 @@
 **申请材料**：成绩证明+学位证明+动机信+个人简历+作品集（可选）+三封推荐信+GRE+1-2分钟自我介绍视频+英文成绩  
 **作品集要求原文：**  
 > - The MIIPS portfolio is an opportunity to tell us your story. Showcase three to six projects that best illustrate your skills, talents, and interests. Your examples should speak to your problem-solving abilities, visualization skills, and overall level of craftsmanship.  In each project, please briefly describe and summarize your contributions.
-
+>
 > - We accept photographs, drawings, videos and/or interactive presentations. Please submit your portfolio in our online application system as either a video (Max: 5 minutes) or PDF (Max: 20 pages).
 
 **Video Essay：**  
-  
-> - The video platform gives our admissions committee the opportunity to learn more about you beyond the written materials you have provided. You required to answer one question; the questions are randomized and are not something that you should prepare for.
+
+> The video platform gives our admissions committee the opportunity to learn more about you beyond the written materials you have provided. You required to answer one question; the questions are randomized and are not something that you should prepare for.
 ---
 
 
