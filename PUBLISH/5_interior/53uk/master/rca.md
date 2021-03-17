@@ -32,12 +32,12 @@ Another slot in the portfolio should contain images, drawings, and a description
 The portfolio must be edited and arranged in a graphically coherent and elegant manner.
 >
 > ​​​​​General information
-> - 1. Provide a title and relevant details for each area used. Depending on the work, outline the dimensions (artefact), length (digital audio/video) or word count (written) to describe your work.
-> - 2. You have 5 areas available to upload content, each area can hold multiple files and various file types.
-> - 3. In the text space provided:
+> - Provide a title and relevant details for each area used. Depending on the work, outline the dimensions (artefact), length (digital audio/video) or word count (written) to describe your work.
+> - You have 5 areas available to upload content, each area can hold multiple files and various file types.
+> - In the text space provided:
 a. Provide a short description of the work.
 b. Always state whether this is an individual or collaborative piece/project; if collaborative you need to explain your contribution.
-> - 4. Mark as 'Fully Evidenced' when you have finished editing each space.  
+> - Mark as 'Fully Evidenced' when you have finished editing each space.  
 
 
 **动机信要求：**  
