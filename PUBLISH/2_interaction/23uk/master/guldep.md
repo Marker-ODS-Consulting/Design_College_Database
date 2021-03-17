@@ -31,16 +31,16 @@
 
 ##### 专业解读：  
 MA Design: Expanded Practice（DEP）是在后学科时代背景下，为想要突破设计界限的实践者们而设立。个人认为 DEP 和皇艺的 IED 十分相似，都是跨学科融合类专业，都强调试验性和批判性，但是从他们提供的不同方向可以看出，皇艺的 IED 提供三个固定的方向，且全都偏向“digital”：
->Experimental Design
-Moving Image Design
-Sound Design
+>Experimental Design  
+Moving Image Design  
+Sound Design  
 
 而 DEP 会涉及的领域更广泛，会根据申请者的背景来调整工作室，2019/20的工作室有如下：
->Communication & Experience
-Fashions & Embodiment
-Innovation & Service
-Interactions & Engagement
-Spaces & Participation
+>Communication & Experience  
+Fashions & Embodiment  
+Innovation & Service  
+Interactions & Engagement  
+Spaces & Participation  
 
 这些研究方向不仅包含数字化（交互、体验、传播），还囊括了时尚、创新、空间等，给学生提供了更多的可能性。  
 
