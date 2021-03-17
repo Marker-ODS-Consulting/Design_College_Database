@@ -16,8 +16,8 @@
 
 > - We accept photographs, drawings, videos and/or interactive presentations. Please submit your portfolio in our online application system as either a video (Max: 5 minutes) or PDF (Max: 20 pages).
 
-**Video Essay：**
-
+**Video Essay：**  
+  
 > - The video platform gives our admissions committee the opportunity to learn more about you beyond the written materials you have provided. You required to answer one question; the questions are randomized and are not something that you should prepare for.
 ---
 
