@@ -4,6 +4,7 @@
 
 ####待解决   
 
+- http://uni.makebi.net/3_service/32uk/master/rul.html 存在严重问题  
 - **补充拉夫堡大学的 service 方向资料，[链接](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/user-experience-service-design/)**
 
 
