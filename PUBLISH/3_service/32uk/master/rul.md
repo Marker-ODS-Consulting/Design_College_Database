@@ -1,4 +1,4 @@
-## 雷文斯本设计与传播学院 | MDes Service Design, Social Innovation, Design Leadershi
+## 雷文斯本设计与传播学院 | MDes Service Design, Social Innovation, Design Leadership
 
 2020年QS世界设计艺术排名:/  
 2020年QS世界综合排名：62  
@@ -6,7 +6,7 @@
 ### 1. 官网相关信息：
 
 **院校**：Ravensbourne University London  
-**学位**：MDes Service Design, Social Innovation, Design Leadershi  
+**学位**：MDes Service Design, Social Innovation, Design Leadership  
 **学制**：1年  
 **费用**：15900英镑  
 **语言**：IELTS总分6.5，单科6.0  
