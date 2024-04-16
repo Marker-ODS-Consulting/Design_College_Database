@@ -7,28 +7,32 @@
 **院校**：Royal College of Art  
 **学位**：MA Digital Direction  
 **学制**：15个月  
-**费用**：34850英镑/年  
+**费用**：35950英镑/年  
 **语言**：IELTS总分6.5，单科6.0  
-**申请时间**：第一批11月15日截止；第二批3月5日截止  
+**申请时间**：第一批10月11日截止；第二批2月14日截止  
 **申请文件**： 待更新  
 **作品集要求原文：**   
 
-> - Creativity, imagination and innovation  
-> - Ability to articulate the intentions of the work  
-> - Intellectual engagement in areas relevant to the work  
-> - Technical skills appropriate to the work  
-> - Potential to benefit from the program   
+You should upload up to five pieces of work which evidence your match and potential for meeting the aims of our programme. We expect to see evidence of great interest in using technology to push the boundaries of storytelling, as well as the ability to bring a critical perspective to the hype surrounding such technologies.
+
+Please include a short statement about each piece of work in the space provided and if any of the pieces of work involve collaboration please describe your contribution to the work too.
+
+We welcome career changers, if you do not have a technical or time-based media background, please also explain how and why you want to expand your work into these areas.  
 
 
 
 **2分钟视频要求原文：**   
 
+You must submit a video of no more than two minutes as part of the application process.
 
-> -  Your video does not need to be professionally shot and you may use the best resource available to you; we are not assessing the technical quality of this video  
-> -  You must be visible in the video and communicate verbally*.  
-> -  Your video can be in any of these formats: avi, mp4, mov, wmv.  
-> -  Your video must be a maximum of 2 minutes long.  
+In this video, please tell us why you want to join the programme:
 
+- What stories do you want to tell? 
+- What ambitions do you have for your work?
+- How can technology specifically enhance the stories you want to tell?
+- What critical and conceptual perspectives will you bring to your studies?
+- Which theoretical or philosophical ideas and texts have advanced your understanding of storytelling, media and technology today? 
+- What ideas interest you and why?
 
 ---
 
@@ -36,29 +40,25 @@
 ### 2. 翻译与解读：
 
 ##### 硬性要求提取：
-- 作品集无硬性要求  
+作品集要求
+- 最多5个项目
+- 每个项目配上文字说明（在申请系统内）  
 
 
-- 视频部分要求  
-
-  - 要点1. 视频的技术质量不重要，运用已有资料来制作即可。  
-  - 要点2. 本人出镜并流畅英文录制。  
-  - 要点3. 视频可以为 avi/mp4/mov/wmv 格式，时常最多2分钟。  
+视频部分要求  
+  - 2分钟  
 
 
-- 视频制作对策：  
-
-  - 重逻辑，简单粗暴的表达要点，不要弯弯绕。  
-  - 突出个人特点，作品集、CV和动机信三者要具备统一性，相互呼应，共同营造一个人设。  
-  - 表达为什么选择RCA，和你对专业的理解。  
 
 
-##### 专业和作品集解读：  
+##### 作品集解读：  
+
+院校欢迎转专业者，所以并非所有项目都必须是严格意义上的“导演”作品， 仍可以包含艺术、视觉、游戏甚至用户体验。
 
 
-- 皇艺对作品集虽然没有明确的硬性要求，但依然需要具备作品集基本的要点，即：展现对方法的使用和理解，展现清晰的思路，展现专业技法。  
-- MA Digital Direction 是一个宽泛的专业，所以作品集尽量包含与 “digital” 相关的不同领域的项目，例如：用户体验、数字媒体、传播、品牌等。  
-- 项目需要具有一定的思考和意义，可以尝试加入“批判性思维”，来展示反思和辩证地看问题；加入“推测性设计”，来通过实验和创新解决当前或未来的问题。  
+##### 小视频解读：  
+
+小视频部分，可以把它理解为一个录制版本的面试，这些问题基本上都是以往面试的时候才会遇到的内容，注意要营造一个统一的人设来回答分散的问题。
 
 ---
 
@@ -81,6 +81,7 @@
 
 
 #### 编辑历史
+Natt 20240416 更新
 Natt 20210106 已审阅  
 Yuan 20201229 已校对  
 Muzi 20201215 初次建立  
