@@ -76,7 +76,6 @@ In this video, please tell us why you want to join the programme:
 **相关视频：**：[RCA皇家艺术学院Digital Direction专业【马克笔设计留学】](https://www.bilibili.com/video/av22598279)  
 
 
-
 ---
 
 
