@@ -93,7 +93,7 @@
         * [2.2.13 迈阿密大学](2_interaction/21us/master_c/miami.md)
         * [2.2.14 乔治华盛顿大学](2_interaction/21us/master_c/gwu.md)
         * [2.2.15 加州大学洛杉矶分校](2_interaction/21us/master_c/ucla.md)
-    * [2.3 英国交互设计硕士](2_interaction/23uk/master/rcadd.md)
+    * [2.3 英国交互设计硕士](2_interaction/23uk/master/24rcadd.md)
         * [2.3.1 皇家艺术学院 DD](2_interaction/23uk/master/24rcadd.md)
         * [2.3.2 皇家艺术学院 IED](2_interaction/23uk/master/24rcaied.md)
         * [2.3.3 伦艺-伦敦传媒学院 IDC](2_interaction/23uk/master/lccidc.md)
