@@ -1,18 +1,18 @@
 ## 皇家艺术学院 | MA Digital Direction
+本页最后更新 20240416  
 
+---
 2020年QS世界设计艺术排名: 1  
 
-### 1. 官网相关信息：  
+### 1. 专业信息：  
 
 **院校**：Royal College of Art  
 **学位**：MA Digital Direction  
-**学制**：15个月  
-**费用**：35950英镑/年  
-**语言**：IELTS总分6.5，单科6.0  
+**学制**：1年  
+**费用**：35950英镑   
+**语言**：IELTS总分不低于6.5分，写作不低于6.0分，其它单科不低于5.5分  
 **申请时间**：第一批10月11日截止；第二批2月14日截止  
-**申请文件**： 待更新  
 **作品集要求原文：**   
-
 You should upload up to five pieces of work which evidence your match and potential for meeting the aims of our programme. We expect to see evidence of great interest in using technology to push the boundaries of storytelling, as well as the ability to bring a critical perspective to the hype surrounding such technologies.
 
 Please include a short statement about each piece of work in the space provided and if any of the pieces of work involve collaboration please describe your contribution to the work too.
@@ -21,7 +21,7 @@ We welcome career changers, if you do not have a technical or time-based media b
 
 
 
-**2分钟视频要求原文：**   
+**视频要求原文：**   
 
 You must submit a video of no more than two minutes as part of the application process.
 
@@ -65,11 +65,8 @@ In this video, please tell us why you want to join the programme:
 
 ### 3. 有用链接：
 
-**专业介绍：**[院校链接](https://www.rca.ac.uk/schools/school-of-communication/digital-direction/)  
-**课程介绍：** [院校链接](https://www.rca.ac.uk/schools/school-of-communication/digital-direction/#curriculum)  
+**专业官网：**[院校链接](https://www.rca.ac.uk/study/programme-finder/digital-direction-ma/)  
 **申请要求：** [院校链接](https://www.rca.ac.uk/studying-at-the-rca/apply/entrance-requirements/ma-entrance-requirements/)  
-
-
 **解读文章：**：[一起来看看皇艺RCA最新要求](http://www.makebi.net/38630.html)  
 **解读文章：**：[皇艺和爱丁堡要求的2分钟视频，到底要什么？](http://www.makebi.net/38406.html)   
 **相关文章：**：[让人惊叹的动手能力，皇艺的外国学生是如何做设计的？](http://www.makebi.net/38406.html)  
