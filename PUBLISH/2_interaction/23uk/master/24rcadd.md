@@ -37,7 +37,7 @@ In this video, please tell us why you want to join the programme:
 ---
 
 
-### 2. 翻译与解读：
+### 2. 要求解读：
 
 ##### 硬性要求提取：
 作品集要求

@@ -35,7 +35,7 @@ We recommend referring to the projects you have documented as evidence of aspect
 ---
 
 
-### 2. 翻译与解读：  
+### 2. 要求解读：  
 
 ##### 硬性要求提取：  
 作品集要求

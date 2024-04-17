@@ -29,6 +29,8 @@ It should:
 ##### 小视频要求原文：
 We would like you to submit a 2-3 minute video to help us learn more about you. When recording your task, please face the camera and speak in English.
 
+What to include in your video task
+
 - Discuss how you feel your practice is situated in wider political, social or cultural contexts.
 
 ##### 学习计划要求原文：
@@ -45,7 +47,7 @@ Please note, your proposal serves to inform your application and we understand t
 
 ---
 
-### 2. 翻译与解读：  
+### 2. 要求解读：  
 
 ##### 硬性要求提取：
 作品集要求
@@ -88,7 +90,8 @@ Please note, your proposal serves to inform your application and we understand t
 **解读文章：**[如何准备伦敦艺术大学Study Proposal?](http://www.makebi.net/32120.html)  
 
 
-**相关视频：**[LCC交互设计专业学生之声VOL01【马克笔设计留学】](https://www.bilibili.com/video/av22384527)  
+**相关视频：**  
+[LCC交互设计专业学生之声VOL01【马克笔设计留学】](https://www.bilibili.com/video/av22384527)  
 [LCC交互设计专业学生之声VOL03【马克笔设计留学】](https://www.bilibili.com/video/av22384675)  
 [LCC交互设计专业学生之声VOL04【马克笔设计留学】](https://www.bilibili.com/video/av22384916)  
 

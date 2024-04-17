@@ -1,6 +1,5 @@
 # Under Construction
 
-We are currently working on it, please be patient, again.
+2024年，目前内容缓慢更新中，阅读请注意各个页面副标题的**“时效性说明”**
 
-
-20201208
+Apr,2024
