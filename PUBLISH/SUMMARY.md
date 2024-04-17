@@ -96,7 +96,7 @@
     * [2.3 英国交互设计硕士](2_interaction/23uk/master/24rcadd.md)
         * [2.3.1 皇家艺术学院 DD](2_interaction/23uk/master/24rcadd.md)
         * [2.3.2 皇家艺术学院 IED](2_interaction/23uk/master/24rcaied.md)
-        * [2.3.3 伦艺-伦敦传媒学院 IDC](2_interaction/23uk/master/lccidc.md)
+        * [2.3.3 伦艺-伦敦传媒学院 IDC](2_interaction/23uk/master/24lccid.md)
         * [2.3.4 伦艺-伦敦传媒学院 UED](2_interaction/23uk/master/lccued.md)
         * [2.3.5 拉夫堡大学](2_interaction/23uk/master/luued.md)
         * [2.3.6 爱丁堡大学 MA](2_interaction/23uk/master/edinma.md)
