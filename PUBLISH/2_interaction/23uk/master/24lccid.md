@@ -86,8 +86,8 @@ Please note, your proposal serves to inform your application and we understand t
 
 **专业官网：**[院校链接](https://www.arts.ac.uk/subjects/animation-interactive-film-and-sound/postgraduate/ma-interaction-design-communication-lcc)  
 **语言课：** [院校链接](https://www.arts.ac.uk/study-at-ual/language-centre)  
-**解读文章：**[来伦艺读交互？首先你得搞清楚选哪个专业](http://www.makebi.net/26662.html)  
-**解读文章：**[如何准备伦敦艺术大学Study Proposal?](http://www.makebi.net/32120.html)  
+**解读文章：**[来伦艺读交互？首先你得搞清楚选哪个专业](http://www.makebi.com.cn/26662.html)  
+**解读文章：**[如何准备伦敦艺术大学Study Proposal?](http://www.makebi.com.cn/32120.html)  
 
 
 **相关视频：**  

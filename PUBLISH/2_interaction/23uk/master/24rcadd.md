@@ -67,9 +67,9 @@ In this video, please tell us why you want to join the programme:
 
 **专业官网：**[院校链接](https://www.rca.ac.uk/study/programme-finder/digital-direction-ma/)  
 **申请要求：** [院校链接](https://www.rca.ac.uk/studying-at-the-rca/apply/entrance-requirements/ma-entrance-requirements/)  
-**解读文章：**[一起来看看皇艺RCA最新要求](http://www.makebi.net/38630.html)  
-**解读文章：**[皇艺和爱丁堡要求的2分钟视频，到底要什么？](http://www.makebi.net/38406.html)   
-**相关文章：**：[让人惊叹的动手能力，皇艺的外国学生是如何做设计的？](http://www.makebi.net/38406.html)  
+**解读文章：**[一起来看看皇艺RCA最新要求](http://www.makebi.com.cn/38630.html)  
+**解读文章：**[皇艺和爱丁堡要求的2分钟视频，到底要什么？](http://www.makebi.com.cn/38406.html)   
+**相关文章：**：[让人惊叹的动手能力，皇艺的外国学生是如何做设计的？](http://www.makebi.com.cn/38406.html)  
 **相关视频：**[RCA皇家艺术学院Digital Direction专业【马克笔设计留学】](https://www.bilibili.com/video/av22598279)  
 
 
