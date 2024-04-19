@@ -39,7 +39,8 @@ We recommend referring to the projects you have documented as evidence of aspect
 
 ##### 硬性要求提取：  
 作品集要求
-- PDF格式    
+- PDF格式  
+- 3个项目    
 
 视频部分要求  
 - 2分钟
