@@ -101,10 +101,10 @@ Please note, your proposal serves to inform your application and we understand t
 **申请要求：** [院校链接](https://www.arts.ac.uk/subjects/animation-interactive-film-and-sound/postgraduate/ma-user-experience-design-lcc)  
 **语言课：** [院校链接](https://www.arts.ac.uk/study-at-ual/international/presessional-academic-english-programme)  
 
-**解读文章：**：[来伦艺读交互？首先你得搞清楚选哪个专业](http://www.makebi.com.cn/26662.html)  
-**解读文章：**：[如何准备伦敦艺术大学Study Proposal?](http://www.makebi.com.cn/32120.html)  
-**解读文章：**：[【熟肉视频】关于伦敦传媒学院你需要了解的那些事](http://www.makebi.com.cn/27603.html)  
-**相关文章：**：[伦敦艺术大学交互设计专业学生作品](http://www.makebi.com.cn/23823.html)  
+**解读文章：**[来伦艺读交互？首先你得搞清楚选哪个专业](http://www.makebi.com.cn/26662.html)  
+**解读文章：**[如何准备伦敦艺术大学Study Proposal?](http://www.makebi.com.cn/32120.html)  
+**解读文章：**[【熟肉视频】关于伦敦传媒学院你需要了解的那些事](http://www.makebi.com.cn/27603.html)  
+**相关文章：**[伦敦艺术大学交互设计专业学生作品](http://www.makebi.com.cn/23823.html)  
 
 
 
