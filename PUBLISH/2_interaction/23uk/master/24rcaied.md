@@ -12,7 +12,8 @@ QS世界设计艺术排名: 1
 **费用**：35950英镑  
 **语言**：IELTS总分不低于6.5分，写作不低于6.0分，其它单科不低于5.5分  
 **申请时间**：第一批10月11日截止；第二批2月14日截止  
-**作品集要求原文：**   
+
+##### 作品集要求原文：
 
 Please upload a single portfolio PDF, including details on up to three projects you want us to see.
 
@@ -21,7 +22,7 @@ You may wish to comment on or explain the relationship between these projects in
 For any collaborative projects, which are welcome to be included, please comment in the video or the PDF on your individual contribution.
 
 
-**视频要求原文：**   
+##### 视频要求原文：   
 We ask that you upload a two-minute video recorded on your phone or laptop, speaking to us directly. High production qualities are not needed. We will review the work in your portfolio, so keep your video simple.
 
 Tell us about you as a person and your approach to creative practice. We want to understand what it is you are interested in exploring and why.

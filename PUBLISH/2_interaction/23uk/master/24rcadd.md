@@ -1,5 +1,5 @@
 ## 皇家艺术学院 | MA Digital Direction
-时效性标记：本页最后更新 20240416 
+时效性标记：本页最后更新 20240416
 
 ---
 QS世界设计艺术排名: 1  
@@ -11,8 +11,10 @@ QS世界设计艺术排名: 1
 **学制**：1年  
 **费用**：35950英镑   
 **语言**：IELTS总分不低于6.5分，写作不低于6.0分，其它单科不低于5.5分  
-**申请时间**：第一批10月11日截止；第二批2月14日截止  
-**作品集要求原文：**   
+**申请截止时间**：第一批10月11日截止；第二批2月14日截止  
+
+##### 作品集要求原文：
+
 You should upload up to five pieces of work which evidence your match and potential for meeting the aims of our programme. We expect to see evidence of great interest in using technology to push the boundaries of storytelling, as well as the ability to bring a critical perspective to the hype surrounding such technologies.
 
 Please include a short statement about each piece of work in the space provided and if any of the pieces of work involve collaboration please describe your contribution to the work too.
@@ -21,7 +23,7 @@ We welcome career changers, if you do not have a technical or time-based media b
 
 
 
-**视频要求原文：**   
+##### 视频要求原文：   
 
 You must submit a video of no more than two minutes as part of the application process.
 
