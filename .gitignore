@@ -2,3 +2,5 @@
 PUBLISH/_book
 
 
+.DS_Store
+PUBLISH/.DS_Store
